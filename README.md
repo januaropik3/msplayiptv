@@ -1,6 +1,6 @@
 # MSPlay IPTV
 
-![Channels](https://img.shields.io/badge/Channels-6,806-brightgreen): Automatic scraping and validation
+![Channels](https://img.shields.io/badge/Channels-6,727-brightgreen): Automatic scraping and validation
 - **⚡ Real-time**: GitHub Actions updates all playlists
 - **🔄 Always Fresh**: Latest channels automatically added/removed
 - **✅ Validated**: Only working channels included
@@ -56,12 +56,23 @@ Simply copy any URL above and paste it into your IPTV player:
 
 | Metric | Value |
 |--------|-------|
-| 📺 Total Channels | 6,806 |
+| 📺 Total Channels | 6,727 |
 | 🏷️ Categories | 8 |
 | 🌍 Sources | 2 |
-| 🕐 Last Updated | 2025-09-20 16:37:18 |
+| 🕐 Last Updated | 2025-09-20 17:27:13 |
 
 ### 📁 Categories
+
+| Category | Channels |
+|----------|----------|
+| Documentary | 79 |
+| Entertainment | 43 |
+| General | 3,087 |
+| Kids | 82 |
+| Movies | 759 |
+| Music | 221 |
+| News | 1,282 |
+| Sports | 1,174 |### 📁 Categories
 
 | Category | Channels |
 |----------|----------|

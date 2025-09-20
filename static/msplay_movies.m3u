@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-20 16:37:18 UTC
-# Total Channels: 771
+# Generated: 2025-09-20 17:27:13 UTC
+# Total Channels: 759
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MOVIES (771 channels) ======
+# ====== MOVIES (759 channels) ======
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211" group-title="AriaPlus - Australia",10 Comedy
 http://44.32.200.212:5004/auto/v11
@@ -455,9 +455,6 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Chicken.Little.2005.1080p.Bl
 #EXTINF:-1  tvg-name="CINEMAX EAST" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MoveOnJoy" radio="false",CINEMAX EAST
 https://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1  tvg-name="Cinemax Eastern Feed HD" tvg-id="cinemax-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="TVPass",Cinemax Eastern Feed HD
-https://tvpass.org/live/CinemaxEast/hd
-
 #EXTINF:-1  tvg-name="CINEMAX MOREMAX" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="MoveOnJoy" radio="false",CINEMAX MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
@@ -496,9 +493,6 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Cloudy.with.a.Chance.of.Meat
 
 #EXTINF:-1  tvg-name="Coco (2017)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DrewLive VOD" radio="false",Coco (2017)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Coco.2017.1080p.BluRay.H264.AAC-RARBG.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="AriaPlus - United States",Comedy Central
-https://tvpass.org/live/ComedyCentralEast/hd
 
 #EXTINF:-1  tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" group-title="DaddyLive USA",Comedy Central
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium310%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -596,6 +590,9 @@ https://a1xs.vip/300037
 #EXTINF:-1 tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png" group-title="AriaPlus - Canada",Disney Channel
 http://kstv.us:8080/live/Purn3542/38791114838/40725.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="AriaPlus - United States",Disney Channel
+https://tvpass.org/live/DisneyChannelEast/hd
+
 #EXTINF:-1  tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" group-title="DaddyLive USA",Disney Channel
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium312%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
@@ -617,8 +614,8 @@ https://a1xs.vip/300036
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="AriaPlus - United States",Disney Junior
 https://tvpass.org/live/DisneyJuniorEast/hd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="AriaPlus - United States",Disney XD
-https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1  tvg-name="Disney Junior USA East SD" tvg-id="disney-junior-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="TVPass",Disney Junior USA East SD
+https://tvpass.org/live/DisneyJuniorEast/sd
 
 #EXTINF:-1  tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="DaddyLive USA",Disney XD
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium314%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -878,6 +875,9 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Friday.Night.Lights.2004.108
 #EXTINF:-1  tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="DaddyLive USA",FX Movie Channel
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium381%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
+#EXTINF:-1  tvg-name="FX Movie Channel SD" tvg-id="fx-movie-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="TVPass",FX Movie Channel SD
+https://tvpass.org/live/FXMovieChannel/sd
+
 #EXTINF:-1  tvg-name="FXM" tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="MoveOnJoy" radio="false",FXM
 https://fl7.moveonjoy.com/FX_MOVIE/index.m3u8
 
@@ -971,9 +971,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951331/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1  tvg-name="Hallmark Family" tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="MoveOnJoy" radio="false",Hallmark Family
 https://fl7.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1  tvg-name="Hallmark Family HD SD" tvg-id="hallmark-family-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="TVPass",Hallmark Family HD SD
-https://tvpass.org/live/HallmarkDrama/sd
-
 #EXTINF:-1  tvg-name="Hallmark Movies & More" tvg-id="628e685ba3811100070551a8" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" tvg-chno="2080" group-title="PlutoTV - United Kingdom",Hallmark Movies & More
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 
@@ -988,9 +985,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 
 #EXTINF:-1  tvg-name="Hallmark Mystery" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="MoveOnJoy" radio="false",Hallmark Mystery
 https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-
-#EXTINF:-1  tvg-name="Hallmark Mystery Eastern HD SD" tvg-id="hallmark-mystery-eastern-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="TVPass",Hallmark Mystery Eastern HD SD
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 
 #EXTINF:-1  tvg-name="Halloween (1978)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DrewLive VOD" radio="false",Halloween (1978)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Halloween.1978.REMASTERED.1080p.BluRay.x265-RARBG.mp4
@@ -1022,11 +1016,14 @@ https://a1xs.vip/300005
 #EXTINF:-1  tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="DaddyLive USA",HBO Comedy USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium690%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1  tvg-name="HBO Eastern Feed SD" tvg-id="hbo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="TVPass",HBO Eastern Feed SD
-https://tvpass.org/live/HBOEast/sd
-
 #EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",HBO Family
 https://fl7.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1  tvg-name="HBO Family Eastern Feed HD" tvg-id="hbo-family-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="TVPass",HBO Family Eastern Feed HD
+https://tvpass.org/live/HBOFamilyEast/hd
+
+#EXTINF:-1  tvg-name="HBO Family Eastern Feed SD" tvg-id="hbo-family-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="TVPass",HBO Family Eastern Feed SD
+https://tvpass.org/live/HBOFamilyEast/sd
 
 #EXTINF:-1  tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-hz-us.png?raw=true" group-title="DaddyLive USA",HBO Family USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium691%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -1229,6 +1226,9 @@ https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
 #EXTINF:-1  tvg-id="GB37000067A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000067A_20250107T031145SQUARE.png" tvg-chno="4894" group-title="SamsungTVPlus - UK",Lifetime Movies
 https://jmp2.uk/stvp-GB37000067A
 
+#EXTINF:-1  tvg-name="Lifetime Movies East SD" tvg-id="lifetime-movies-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" group-title="TVPass",Lifetime Movies East SD
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
 #EXTINF:-1  tvg-name="Lifetime Movies Love & Drama" tvg-id="US1600002OK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20250812T003506SQUARE.png" tvg-chno="1226" group-title="PlutoTV - United States",Lifetime Movies Love & Drama
 https://jmp2.uk/stvp-US1600002OK
 
@@ -1360,9 +1360,6 @@ https://jmp2.uk/stvp-USBD3500036HP
 
 #EXTINF:-1 tvg-id="MovieTime.ca" tvg-logo="https://media.starlite.best/movietime.ca.png" group-title="AriaPlus - Canada",Movie Time
 http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
-
-#EXTINF:-1  tvg-name="MovieMax (Max 6) East SD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="TVPass",MovieMax (Max 6) East SD
-https://tvpass.org/live/MovieMaxEast/sd
 
 #EXTINF:-1  tvg-name="MovieSphere" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png" tvg-chno="1230" group-title="PlutoTV - United States",MovieSphere
 https://jmp2.uk/stvp-USBD17000117B
@@ -1694,17 +1691,8 @@ https://fl7.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1  tvg-name="Showtime 2" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MoveOnJoy" radio="false",Showtime 2
 https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1  tvg-name="Showtime 2 Eastern HD" tvg-id="showtime-2-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="TVPass",Showtime 2 Eastern HD
-https://tvpass.org/live/Showtime2East/hd
-
-#EXTINF:-1  tvg-name="Showtime 2 Eastern SD" tvg-id="showtime-2-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="TVPass",Showtime 2 Eastern SD
-https://tvpass.org/live/Showtime2East/sd
-
 #EXTINF:-1  tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="DaddyLive USA",Showtime 2 USA (SHO2) USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium792%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="Showtime Eastern Feed HD" tvg-id="paramount-with-showtime-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="TVPass",Showtime Eastern Feed HD
-https://tvpass.org/live/ShowtimeEast/hd
 
 #EXTINF:-1  tvg-name="Showtime Eastern Feed SD" tvg-id="paramount-with-showtime-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="TVPass",Showtime Eastern Feed SD
 https://tvpass.org/live/ShowtimeEast/sd
@@ -1864,12 +1852,6 @@ https://fl7.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1  tvg-name="Starz Comedy" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="MoveOnJoy" radio="false",Starz Comedy
 https://fl7.moveonjoy.com/STARZ_COMEDY/index.m3u8
-
-#EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="TVPass",Starz Eastern HD
-https://tvpass.org/live/StarzEast/hd
-
-#EXTINF:-1  tvg-name="Starz Eastern SD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="TVPass",Starz Eastern SD
-https://tvpass.org/live/StarzEast/sd
 
 #EXTINF:-1  tvg-name="Starz Edge" tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="MoveOnJoy" radio="false",Starz Edge
 https://fl7.moveonjoy.com/STARZ_EDGE/index.m3u8
@@ -2132,12 +2114,6 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Wood.1999.1080p.WEBRip.x
 #EXTINF:-1  tvg-name="Thrillers 365" tvg-id="62fb6da41afad500077e9178" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" tvg-chno="61" group-title="PlutoTV - Canada",Thrillers 365
 https://jmp2.uk/plu-62fb6da41afad500077e9178.m3u8
 
-#EXTINF:-1  tvg-name="TMC (US) Eastern Feed HD" tvg-id="tmc-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="TVPass",TMC (US) Eastern Feed HD
-https://tvpass.org/live/TheMovieChannelEast/hd
-
-#EXTINF:-1  tvg-name="TMC (US) Eastern Feed SD" tvg-id="tmc-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-us.png?raw=true" group-title="TVPass",TMC (US) Eastern Feed SD
-https://tvpass.org/live/TheMovieChannelEast/sd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="AriaPlus - United States",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
@@ -2186,12 +2162,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tru-tv-us.png" group-title="AriaPlus - United States",TruTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1  tvg-name="Turner Classic Movies USA HD" tvg-id="turner-classic-movies-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tcm-us.png?raw=true" group-title="TVPass",Turner Classic Movies USA HD
-https://tvpass.org/live/TCMEast/hd
-
-#EXTINF:-1  tvg-name="Turner Classic Movies USA SD" tvg-id="turner-classic-movies-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tcm-us.png?raw=true" group-title="TVPass",Turner Classic Movies USA SD
-https://tvpass.org/live/TCMEast/sd
-
 #EXTINF:-1  tvg-name="TuWarner" tvg-id="6732497f3a61d400087a53b0" tvg-logo="https://images.pluto.tv/channels/6732497f3a61d400087a53b0/colorLogoPNG.png" tvg-chno="4235" group-title="PlutoTV - United Kingdom",TuWarner
 https://jmp2.uk/plu-6732497f3a61d400087a53b0.m3u8
 
@@ -2224,12 +2194,6 @@ https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 
 #EXTINF:-1  tvg-name="Universal Crime" tvg-id="99951245" tvg-logo="https://image.xumo.com/v1/channels/channel/99951245/168x168.png?type=color_onBlack" group-title="Xumo Streams",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?ads.xumo_channelId=99951245&ads.asnw=169843&ads.afid=380752676&ads.sfid=19194700&ads.csid=xumo_web_NBCUUniversalCrime_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0b2061c1-10b4-4029-a005-fa85ca19ddcf&ads._fw_vcid2=512116:0b2061c1-10b4-4029-a005-fa85ca19ddcf&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3939&ads.xumo_contentName=NBCUUniversalCrime&ads.xumo_providerId=3939&ads.xumo_providerName=NBCUUniversalCrime&ads.channelId=99951245&ads._fw_ifa_type=
-
-#EXTINF:-1  tvg-name="Universal Kids HD" tvg-id="universal-kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" group-title="TVPass",Universal Kids HD
-https://tvpass.org/live/UniversalKidsEast/hd
-
-#EXTINF:-1  tvg-name="Universal Kids SD" tvg-id="universal-kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" group-title="TVPass",Universal Kids SD
-https://tvpass.org/live/UniversalKidsEast/sd
 
 #EXTINF:-1  tvg-name="Universal Monsters" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png" tvg-chno="905" group-title="PlutoTV - United Kingdom",Universal Monsters
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8

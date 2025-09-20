@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-20 16:37:18 UTC
-# Total Channels: 3,124
+# Generated: 2025-09-20 17:27:13 UTC
+# Total Channels: 3,087
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== GENERAL (3124 channels) ======
+# ====== GENERAL (3087 channels) ======
 
 #EXTINF:-1  tvg-id="GB3700007OZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250624T021650SQUARE.png" tvg-chno="4245" group-title="SamsungTVPlus - UK",&TV
 https://jmp2.uk/stvp-GB3700007OZ
@@ -1022,6 +1022,9 @@ https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="AriaPlus - United States",ABC (WABC)
 http://108.14.66.42:5004/auto/v7.1
 
+#EXTINF:-1  tvg-name="ABC (WABC) New York" tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY HD
+https://tvpass.org/live/WNET/hd
+
 #EXTINF:-1  tvg-name="ABC (WABC) New York " tvg-id="abc-wabc-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-garnet-us.png?raw=true" group-title="TVPass",NY SD
 https://tvpass.org/live/WNET/sd
 
@@ -1060,6 +1063,12 @@ https://fl7.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1  tvg-name="ACC Network HD" tvg-id="ACC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="A1xmedia US Sports" radio="false",ACC Network HD
 https://a1xs.vip/40000016
+
+#EXTINF:-1  tvg-name="ACC Network HD" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="TVPass",ACC Network HD
+https://tvpass.org/live/ACCNetwork/hd
+
+#EXTINF:-1  tvg-name="ACC Network SD" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="TVPass",ACC Network SD
+https://tvpass.org/live/ACCNetwork/sd
 
 #EXTINF:-1  tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="DaddyLive USA",ACC Network USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium664%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -1241,11 +1250,14 @@ https://jmp2.uk/rok-86c08261fc015a58866210bea63eb8f4.m3u8
 #EXTINF:-1  tvg-id="CABA3700001DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700001DB_20250121T201616SQUARE.png" tvg-chno="2684" group-title="SamsungTVPlus - CA",Always Funny Videos
 https://jmp2.uk/stvp-CABA3700001DB
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="AriaPlus - United States",AMC
-https://tvpass.org/live/AMC/hd
-
 #EXTINF:-1  tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",AMC
 https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1  tvg-name="AMC Eastern Feed HD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed HD
+https://tvpass.org/live/AMCEast/hd
+
+#EXTINF:-1  tvg-name="AMC Eastern Feed SD" tvg-id="amc-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" group-title="TVPass",AMC Eastern Feed SD
+https://tvpass.org/live/AMCEast/sd
 
 #EXTINF:-1  tvg-name="AMC en Español" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" tvg-chno="3809" group-title="PlutoTV - United States",AMC en Español
 https://jmp2.uk/stvp-USBD7000017L
@@ -1276,6 +1288,9 @@ https://jmp2.uk/stvp-USBD42000250Q
 
 #EXTINF:-1  tvg-name="American Heroes Channel" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",American Heroes Channel
 https://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
+#EXTINF:-1  tvg-name="American Heroes Channel SD" tvg-id="american-heroes-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" group-title="TVPass",American Heroes Channel SD
+https://tvpass.org/live/AmericanHeroesChannel/sd
 
 #EXTINF:-1  tvg-name="American Ninja Warrior" tvg-id="US19000017A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000017A_20240730T012806SQUARE.png" tvg-chno="2718" group-title="PlutoTV - United States",American Ninja Warrior
 https://jmp2.uk/stvp-US19000017A
@@ -1439,23 +1454,20 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" tvg-id="ArirangWorld.kr" group-title="UK",Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona State Sun Devils @ Baylor Bears (09/20 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arizona State Sun Devils @ Baylor Bears (09/20 7:30 Pm Et) Sd
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona State Sun Devils @ Baylor Bears - 9/20/25, 11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Arizona State Sun Devils @ Baylor Bears - 9/20/25 - 11:30:00 PM UTC HD
+https://v12.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=BRImBsVfAjrMONU3iFLh6Q&expires=1758404325&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
+
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arizona State Sun Devils @ Baylor Bears - 9/20/25, 11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Arizona State Sun Devils @ Baylor Bears - 9/20/25 - 11:30:00 PM UTC SD
 https://v16.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=TiwbctM0Fnr72Hd4rI0hqA&expires=1758404320&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arkansas Razorbacks @ Memphis Tigers (09/20 12:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arkansas Razorbacks @ Memphis Tigers (09/20 12:00 Pm Et) Hd
-https://tvpass.org/live/WABCDT1/hd
 
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arkansas Razorbacks @ Memphis Tigers - 9/20/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Arkansas Razorbacks @ Memphis Tigers - 9/20/25 - 4:00:00 PM UTC HD
 https://e5.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=_AQPI0BvMy31FIGYtfaciQ&expires=1758403962&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arkansas Razorbacks @ Memphis Tigers - 9/20/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Arkansas Razorbacks @ Memphis Tigers - 9/20/25 - 4:00:00 PM UTC SD
 https://e1.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8?token=r2u7PSFUYFCK0LBLt9Wc4Q&expires=1758403957&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arkansas State Red Wolves @ Kennesaw State Owls (09/20 6:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arkansas State Red Wolves @ Kennesaw State Owls (09/20 6:00 Pm Et) Hd
-https://tvpass.org/live/NCAAF08/hd
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Arkansas State Red Wolves @ Kennesaw State Owls (09/20 6:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Arkansas State Red Wolves @ Kennesaw State Owls (09/20 6:00 Pm Et) Sd
-https://tvpass.org/live/NCAAF08/sd
 
 #EXTINF:-1 tvg-name="Aryen TV" tvg-logo="https://i.imgur.com/qUg7edz.png" tvg-id="AryenTV.se" group-title="Sweden",Aryen TV
 https://aryen.tv/live/tv/playlist.m3u8
@@ -1471,12 +1483,6 @@ https://a1xs.vip/1100031
 
 #EXTINF:-1 group-title="JapanTV" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://mt01.utako.moe/AT-X/index.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Detroit Tigers (09/20 1:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Atlanta Braves @ Detroit Tigers (09/20 1:11 Pm Et) Hd
-https://tvpass.org/live/MLB23/hd
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Detroit Tigers - 9/20/25, 5:11:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Atlanta Braves @ Detroit Tigers - 9/20/25 - 5:11:00 PM UTC HD
-https://v12.thetvapp.to/hls/MLB23/tracks-v1a1/mono.m3u8?token=r7vjeHPP1CWBP-VXZPtE0Q&expires=1758403751&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves @ Detroit Tigers - 9/20/25, 5:11:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Atlanta Braves @ Detroit Tigers - 9/20/25 - 5:11:00 PM UTC SD
 https://v12.thetvapp.to/hls/MLB23/tracks-v2a1/mono.m3u8?token=UOVyB_9G65XOYg8AIl5kVQ&expires=1758403747&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
@@ -1501,9 +1507,6 @@ https://jmp2.uk/plu-66fd394e9269330008413302.m3u8
 
 #EXTINF:-1  tvg-name="AWSN" tvg-id="682e43b21295f98347710917" tvg-logo="https://images.pluto.tv/channels/682e43b21295f98347710917/colorLogoPNG_1748886692805.png" tvg-chno="2900" group-title="PlutoTV - United Kingdom",AWSN
 https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
-
-#EXTINF:-1  tvg-name="Ax Men" tvg-id="6540fe4bbdf3cf0008aa2cdd" tvg-logo="https://images.pluto.tv/channels/6540fe4bbdf3cf0008aa2cdd/colorLogoPNG.png" tvg-chno="459" group-title="PlutoTV - Canada",Ax Men
-https://jmp2.uk/plu-6540fe4bbdf3cf0008aa2cdd.m3u8
 
 #EXTINF:-1  tvg-name="Ax Men" tvg-id="USBB5200020Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20250520T211340SQUARE.png" tvg-chno="2744" group-title="PlutoTV - United States",Ax Men
 https://jmp2.uk/stvp-USBB5200020Z0
@@ -1540,9 +1543,6 @@ https://jmp2.uk/stvp-USBC10000129R
 
 #EXTINF:-1  tvg-name="Backstage" tvg-id="2a243861dea754eabb13a92e1106a4af" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/2a243861dea754eabb13a92e1106a4af/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735747556121_roku_logo_centered_260x147.png" tvg-chno="561" group-title="RokuTV",Backstage
 https://jmp2.uk/rok-2a243861dea754eabb13a92e1106a4af.m3u8
-
-#EXTINF:-1  tvg-name="Bad Girls Club" tvg-id="654932fa4d6d8f00084c4723" tvg-logo="https://images.pluto.tv/channels/654932fa4d6d8f00084c4723/colorLogoPNG.png" tvg-chno="1800" group-title="PlutoTV - United Kingdom",Bad Girls Club
-https://jmp2.uk/plu-654932fa4d6d8f00084c4723.m3u8
 
 #EXTINF:-1  tvg-name="Bad Girls Club" tvg-id="US1800008PZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800008PZ_20240919T222407SQUARE.png" tvg-chno="1940" group-title="PlutoTV - United States",Bad Girls Club
 https://jmp2.uk/stvp-US1800008PZ
@@ -1619,14 +1619,14 @@ http://128.230.54.128:5004/auto/v40.2
 #EXTINF:-1  tvg-name="BET" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",BET
 https://fl7.moveonjoy.com/BET_EAST/index.m3u8
 
+#EXTINF:-1  tvg-name="BET Eastern Feed HD" tvg-id="bet-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" group-title="TVPass",BET Eastern Feed HD
+https://tvpass.org/live/BETEast/hd
+
 #EXTINF:-1  tvg-name="BET GOSPEL" tvg-id="BETGOSPEL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="MoveOnJoy" radio="false",BET GOSPEL
 https://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8
 
 #EXTINF:-1  tvg-name="BET HER" tvg-id="BET.Her.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",BET HER
 https://fl7.moveonjoy.com/BET_HER/index.m3u8
-
-#EXTINF:-1  tvg-name="BET Her SD" tvg-id="bet-her" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-her-us.png?raw=true" group-title="TVPass",BET Her SD
-https://tvpass.org/live/BETHerEast/sd
 
 #EXTINF:-1  tvg-name="BET Jams" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="MoveOnJoy" radio="false",BET Jams
 https://fl7.moveonjoy.com/BET_Jams/index.m3u8
@@ -1775,9 +1775,6 @@ http://user.scalecdn.co:8080/live/26725074/92867131/511290.ts
 #EXTINF:-1  tvg-id="GBBD4100006KV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20250610T011248SQUARE.png" tvg-chno="4292" group-title="SamsungTVPlus - UK",Born to Kill
 https://jmp2.uk/stvp-GBBD4100006KV
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Tampa Bay Rays (09/20 7:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Boston Red Sox @ Tampa Bay Rays (09/20 7:06 Pm Et) Hd
-https://tvpass.org/live/MLB17/hd
-
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ Tampa Bay Rays - 9/20/25, 11:06:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Boston Red Sox @ Tampa Bay Rays - 9/20/25 - 11:06:00 PM UTC HD
 https://v14.thetvapp.to/hls/MLB17/tracks-v1a1/mono.m3u8?token=cnWzl6Xaz9NYhQ1jWKZbqg&expires=1758403815&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
@@ -1811,6 +1808,9 @@ https://jmp2.uk/stvp-USBC240001823
 #EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="AriaPlus - Canada",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="AriaPlus - United States",Bravo
+https://tvpass.org/live/BravoEast/hd
+
 #EXTINF:-1  tvg-name="BRAVO" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",BRAVO
 https://fl7.moveonjoy.com/BRAVO/index.m3u8
 
@@ -1819,9 +1819,6 @@ https://i.mjh.nz/.r/bravo-plus1.m3u8
 
 #EXTINF:-1  tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="DaddyLive USA",Bravo USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium307%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="Bravo USA Eastern Feed SD" tvg-id="bravo-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="TVPass",Bravo USA Eastern Feed SD
-https://tvpass.org/live/BravoEast/sd
 
 #EXTINF:-1  tvg-name="Bravo Vault" tvg-id="6549310a53fc97000838fcc9" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" tvg-chno="1780" group-title="PlutoTV - United Kingdom",Bravo Vault
 https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
@@ -1903,9 +1900,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 
 #EXTINF:-1  tvg-name="C-SPAN" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",C-SPAN
 https://fl7.moveonjoy.com/C-SPAN/index.m3u8
-
-#EXTINF:-1  tvg-name="C-SPAN 2 SD" tvg-id="cspan-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-2-us.png?raw=true" group-title="TVPass",C-SPAN 2 SD
-https://tvpass.org/live/CSPAN2/sd
 
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N Ⓨ
 https://www.youtube.com/c/c5n/live
@@ -2032,6 +2026,9 @@ https://jmp2.uk/stvp-US700007CV
 
 #EXTINF:-1 tvg-id="CBOT.HDTV.(CBOTHD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/cbc-ottawa-ca.png" group-title="AriaPlus - Canada",CBC Ottawa (CBOT)
 http://38.143.48.212:9981/stream/channelid/677345170?profile=pass
+
+#EXTINF:-1  tvg-name="CBS (KCBS) Los Angeles HD" tvg-id="cbs-kcbs-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TVPass",CBS (KCBS) Los Angeles HD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 
 #EXTINF:-1  tvg-name="CBS (KKTV)" tvg-id="CBS.(KKTV).Colorado.Springs,.CO.HD.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS2.png" group-title="MoveOnJoy" radio="false",CBS (KKTV)
 https://tinyurl.com/cbskktv2423
@@ -2243,12 +2240,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1  tvg-name="Cleo TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",Cleo TV
 https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Minnesota Twins (09/20 2:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cleveland Guardians @ Minnesota Twins (09/20 2:11 Pm Et) Hd
-https://tvpass.org/live/MLB10/hd
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Minnesota Twins (09/20 2:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Cleveland Guardians @ Minnesota Twins (09/20 2:11 Pm Et) Sd
-https://tvpass.org/live/MLB10/sd
-
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Minnesota Twins - 9/20/25, 6:11:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Cleveland Guardians @ Minnesota Twins - 9/20/25 - 6:11:00 PM UTC HD
 https://e1.thetvapp.to/hls/MLB10/tracks-v1a1/mono.m3u8?token=C81jBsdK6MQtXGolEhVQfg&expires=1758403761&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
@@ -2366,6 +2357,9 @@ https://jmp2.uk/stvp-US2900005NW
 #EXTINF:-1  tvg-id="CA2900005KG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900005KG_20250318T021235SQUARE.png" tvg-chno="4584" group-title="SamsungTVPlus - CA",Cozy Vibes
 https://jmp2.uk/stvp-CA2900005KG
 
+#EXTINF:-1  tvg-name="CP24" tvg-id="CP24.(CablePulse.24).ca" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="A1xmedia CA Channels" radio="false",CP24
+https://a1xs.vip/610001
+
 #EXTINF:-1 tvg-id="cpac.francais.ca" tvg-logo="https://media.starlite.best/cpac.francais.ca.png" group-title="AriaPlus - Canada",CPAC
 http://38.143.48.212:9981/stream/channelid/1514524920?profile=pass
 
@@ -2482,6 +2476,9 @@ http://plyr.streamlinecsn.online/memfs/73188a9a-ff81-487c-867f-15b7be6c6ccd.m3u8
 
 #EXTINF:-1  tvg-name="CStylex" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",CStylex
 https://cdn.baddiehub.com/AMH.mp4
+
+#EXTINF:-1  tvg-name="CTV 2" tvg-id="CTV2.Toronto,.ON.ca" tvg-logo="https://i.imgur.com/T2uS3V6.png" group-title="A1xmedia CA Channels" radio="false",CTV 2
+https://a1xs.vip/610003
 
 #EXTINF:-1  tvg-name="CTV 2" tvg-id="CBC.News.Network.ca" tvg-logo="https://i.imgur.com/kXIXzxH.png" group-title="A1xmedia CA Channels" radio="false",CBC News Network
 https://a1xs.vip/610004
@@ -2612,9 +2609,6 @@ https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
 #EXTINF:-1 tvg-name="DD Bharati Ⓨ" tvg-logo="https://i.imgur.com/4tfUIEo.png" tvg-id="DDBharati.in" group-title="India",DD Bharati Ⓨ
 https://www.youtube.com/@ddbharati/live
 
-#EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="News",DD India
-https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
-
 #EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="India",DD India Ⓨ
 https://www.youtube.com/DDIndia/live
 
@@ -2683,9 +2677,6 @@ https://jmp2.uk/rok-d89b6124edce5dc0a4dfe42a8026353a.m3u8
 
 #EXTINF:-1 tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png" group-title="AriaPlus - Canada",Deja View
 http://38.143.48.212:9981/stream/channelid/1478849894?profile=pass
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Delaware Blue Hens @ Florida International Panthers (09/20 6:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Delaware Blue Hens @ Florida International Panthers (09/20 6:00 Pm Et) Hd
-https://tvpass.org/live/NCAAF09/hd
 
 #EXTINF:-1 tvg-name="Delfi TV" tvg-logo="https://i.imgur.com/IFoHP5M.png" tvg-id="DelfiTV.lt" group-title="Lithuania",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
@@ -3179,6 +3170,9 @@ https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1  tvg-name="FOOD NETWORK" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",FOOD NETWORK
 https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
+#EXTINF:-1  tvg-name="Food Network USA Eastern Feed SD" tvg-id="food-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" group-title="TVPass",Food Network USA Eastern Feed SD
+https://tvpass.org/live/FoodNetworkEast/sd
+
 #EXTINF:-1  tvg-name="Forensic Files" tvg-id="62e92392a3e6270007f562e8" tvg-logo="https://images.pluto.tv/channels/62e92392a3e6270007f562e8/colorLogoPNG.png" tvg-chno="259" group-title="PlutoTV - Canada",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 
@@ -3241,9 +3235,6 @@ https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8
 
 #EXTINF:-1  tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" group-title="DaddyLive USA",Fox Weather Channel
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium775%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="UK",France 24
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1  tvg-id="GBBD1100002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20250107T030646SQUARE.png" tvg-chno="4561" group-title="SamsungTVPlus - UK",FRANCE 24 FAST
 https://jmp2.uk/stvp-GBBD1100002L5
@@ -3356,8 +3347,8 @@ https://fl7.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1  tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="DaddyLive USA",FXX USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium298%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1  tvg-name="FXX USA Eastern SD" tvg-id="fxx-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="TVPass",FXX USA Eastern SD
-https://tvpass.org/live/FXXEast/sd
+#EXTINF:-1  tvg-name="FXX USA Eastern HD" tvg-id="fxx-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="TVPass",FXX USA Eastern HD
+https://tvpass.org/live/FXXEast/hd
 
 #EXTINF:-1 tvg-id="FXX.Networks.Canada.ca" tvg-logo="https://media.starlite.best/fxx.canada.ca.png" group-title="AriaPlus - Canada",FXX West
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112885.ts
@@ -3370,9 +3361,6 @@ https://fl7.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1  tvg-name="FYI USA Eastern HD" tvg-id="fyi-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="TVPass",FYI USA Eastern HD
 https://tvpass.org/live/FYIEast/hd
-
-#EXTINF:-1  tvg-name="FYI USA Eastern SD" tvg-id="fyi-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="TVPass",FYI USA Eastern SD
-https://tvpass.org/live/FYIEast/sd
 
 #EXTINF:-1  tvg-name="Galanes" tvg-id="USBD2700002DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20241228T011511SQUARE.png" tvg-chno="3960" group-title="PlutoTV - United States",Galanes
 https://jmp2.uk/stvp-USBD2700002DU
@@ -3560,9 +3548,6 @@ https://jmp2.uk/stvp-GB500004YN
 #EXTINF:-1  tvg-name="Hallmark Channel" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="MoveOnJoy" radio="false",Hallmark Channel
 https://fl7.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
-#EXTINF:-1  tvg-name="Hallmark Eastern Feed HD" tvg-id="hallmark-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="TVPass",Hallmark Eastern Feed HD
-https://tvpass.org/live/HallmarkChannelEast/hd
-
 #EXTINF:-1  tvg-name="Hallmark en espaÃ±ol" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" tvg-chno="4170" group-title="PlutoTV - United Kingdom",Hallmark en espaÃ±ol
 https://jmp2.uk/plu-6532e7b290a74c00084a3bb6.m3u8
 
@@ -3606,13 +3591,16 @@ https://live-content.xumo.com/260/content/XM0NS6QK2PQGIR/22430689/master.m3u8
 https://live-manifest.production-public.tubi.io/live/33df563a-88ee-46d9-9cc1-3459f2e90710/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="AriaPlus - Canada",HGTV
-http://kstv.us:8080/live/Purn3542/38791114838/40695.ts
+http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
 
 #EXTINF:-1 tvg-id="HGTV.CA.ca" tvg-logo="https://i.ibb.co/WNVR55Q2/HGTV-2010-svg.png" group-title="AriaPlus - Canada",HGTV
-http://38.143.48.212:9981/stream/channelid/340929362?profile=pass
+http://kstv.us:8080/live/Purn3542/38791114838/40695.ts
 
 #EXTINF:-1  tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" group-title="DaddyLive USA",HGTV
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium382%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1  tvg-name="HGTV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",HGTV
+https://fl7.moveonjoy.com/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV – Home & Garden Tv" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-id="HGTVItaly.it" group-title="Italy",HGTV – Home & Garden Tv
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
@@ -3643,6 +3631,9 @@ https://jmp2.uk/stvp-US2600019IC
 
 #EXTINF:-1  tvg-name="HLN" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",HLN
 https://fl7.moveonjoy.com/HLN/index.m3u8
+
+#EXTINF:-1  tvg-name="HLN SD" tvg-id="hln" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" group-title="TVPass",HLN SD
+https://tvpass.org/live/HLN/sd
 
 #EXTINF:-1  tvg-name="HMR" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",HMR
 https://cdn.baddiehub.com/vdfx.mp4
@@ -3743,9 +3734,6 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:-1  tvg-name="HSN" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" group-title="MoveOnJoy" radio="false",HSN
 https://fl7.moveonjoy.com/HSN/index.m3u8
 
-#EXTINF:-1  tvg-name="HSN" tvg-id="5f8a02476b72230007e62b7d" tvg-logo="https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" tvg-chno="2510" group-title="PlutoTV - United Kingdom",HSN
-https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
-
 #EXTINF:-1  tvg-name="HSN" tvg-id="0057bb20ce6c5717a5a025f2a73b682a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0057bb20ce6c5717a5a025f2a73b682a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666302963501_RokuChannel_HUD_Image-2_260x147.png" tvg-chno="439" group-title="RokuTV",HSN
 https://jmp2.uk/rok-0057bb20ce6c5717a5a025f2a73b682a.m3u8
 
@@ -3793,9 +3781,6 @@ https://jmp2.uk/stvp-USBD1700008H9
 
 #EXTINF:-1 tvg-name="IB3 Global Ⓨ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png" tvg-id="IB3.es" group-title="Spain",IB3 Global Ⓨ
 https://www.youtube.com/c/ib3/live
-
-#EXTINF:-1  tvg-name="iCarly TV" tvg-id="6450209d939a5900084dba1d" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png" tvg-chno="3790" group-title="PlutoTV - United Kingdom",iCarly TV
-https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 
 #EXTINF:-1 tvg-name="Icaro Tv Rimini" tvg-logo="https://i.imgur.com/z05VSSN.png" group-title="Italy",Icaro Tv Rimini
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
@@ -3925,9 +3910,6 @@ https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
 
 #EXTINF:-1  tvg-name="ION" tvg-id="USBD300002TU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20250623T224714SQUARE.png" tvg-chno="1510" group-title="PlutoTV - United States",ION
 https://jmp2.uk/stvp-USBD300002TU
-
-#EXTINF:-1  tvg-name="ION Eastern Feed HD" tvg-id="ion-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="TVPass",ION Eastern Feed HD
-https://tvpass.org/live/IONTVEast/hd
 
 #EXTINF:-1  tvg-name="ION Eastern Feed SD" tvg-id="ion-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="TVPass",ION Eastern Feed SD
 https://tvpass.org/live/IONTVEast/sd
@@ -4445,6 +4427,9 @@ https://fl7.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1  tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-us.png?raw=true" group-title="DaddyLive USA",Lifetime Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium326%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
+#EXTINF:-1  tvg-name="Lifetime Network US Eastern Feed HD" tvg-id="lifetime-network-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" group-title="TVPass",Lifetime Network US Eastern Feed HD
+https://tvpass.org/live/LifetimeEast/hd
+
 #EXTINF:-1 tvg-id="Lifetime.TV.-.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/lifetime-us.png" group-title="AriaPlus - Canada",Lifetime TV
 http://38.143.48.212:9981/stream/channelid/1090723913?profile=pass
 
@@ -4481,17 +4466,17 @@ https://live.amperwave.net/direct/audacy-kalvfmaac-imc
 #EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 1
 https://a1xs.vip/ppv1
 
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 3
+https://a1xs.vip/ppv3
+
 #EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 2
 https://a1xs.vip/ppv2
-
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 5
-https://a1xs.vip/ppv5
 
 #EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 4
 https://a1xs.vip/ppv4
 
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 3
-https://a1xs.vip/ppv3
+#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 5
+https://a1xs.vip/ppv5
 
 #EXTINF:-1  tvg-name="Live PD Presents" tvg-id="US160000159" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US160000159_20250805T005823SQUARE.png" tvg-chno="1846" group-title="PlutoTV - United States",Live PD Presents
 https://jmp2.uk/stvp-US160000159
@@ -4802,9 +4787,6 @@ https://fl7.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/metv_toons_bw.png" group-title="AriaPlus - United States",MeTV Toons
 http://108.14.66.42:5004/auto/v43.4
 
-#EXTINF:-1  tvg-name="MeTV Toons (WJLP2) New Jersey HD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="TVPass",MeTV Toons (WJLP2) New Jersey HD
-https://tvpass.org/live/metv-toons/hd
-
 #EXTINF:-1  tvg-name="MeTV Toons (WJLP2) New Jersey SD" tvg-id="metv-toons-wjlp2-new-jersey" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="TVPass",MeTV Toons (WJLP2) New Jersey SD
 https://tvpass.org/live/metv-toons/sd
 
@@ -4834,9 +4816,6 @@ http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Mia%20Malkova%20%26%20Kira%20
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Texas Rangers (09/20 7:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Miami Marlins @ Texas Rangers (09/20 7:05 Pm Et) Hd
 https://tvpass.org/live/MLB28/hd
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Texas Rangers (09/20 7:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Miami Marlins @ Texas Rangers (09/20 7:05 Pm Et) Sd
-https://tvpass.org/live/MLB28/sd
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Texas Rangers - 9/20/25, 11:05:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Miami Marlins @ Texas Rangers - 9/20/25 - 11:05:00 PM UTC HD
 https://v4.thetvapp.to/hls/MLB28/tracks-v1a1/mono.m3u8?token=NqVkzX6HGUbZg6Xx0v9v6w&expires=1758403797&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
@@ -4885,12 +4864,6 @@ https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
 
 #EXTINF:-1  tvg-name="Million Dollar Listing Vault" tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20241228T011357SQUARE.png" tvg-chno="2035" group-title="PlutoTV - United States",Million Dollar Listing Vault
 https://jmp2.uk/stvp-USBB3200024V5
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ St. Louis Cardinals (09/20 7:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Milwaukee Brewers @ St. Louis Cardinals (09/20 7:16 Pm Et) Hd
-https://tvpass.org/live/MLB19/hd
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ St. Louis Cardinals (09/20 7:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Milwaukee Brewers @ St. Louis Cardinals (09/20 7:16 Pm Et) Sd
-https://tvpass.org/live/MLB19/sd
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers @ St. Louis Cardinals - 9/20/25, 11:16:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Milwaukee Brewers @ St. Louis Cardinals - 9/20/25 - 11:16:00 PM UTC HD
 https://v17.thetvapp.to/hls/MLB19/tracks-v1a1/mono.m3u8?token=FesIsuYA-l2nNZyH_pLwuQ&expires=1758403851&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
@@ -4979,6 +4952,9 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1  tvg-name="MORE4 FHD" tvg-id="More4.HD.uk" tvg-logo="https://i.imgur.com/cUMgPAZ.png" group-title="A1xmedia UK Channels" radio="false",More4 FHD
 https://a1xs.vip/1000034
 
+#EXTINF:-1  tvg-name="MoreMax Eastern HD" tvg-id="moremax-eastern" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MoreMAX.png" group-title="TVPass",MoreMax Eastern HD
+https://tvpass.org/live/MoreMaxEast/hd
+
 #EXTINF:-1  tvg-name="Mountain Men" tvg-id="USBD17000051M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20250630T232520SQUARE.png" tvg-chno="1982" group-title="PlutoTV - United States",Mountain Men
 https://jmp2.uk/stvp-USBD17000051M
 
@@ -5013,10 +4989,10 @@ https://a1xs.vip/4000002
 https://jmp2.uk/rok-1f62c81a73575fdca9fdc8a36c55d8b9.m3u8
 
 #EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
-http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112805.ts
+http://38.143.48.212:9981/stream/channelid/1454901099?profile=pass
 
 #EXTINF:-1 tvg-id="much.music.ca" tvg-logo="https://media.starlite.best/much.music.ca.png" group-title="AriaPlus - Canada",Much
-http://38.143.48.212:9981/stream/channelid/1454901099?profile=pass
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112805.ts
 
 #EXTINF:-1  tvg-name="MUCH" tvg-id="Much.Music.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" group-title="MoveOnJoy" radio="false",MUCH
 https://fl7.moveonjoy.com/MUCH/index.m3u8
@@ -5207,9 +5183,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Baltimore Orioles (09/20 7:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Baltimore Orioles (09/20 7:06 Pm Et) Hd
 https://tvpass.org/live/MLB26/hd
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Baltimore Orioles (09/20 7:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",New York Yankees @ Baltimore Orioles (09/20 7:06 Pm Et) Sd
-https://tvpass.org/live/MLB26/sd
-
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees @ Baltimore Orioles - 9/20/25, 11:06:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",New York Yankees @ Baltimore Orioles - 9/20/25 - 11:06:00 PM UTC HD
 https://v2.thetvapp.to/hls/MLB26/tracks-v1a1/mono.m3u8?token=9kXR7uKWPVrndHzGsuMt6A&expires=1758403806&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
@@ -5252,12 +5225,6 @@ https://fl7.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1  tvg-id="NHL.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="DaddyLive USA",NHL Network USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium663%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1  tvg-name="NHL Network USA HD" tvg-id="nhl-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="TVPass",NHL Network USA HD
-https://tvpass.org/live/NHLNetwork/hd
-
-#EXTINF:-1  tvg-name="NHL Network USA SD" tvg-id="nhl-network-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="TVPass",NHL Network USA SD
-https://tvpass.org/live/NHLNetwork/sd
-
 #EXTINF:-1  tvg-name="NHRA TV" tvg-id="USBC3200019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20240528T020722SQUARE.png" tvg-chno="2540" group-title="PlutoTV - United States",NHRA TV
 https://jmp2.uk/stvp-USBC3200019WF
 
@@ -5282,6 +5249,9 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1  tvg-name="Nick Pluto TV" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" tvg-chno="3610" group-title="PlutoTV - United States",Nick Pluto TV
 https://jmp2.uk/stvp-USBA3000158L
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png" group-title="AriaPlus - United States",Nicktoons
+https://tvpass.org/live/NicktoonsEast/hd
+
 #EXTINF:-1  tvg-id="Nicktoons.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="DaddyLive USA",Nicktoons
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium649%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
@@ -5290,9 +5260,6 @@ https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1  tvg-name="NickToons" tvg-id="654ca7f92c1d3300086b608c" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" tvg-chno="612" group-title="PlutoTV - Canada",NickToons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
-
-#EXTINF:-1  tvg-name="Nicktoons East SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TVPass",Nicktoons East SD
-https://tvpass.org/live/NicktoonsEast/sd
 
 #EXTINF:-1  tvg-name="Nico Luva" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Nico Luva
 https://cdn.baddiehub.com/NcLva.mp4
@@ -5420,6 +5387,9 @@ http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
 https://mt01.utako.moe/Nippon_TV/index.m3u8
 
+#EXTINF:-1  tvg-name="NTV" tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ntv-cjon-dt-ca.png?raw=true" group-title="MoveOnJoy" radio="false",NTV
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Nuova Tv 1" tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="Italy",Nuova Tv 1
 https://nuovatv.net:8443/tv/stream.m3u8
 
@@ -5431,9 +5401,6 @@ https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 
 #EXTINF:-1  tvg-name="Nympho Candy" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Nympho Candy
 https://cdn.baddiehub.com/yNiZ.mp4
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Pittsburgh Pirates (09/20 6:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Oakland Athletics @ Pittsburgh Pirates (09/20 6:40 Pm Et) Hd
-https://tvpass.org/live/MLB16/hd
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Pittsburgh Pirates (09/20 6:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Oakland Athletics @ Pittsburgh Pirates (09/20 6:40 Pm Et) Sd
 https://tvpass.org/live/MLB16/sd
@@ -5489,9 +5456,6 @@ https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
 #EXTINF:-1 tvg-name="Onda Tv Sicilia" tvg-logo="https://i.imgur.com/0c5Y6lr.png" group-title="Italy",Onda Tv Sicilia
 https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 
-#EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" tvg-chno="2875" group-title="PlutoTV - United Kingdom",ONE Championship TV
-https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
-
 #EXTINF:-1  tvg-name="One Championship TV" tvg-id="US2600006VY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png" tvg-chno="2352" group-title="PlutoTV - United States",One Championship TV
 https://jmp2.uk/stvp-US2600006VY
 
@@ -5522,11 +5486,11 @@ https://fl7.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1  tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="DaddyLive USA",Oprah Winfrey Network (OWN)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium331%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern HD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="TVPass",Oprah Winfrey Network USA Eastern HD
-https://tvpass.org/live/OWNEast/hd
-
 #EXTINF:-1  tvg-name="Oprah Winfrey Network USA Eastern SD" tvg-id="oprah-winfrey-network-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="TVPass",Oprah Winfrey Network USA Eastern SD
 https://tvpass.org/live/OWNEast/sd
+
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Oregon State Beavers @ Oregon Ducks - 9/20/25, 7:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Oregon State Beavers @ Oregon Ducks - 9/20/25 - 7:00:00 PM UTC HD
+https://v15.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8?token=i0SEcJh31CmRBvPNHNsxtw&expires=1758403998&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Oregon State Beavers @ Oregon Ducks - 9/20/25, 7:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Oregon State Beavers @ Oregon Ducks - 9/20/25 - 7:00:00 PM UTC SD
 https://v15.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=Mku-buzaOTPQUcupqCbXyw&expires=1758403993&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
@@ -5545,12 +5509,6 @@ https://jmp2.uk/stvp-USBD1200020Y4
 
 #EXTINF:-1  tvg-name="Outdoor Channel" tvg-id="Outdoor.Channel.US.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="MoveOnJoy" radio="false",Outdoor Channel
 https://fl7.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-
-#EXTINF:-1  tvg-name="Outdoor Channel US HD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TVPass",Outdoor Channel US HD
-https://tvpass.org/live/OutdoorChannel/hd
-
-#EXTINF:-1  tvg-name="Outdoor Channel US SD" tvg-id="outdoor-channel-us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" group-title="TVPass",Outdoor Channel US SD
-https://tvpass.org/live/OutdoorChannel/sd
 
 #EXTINF:-1  tvg-name="OuterSphere" tvg-id="66c638726838ee00085ac20d" tvg-logo="https://images.pluto.tv/channels/66c638726838ee00085ac20d/colorLogoPNG.png" tvg-chno="875" group-title="PlutoTV - United Kingdom",OuterSphere
 https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
@@ -5591,14 +5549,8 @@ https://fl7.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1  tvg-name="Oxygen" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="MoveOnJoy" radio="false",Oxygen
 https://fl7.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1  tvg-name="Oxygen Eastern Feed HD" tvg-id="oxygen-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="TVPass",Oxygen Eastern Feed HD
-https://tvpass.org/live/OxygenEast/hd
-
 #EXTINF:-1  tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="DaddyLive USA",Oxygen True Crime
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium332%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="Oxygen True Crime Archives" tvg-id="654930a8346f420008d3b0b8" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png" tvg-chno="1310" group-title="PlutoTV - United Kingdom",Oxygen True Crime Archives
-https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/oxygen-ca.png" group-title="AriaPlus - Canada",Oxygen True Crimes
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112794.ts
@@ -5746,6 +5698,9 @@ https://jmp2.uk/stvp-GB300036IM
 
 #EXTINF:-1  tvg-id="400000046" tvg-logo="https://canvas-lb.tubitv.com/opts/EGd_xCiGQngB4Q==/168854e2-e698-4fee-8e2a-5e21c7b278c4/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",PGA TOUR
 https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Arizona Diamondbacks (09/20 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Philadelphia Phillies @ Arizona Diamondbacks (09/20 8:11 Pm Et) Sd
+https://tvpass.org/live/MLB21/sd
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Arizona Diamondbacks - 9/21/25, 12:11:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Philadelphia Phillies @ Arizona Diamondbacks - 9/21/25 - 12:11:00 AM UTC HD
 https://v1.thetvapp.to/hls/MLB21/tracks-v1a1/mono.m3u8?token=IioNhxJRfWVXfeZv5FnMLA&expires=1758403860&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
@@ -6209,8 +6164,8 @@ https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
 #EXTINF:-1  tvg-name="ReelzChannel" tvg-id="ReelzChannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",ReelzChannel
 https://fl7.moveonjoy.com/REELZ/index.m3u8
 
-#EXTINF:-1  tvg-name="ReelzChannel HD" tvg-id="reelzchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="TVPass",ReelzChannel HD
-https://tvpass.org/live/Reelz/hd
+#EXTINF:-1  tvg-name="ReelzChannel SD" tvg-id="reelzchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="TVPass",ReelzChannel SD
+https://tvpass.org/live/Reelz/sd
 
 #EXTINF:-1 tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" group-title="Italy",Reggio Tv
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
@@ -6395,14 +6350,11 @@ https://jmp2.uk/stvp-KRAH2201403A
 #EXTINF:-1  tvg-name="Samsung Wild Life" tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20250408T020746SQUARE.png" tvg-chno="3505" group-title="PlutoTV - United States",Samsung Wild Life
 https://jmp2.uk/stvp-USBA3000043LH
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Chicago White Sox - 9/20/25, 11:11:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",San Diego Padres @ Chicago White Sox - 9/20/25 - 11:11:00 PM UTC HD
-https://v12.thetvapp.to/hls/MLB18/tracks-v1a1/mono.m3u8?token=-fWK-sJg1TVJ-qvB0bvJmg&expires=1758403824&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Chicago White Sox (09/20 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Diego Padres @ Chicago White Sox (09/20 7:11 Pm Et) Hd
+https://tvpass.org/live/MLB18/hd
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres @ Chicago White Sox - 9/20/25, 11:11:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",San Diego Padres @ Chicago White Sox - 9/20/25 - 11:11:00 PM UTC SD
 https://v8.thetvapp.to/hls/MLB18/tracks-v2a1/mono.m3u8?token=Yx7m4WygHTHMnS0MoAvhag&expires=1758403820&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Los Angeles Dodgers (09/20 9:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",San Francisco Giants @ Los Angeles Dodgers (09/20 9:10 Pm Et) Sd
-https://tvpass.org/live/MLB22/sd
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants @ Los Angeles Dodgers - 9/21/25, 1:10:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",San Francisco Giants @ Los Angeles Dodgers - 9/21/25 - 1:10:00 AM UTC HD
 https://v8.thetvapp.to/hls/MLB22/tracks-v1a1/mono.m3u8?token=Zv2IqCjAOlp1b75OxkOAQg&expires=1758403878&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
@@ -6506,14 +6458,11 @@ https://jmp2.uk/rok-d79c47ebb9745dc4873f24d4c9fc68ce.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Houston Astros (09/20 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Seattle Mariners @ Houston Astros (09/20 7:11 Pm Et) Hd
 https://tvpass.org/live/MLB20/hd
 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners @ Houston Astros - 9/20/25, 11:11:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Seattle Mariners @ Houston Astros - 9/20/25 - 11:11:00 PM UTC SD
+https://v12.thetvapp.to/hls/MLB20/tracks-v2a1/mono.m3u8?token=5lAeOxYWTfgUpiimqOi_9A&expires=1758403829&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
+
 #EXTINF:-1  tvg-name="SEC Network" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="MoveOnJoy" radio="false",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-name="SEC Network HD" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" group-title="TVPass",SEC Network HD
-https://tvpass.org/live/SECN/hd
-
-#EXTINF:-1  tvg-name="SEC Network SD" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" group-title="TVPass",SEC Network SD
-https://tvpass.org/live/SECN/sd
 
 #EXTINF:-1  tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="DaddyLive USA",SEC Network USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium385%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -6680,9 +6629,6 @@ https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sor TV" tvg-logo="https://i.imgur.com/BcfZgD8.png" tvg-id="SorTV.md" group-title="Moldova",Sor TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="South Carolina State Bulldogs @ South Florida Bulls (09/20 12:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",South Carolina State Bulldogs @ South Florida Bulls (09/20 12:00 Pm Et) Sd
-https://tvpass.org/live/NCAAF01/sd
-
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="South Carolina State Bulldogs @ South Florida Bulls - 9/20/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",South Carolina State Bulldogs @ South Florida Bulls - 9/20/25 - 4:00:00 PM UTC HD
 https://e4.thetvapp.to/hls/NCAAF01/tracks-v1a1/mono.m3u8?token=Q1cTpAnqJ8khdHolUinumQ&expires=1758403934&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
@@ -6773,11 +6719,11 @@ https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1  tvg-name="Star Trek Voyager" tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" tvg-chno="850" group-title="PlutoTV - United Kingdom",Star Trek Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 
-#EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" tvg-chno="856" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
-https://jmp2.uk/plu-6695a2e4fe11e50008341303.m3u8
-
 #EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6675c88da1d7ad00084762cb" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" tvg-chno="25" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
 https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
+
+#EXTINF:-1  tvg-name="Star Trek: The Motion Pictures" tvg-id="6695a2e4fe11e50008341303" tvg-logo="https://images.pluto.tv/channels/6695a2e4fe11e50008341303/colorLogoPNG.png" tvg-chno="856" group-title="PlutoTV - United Kingdom",Star Trek: The Motion Pictures
+https://jmp2.uk/plu-6695a2e4fe11e50008341303.m3u8
 
 #EXTINF:-1  tvg-name="Star Trek: The Next Generation" tvg-id="66601d838ce3110008a9d7bf" tvg-logo="https://images.pluto.tv/channels/66601d838ce3110008a9d7bf/colorLogoPNG.png" tvg-chno="271" group-title="PlutoTV - Canada",Star Trek: The Next Generation
 https://jmp2.uk/plu-66601d838ce3110008a9d7bf.m3u8
@@ -6922,12 +6868,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 
 #EXTINF:-1  tvg-name="SundanceTV" tvg-id="SundanceTV.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",SundanceTV
 https://fl7.moveonjoy.com/SUNDANCE/index.m3u8
-
-#EXTINF:-1  tvg-name="SundanceTV USA East HD" tvg-id="sundancetv-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" group-title="TVPass",SundanceTV USA East HD
-https://tvpass.org/live/SundanceTVEast/hd
-
-#EXTINF:-1  tvg-name="SundanceTV USA East SD" tvg-id="sundancetv-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" group-title="TVPass",SundanceTV USA East SD
-https://tvpass.org/live/SundanceTVEast/sd
 
 #EXTINF:-1 tvg-name="Sundskanalen" tvg-logo="https://i.imgur.com/8uT0p3q.jpg" tvg-id="Sundskanalen.se" group-title="Sweden",Sundskanalen
 https://stream.sundskanalen.se/live/view/index.m3u8
@@ -7081,12 +7021,6 @@ https://ca01.utako.moe/tbsch1/index.m3u8
 
 #EXTINF:-1 group-title="JapanTV" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
 https://ca01.utako.moe/tbsch2/index.m3u8
-
-#EXTINF:-1  tvg-name="TBS East HD" tvg-id="tbs-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="TVPass",TBS East HD
-https://tvpass.org/live/TBSEast/hd
-
-#EXTINF:-1  tvg-name="TBS East SD" tvg-id="tbs-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="TVPass",TBS East SD
-https://tvpass.org/live/TBSEast/sd
 
 #EXTINF:-1  tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="DaddyLive USA",TBS USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium336%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -7256,9 +7190,6 @@ https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleiblea" tvg-logo="https://i.imgur.com/n1THygZ.png" group-title="Italy",Teleiblea
 https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Teleitalia 41" tvg-logo="https://i.imgur.com/lTuPSOn.png" group-title="Italy",Teleitalia 41
-https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Telekanal RAI" tvg-logo="https://i.imgur.com/Ouv51WB.png" tvg-id="TelekanalRAI.ua" group-title="Ukraine",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
 
@@ -7295,8 +7226,8 @@ https://jmp2.uk/stvp-USBB3200016HO
 #EXTINF:-1  tvg-name="Telemundo Al Día" tvg-id="99991747" tvg-logo="https://image.xumo.com/v1/channels/channel/99991747/168x168.png?type=color_onBlack" group-title="Xumo Streams",Telemundo Al Día
 https://live-content.xumo.com/2561/content/XM07Z6RWPBSERC/28208221/master.m3u8
 
-#EXTINF:-1  tvg-name="Telemundo Eastern Feed SD" tvg-id="telemundo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="TVPass",Telemundo Eastern Feed SD
-https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1  tvg-name="Telemundo Eastern Feed HD" tvg-id="telemundo-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="TVPass",Telemundo Eastern Feed HD
+https://tvpass.org/live/TelemundoEast/hd
 
 #EXTINF:-1  tvg-name="Telemundo Texas" tvg-id="USBC4400018D0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400018D0_20241112T001758SQUARE.png" tvg-chno="3840" group-title="PlutoTV - United States",Telemundo Texas
 https://jmp2.uk/stvp-USBC4400018D0
@@ -7306,9 +7237,6 @@ https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telerama" tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="Italy",Telerama
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TeleRegione" tvg-logo="https://i.imgur.com/i5WozUP.png" group-title="Italy",TeleRegione
-https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Teleroma 56 Ⓣ" tvg-logo="https://i.imgur.com/wGfpUj8.png" group-title="Italy",Teleroma 56 Ⓣ
 https://www.twitch.tv/teleroma_56
@@ -7652,12 +7580,6 @@ https://jmp2.uk/stvp-USBD1200004NS
 #EXTINF:-1  tvg-id="The.Weather.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" group-title="DaddyLive USA",The Weather Channel
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium394%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1  tvg-name="The Weather Channel HD" tvg-id="the-weather-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" group-title="TVPass",The Weather Channel HD
-https://tvpass.org/live/TheWeatherChannel/hd
-
-#EXTINF:-1  tvg-name="The Weather Channel SD" tvg-id="the-weather-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" group-title="TVPass",The Weather Channel SD
-https://tvpass.org/live/TheWeatherChannel/sd
-
 #EXTINF:-1  tvg-name="The Weather Network" tvg-id="63da370e2e477400081cf8b6" tvg-logo="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/colorLogoPNG.png" tvg-chno="543" group-title="PlutoTV - Canada",The Weather Network
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 
@@ -7744,9 +7666,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 
 #EXTINF:-1  tvg-name="TLC" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",TLC
 https://fl7.moveonjoy.com/TLC/index.m3u8
-
-#EXTINF:-1  tvg-name="TLC USA Eastern HD" tvg-id="tlc-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" group-title="TVPass",TLC USA Eastern HD
-https://tvpass.org/live/TLCEast/hd
 
 #EXTINF:-1 tvg-name="TLT Molise" tvg-logo="https://i.imgur.com/wgwD7gh.png" group-title="Italy",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
@@ -7862,6 +7781,12 @@ https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-175
 #EXTINF:-1 tvg-name="Toronto 360 TV" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-id="Toronto360.tv" group-title="Canada",Toronto 360 TV
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Kansas City Royals (09/20 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ Kansas City Royals (09/20 7:11 Pm Et) Hd
+https://tvpass.org/live/MLB24/hd
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Kansas City Royals (09/20 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Toronto Blue Jays @ Kansas City Royals (09/20 7:11 Pm Et) Sd
+https://tvpass.org/live/MLB24/sd
+
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Kansas City Royals - 9/20/25, 11:11:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Toronto Blue Jays @ Kansas City Royals - 9/20/25 - 11:11:00 PM UTC HD
 https://e4.thetvapp.to/hls/MLB24/tracks-v1a1/mono.m3u8?token=_9o2sGlQefBx_jFkhg6vww&expires=1758403842&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
@@ -7940,9 +7865,6 @@ https://www.youtube.com/user/trmh24/live
 #EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" group-title="Albania",Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Troy Trojans @ Buffalo Bulls (09/20 3:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Troy Trojans @ Buffalo Bulls (09/20 3:30 Pm Et) Hd
-https://tvpass.org/live/NCAAF04/hd
-
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Troy Trojans @ Buffalo Bulls (09/20 3:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Troy Trojans @ Buffalo Bulls (09/20 3:30 Pm Et) Sd
 https://tvpass.org/live/NCAAF04/sd
 
@@ -7966,12 +7888,6 @@ https://a1xs.vip/300002
 
 #EXTINF:-1  tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="DaddyLive USA",TruTV USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium341%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="truTV USA Eastern HD" tvg-id="trutv-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="TVPass",truTV USA Eastern HD
-https://tvpass.org/live/truTVEast/hd
-
-#EXTINF:-1  tvg-name="truTV USA Eastern SD" tvg-id="trutv-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" group-title="TVPass",truTV USA Eastern SD
-https://tvpass.org/live/truTVEast/sd
 
 #EXTINF:-1 tvg-id="TSC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsc-ca.png" group-title="AriaPlus - Canada",TSC
 http://speccy.pw:8080/live/111111/111111/317088.ts
@@ -8015,14 +7931,20 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTINF:-1  tvg-name="TSN1 HD" tvg-id="tsn1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="TVPass",TSN1 HD
 https://tvpass.org/live/tsn1/hd
 
-#EXTINF:-1  tvg-name="TSN1 SD" tvg-id="tsn1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="TVPass",TSN1 SD
-https://tvpass.org/live/tsn1/sd
+#EXTINF:-1  tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/iTSoxQW.png" group-title="A1xmedia CA Sports" radio="false",TSN2
+https://a1xs.vip/6000002
 
 #EXTINF:-1  tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN2
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium112%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
+#EXTINF:-1  tvg-name="TSN2 HD" tvg-id="tsn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="TVPass",TSN2 HD
+https://tvpass.org/live/tsn2/hd
+
 #EXTINF:-1  tvg-name="TSN2 SD" tvg-id="tsn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="TVPass",TSN2 SD
 https://tvpass.org/live/tsn2/sd
+
+#EXTINF:-1  tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/dPMY5Kc.png" group-title="A1xmedia CA Sports" radio="false",TSN3
+https://a1xs.vip/6000003
 
 #EXTINF:-1  tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN3
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium113%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -8030,29 +7952,14 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTINF:-1  tvg-name="TSN3 HD" tvg-id="tsn3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="TVPass",TSN3 HD
 https://tvpass.org/live/tsn3/hd
 
-#EXTINF:-1  tvg-name="TSN3 SD" tvg-id="tsn3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="TVPass",TSN3 SD
-https://tvpass.org/live/tsn3/sd
-
 #EXTINF:-1  tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/9EInDNq.png" group-title="A1xmedia CA Sports" radio="false",TSN4
 https://a1xs.vip/6000004
 
 #EXTINF:-1  tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN4
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1  tvg-name="TSN4 HD" tvg-id="tsn4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="TVPass",TSN4 HD
-https://tvpass.org/live/tsn4/hd
-
-#EXTINF:-1  tvg-name="TSN4 SD" tvg-id="tsn4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="TVPass",TSN4 SD
-https://tvpass.org/live/tsn4/sd
-
 #EXTINF:-1  tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-hd-ca.png?raw=true" group-title="DaddyLive CA",TSN5
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium115%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="TSN5 HD" tvg-id="tsn5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 HD
-https://tvpass.org/live/tsn5/hd
-
-#EXTINF:-1  tvg-name="TSN5 SD" tvg-id="tsn5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="TVPass",TSN5 SD
-https://tvpass.org/live/tsn5/sd
 
 #EXTINF:-1 tvg-name="TTV Main Channel (臺灣電視台) Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" tvg-id="TTV.tw" group-title="Taiwan",TTV Main Channel (臺灣電視台) Ⓨ Ⓖ
 https://www.youtube.com/watch?v=uDqQo8a7Xmk
@@ -8068,6 +7975,9 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 
 #EXTINF:-1 tvg-name="Tuscia Sabina 2000Tv" tvg-logo="https://i.imgur.com/Tq5nEAy.png" group-title="Italy",Tuscia Sabina 2000Tv
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TV 100" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/tv-100-gr.png" tvg-id="TV100.gr" group-title="Greece",TV 100
+https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
 
 #EXTINF:-1 tvg-name="Tv 12" tvg-logo="https://i.imgur.com/oxv08pJ.png" group-title="Italy",Tv 12
 https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
@@ -8108,9 +8018,6 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1  tvg-name="TV Land" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="MoveOnJoy" radio="false",TV Land
 https://fl7.moveonjoy.com/TV_LAND/index.m3u8
 
-#EXTINF:-1  tvg-name="TV Land Eastern SD" tvg-id="tv-land-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="TVPass",TV Land Eastern SD
-https://tvpass.org/live/tv-land-eastern/sd
-
 #EXTINF:-1  tvg-name="TV Land Sitcoms" tvg-id="USBA300019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20241112T000748SQUARE.png" tvg-chno="2670" group-title="PlutoTV - United States",TV Land Sitcoms
 https://jmp2.uk/stvp-USBA300019WF
 
@@ -8122,12 +8029,6 @@ https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 
 #EXTINF:-1  tvg-id="400000011" tvg-logo="https://canvas-lb.tubitv.com/opts/uVMSPfRWQO9U4Q==/bed0ab9e-637e-4b96-a808-ee8b748c563f/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",TV One Crime & Justice
 https://live-manifest.production-public.tubi.io/live/e584c8c3-a4c4-4281-afd7-999492abcc23/playlist.m3u8
-
-#EXTINF:-1  tvg-name="TV One HD" tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" group-title="TVPass",TV One HD
-https://tvpass.org/live/TVOne/hd
-
-#EXTINF:-1  tvg-name="TV One SD" tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" group-title="TVPass",TV One SD
-https://tvpass.org/live/TVOne/sd
 
 #EXTINF:-1  tvg-id="TV.One.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" group-title="DaddyLive USA",TV ONE USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium660%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -8393,9 +8294,6 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107545.ts
 #EXTINF:-1  tvg-name="Univision Eastern Feed HD" tvg-id="univision-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" group-title="TVPass",Univision Eastern Feed HD
 https://tvpass.org/live/UnivisionEast/hd
 
-#EXTINF:-1  tvg-name="Univision Eastern Feed SD" tvg-id="univision-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" group-title="TVPass",Univision Eastern Feed SD
-https://tvpass.org/live/UnivisionEast/sd
-
 #EXTINF:-1 tvg-name="Uno4 Tv" tvg-logo="https://i.imgur.com/wfPPpBA.png" group-title="Italy",Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 
@@ -8444,17 +8342,11 @@ https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="USA.Network.(CAN).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" group-title="AriaPlus - Canada",USA Network
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112754.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="AriaPlus - United States",USA Network
-https://tvpass.org/live/USANetworkEast/hd
-
 #EXTINF:-1  tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="DaddyLive USA",USA Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium343%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="USA Network" tvg-id="USA.Network.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="MoveOnJoy" radio="false",USA Network
 http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-name="USA Network East Feed SD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed SD
-https://tvpass.org/live/USANetworkEast/sd
 
 #EXTINF:-1  tvg-name="USA Network FHD" tvg-id="A.Network.-.Eastern.Feed.us" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="A1xmedia EPL" radio="false",USA Network FHD
 https://a1xs.vip/1100020
@@ -8491,12 +8383,6 @@ https://jmp2.uk/stvp-USBB1900006NY
 
 #EXTINF:-1  tvg-id="666613" tvg-logo="https://canvas-lb.tubitv.com/opts/WEg22QkWst3IjQ==/e9857bc6-ee9a-4823-b3ea-ab97d0a85143/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Vice
 https://live-manifest.production-public.tubi.io/live/16f9c4de-29fb-4c1b-b878-180b699a4e8a/playlist.m3u8
-
-#EXTINF:-1  tvg-name="VICE HD" tvg-id="vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="TVPass",VICE HD
-https://tvpass.org/live/VICETV/hd
-
-#EXTINF:-1  tvg-name="VICE SD" tvg-id="vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="TVPass",VICE SD
-https://tvpass.org/live/VICETV/sd
 
 #EXTINF:-1  tvg-id="VICE.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="DaddyLive USA",VICE TV
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium659%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -8547,10 +8433,10 @@ https://cdn.baddiehub.com/714.mp4
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112863.ts
 
 #EXTINF:-1  tvg-name="Vitoria Beatriz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Vitoria Beatriz
-https://cdn.baddiehub.com/ViBtriz.mp4
+https://cdn.baddiehub.com/ViOS.mp4
 
 #EXTINF:-1  tvg-name="Vitoria Beatriz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",Vitoria Beatriz
-https://cdn.baddiehub.com/ViOS.mp4
+https://cdn.baddiehub.com/ViBtriz.mp4
 
 #EXTINF:-1  tvg-name="ViX Cine Club" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/017397f76bae510a8a9800c4b94eaa40/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751574192_CineClub_RokuHub_260x147_White.png" tvg-chno="991" group-title="RokuTV",ViX Cine Club
 https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
@@ -8605,6 +8491,15 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3050.ts
 
 #EXTINF:-1 tvg-name="W24" tvg-logo="https://i.imgur.com/PGb4wYw.png" tvg-id="W24.at" group-title="Austria",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wagner Seahawks @ Central Michigan Chippewas (09/20 1:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Wagner Seahawks @ Central Michigan Chippewas (09/20 1:00 Pm Et) Hd
+https://tvpass.org/live/NCAAF03/hd
+
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wagner Seahawks @ Central Michigan Chippewas - 9/20/25, 5:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Wagner Seahawks @ Central Michigan Chippewas - 9/20/25 - 5:00:00 PM UTC HD
+https://e5.thetvapp.to/hls/NCAAF03/tracks-v1a1/mono.m3u8?token=yfAbkw6ZAHD34emPhHseew&expires=1758403989&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
+
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wagner Seahawks @ Central Michigan Chippewas - 9/20/25, 5:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Wagner Seahawks @ Central Michigan Chippewas - 9/20/25 - 5:00:00 PM UTC SD
+https://v3.thetvapp.to/hls/NCAAF03/tracks-v2a1/mono.m3u8?token=_qixLgTkTn7haatj4Grg2w&expires=1758403984&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
 #EXTINF:-1  tvg-name="Walker Texas Ranger" tvg-id="635659445b4c4700076d2ad1" tvg-logo="https://images.pluto.tv/channels/635659445b4c4700076d2ad1/colorLogoPNG.png" tvg-chno="214" group-title="PlutoTV - Canada",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
@@ -8795,9 +8690,6 @@ https://live-manifest.production-public.tubi.io/live/e6d38135-8231-40dc-8941-35d
 #EXTINF:-1  tvg-id="578082" tvg-logo="https://canvas-lb.tubitv.com/opts/Uz8GwqS9fYvFgw==/08428b49-8dd0-446e-9b7b-c7aa1c824400/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",WMUR New Hampshire 9
 https://live-manifest.production-public.tubi.io/live/8852afd3-e359-4e34-a7b0-528fa09d057a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wofford Terriers @ Virginia Tech Hokies (09/20 12:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Wofford Terriers @ Virginia Tech Hokies (09/20 12:00 Pm Et) Sd
-https://tvpass.org/live/NCAAF02/sd
-
 #EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Wofford Terriers @ Virginia Tech Hokies - 9/20/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Wofford Terriers @ Virginia Tech Hokies - 9/20/25 - 4:00:00 PM UTC HD
 https://v18.thetvapp.to/hls/NCAAF02/tracks-v1a1/mono.m3u8?token=LH6nwm6G3bcAT38ATMKR_g&expires=1758403953&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
@@ -8842,9 +8734,6 @@ https://jmp2.uk/plu-66b66b9e14a2bb000872f606.m3u8
 
 #EXTINF:-1 group-title="JapanTV" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
 https://mt01.utako.moe/wlive/index.m3u8
-
-#EXTINF:-1  tvg-name="WPIX New York (SUPERSTATION) HD" tvg-id="wpix-new-york-superstation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" group-title="TVPass",WPIX New York (SUPERSTATION) HD
-https://tvpass.org/live/WPIX/hd
 
 #EXTINF:-1  tvg-name="WPIX New York (SUPERSTATION) SD" tvg-id="wpix-new-york-superstation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" group-title="TVPass",WPIX New York (SUPERSTATION) SD
 https://tvpass.org/live/WPIX/sd

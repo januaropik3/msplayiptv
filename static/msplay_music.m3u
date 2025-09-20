@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-20 16:37:18 UTC
-# Total Channels: 226
+# Generated: 2025-09-20 17:27:13 UTC
+# Total Channels: 221
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (226 channels) ======
+# ====== MUSIC (221 channels) ======
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912501/600x200.png?type=white_cropped" group-title="LGTV Canada",447 Stingray Cozy Cafe
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912501&ads.csid=lgchannels_[COUNTRY]_StingrayCozyCafe_ssai&ads.ad_tag_id=102189&ads.xumo_contentName=StingrayCozyCafe&ads.xumo_contentId=4180&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -158,9 +158,6 @@ https://live.amperwave.net/manifest/powell-kkmafmaac-hlsc2.m3u8
 #EXTINF:-1  tvg-name="Classic Rock Florida" tvg-id="Radio.105.Dummy.us" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/cb/b4/4acbb489-406a-bd6a-fc6f-2adef1f95697/source/512x512bb.jpg" group-title="DrewFX - Classic Rock" radio="true",Classic Rock Florida
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR.aac
 
-#EXTINF:-1  tvg-name="Classic Rock WCSX" tvg-id="Radio.105.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/WCSXFM_1137091_config_station_logo_image_1415221612.jpg" group-title="DrewFX - Classic Rock" radio="true",Classic Rock WCSX
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFMAACIHR.aac
-
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
@@ -218,12 +215,6 @@ https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 #EXTINF:-1  tvg-name="Lofi Hip-Hop Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/580fbaac440243d8731ffc57/46cb49b3-63d7-40e1-9cd0-540fbecdc39c/Lofi+Girl+16x9.jpeg" group-title="DrewLive Fan Made TV" radio="false",Lofi Hip-Hop Radio
 https://1a-1791.com/live/1n1ugl24/slot-49/7ttm-lexc_1080p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Colorado Rockies (09/20 8:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Angels @ Colorado Rockies (09/20 8:11 Pm Et) Hd
-https://tvpass.org/live/MLB25/hd
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Colorado Rockies (09/20 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Los Angeles Angels @ Colorado Rockies (09/20 8:11 Pm Et) Sd
-https://tvpass.org/live/MLB25/sd
-
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Colorado Rockies - 9/21/25, 12:11:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Los Angeles Angels @ Colorado Rockies - 9/21/25 - 12:11:00 AM UTC HD
 https://v16.thetvapp.to/hls/MLB25/tracks-v1a1/mono.m3u8?token=r3S1G0TZjROpPOlLTe9HWQ&expires=1758403869&user_id=c00wbzBQM3ZXMXpadXNscmZ2WWtHb05VeVdzZ2ZxOGpvNnRIbXhaWg==
 
@@ -245,8 +236,8 @@ https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1  tvg-name="MTV" tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",MTV
 https://fl7.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1  tvg-name="MTV 2 East HD" tvg-id="mtv-2-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="TVPass",MTV 2 East HD
-https://tvpass.org/live/mtv-2-east/hd
+#EXTINF:-1  tvg-name="MTV 2 East SD" tvg-id="mtv-2-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="TVPass",MTV 2 East SD
+https://tvpass.org/live/mtv-2-east/sd
 
 #EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="PlutoTV - United Kingdom",MTV Biggest Pop
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
@@ -301,6 +292,9 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" tvg-id="MTVUutiset.fi" group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" group-title="AriaPlus - United States",MTV2
+https://tvpass.org/live/MTV2East/hd
 
 #EXTINF:-1  tvg-name="MTV2" tvg-id="MTV.2.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="MoveOnJoy" radio="false",MTV2
 https://fl7.moveonjoy.com/MTV_2/index.m3u8
@@ -518,9 +512,6 @@ https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
 #EXTINF:-1  tvg-id="GBBD3200003T6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" tvg-chno="4771" group-title="SamsungTVPlus - UK",Tiny POP
 https://jmp2.uk/stvp-GBBD3200003T6
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Toledo Rockets @ Western Michigan Broncos (09/20 3:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB2.png" group-title="TVPass - NCAAF",Toledo Rockets @ Western Michigan Broncos (09/20 3:30 Pm Et) Hd
-https://tvpass.org/live/NCAAF07/hd
-
 #EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="Italy",TRL Tele Radio Leo
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
@@ -637,12 +628,6 @@ https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 
 #EXTINF:-1  tvg-name="VH1" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",VH1
 https://fl7.moveonjoy.com/VH1/index.m3u8
-
-#EXTINF:-1  tvg-name="VH1 Eastern Feed HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed HD
-https://tvpass.org/live/VH1East/hd
-
-#EXTINF:-1  tvg-name="VH1 Eastern Feed SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed SD
-https://tvpass.org/live/VH1East/sd
 
 #EXTINF:-1  tvg-name="VH1 Queens of Reality" tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-chno="1675" group-title="PlutoTV - United Kingdom",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8

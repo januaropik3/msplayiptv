@@ -1,17 +1,17 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-20 16:37:18 UTC
-# Total Channels: 84
+# Generated: 2025-09-20 17:27:13 UTC
+# Total Channels: 82
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== KIDS (84 channels) ======
+# ====== KIDS (82 channels) ======
 
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​​‌‌​‌‌​​​ Guy
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌​​‌​‌​​​​​​​‌ Guy
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d2gkisgxcgea87.cloudfront.net/FF_Classic_Logo_Whitx200.png" group-title="LGTV Canada",305 Family Feud Classics
@@ -80,11 +80,11 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",Boomerang
 https://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TVPass",Boomerang SD
-https://tvpass.org/live/Boomerang/sd
-
 #EXTINF:-1  tvg-id="Discovery.Family.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="DaddyLive USA",Discovery Family
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium657%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="AriaPlus - United States",Discovery Family (DFC)
+https://tvpass.org/live/DiscoveryFamily/hd
 
 #EXTINF:-1  tvg-name="DISCOVERY FAMILY CHANNEL" tvg-id="Discovery.Family.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",DISCOVERY FAMILY CHANNEL
 https://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
@@ -209,9 +209,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="AriaPlus - United States",Nick Jr.
 https://tvpass.org/live/NickJrEast/hd
 
-#EXTINF:-1  tvg-name="Nick Jr. East SD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TVPass",Nick Jr. East SD
-https://tvpass.org/live/NickJrEast/sd
-
 #EXTINF:-1  tvg-name="Nick Jr. FHD" tvg-id="Nick.Jr..-.East.us" tvg-logo="https://i.imgur.com/cHN8fE8.png" group-title="A1xmedia US Channels" radio="false",Nick Jr. FHD
 https://a1xs.vip/300033
 
@@ -226,9 +223,6 @@ https://a1xs.vip/1000052
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png" group-title="AriaPlus - Australia",Nickelodeon
 http://44.32.200.212:5004/auto/v13
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="AriaPlus - United States",Nickelodeon
-https://tvpass.org/live/NickelodeonEast/hd
 
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",Nickelodeon
 https://fl7.moveonjoy.com/NICKELODEON/index.m3u8
