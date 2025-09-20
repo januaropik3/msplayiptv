@@ -1,7 +1,7 @@
 # MSPlay IPTV
 
-![Channels](https://img.shields.io/badge/Channels-Loading...-brightgreen)
-![Updated](https://img.shields.io/badge/Updated-Daily-blue)
+![Channels](https://img.shields.io/badge/Channels-6,159-brightgreen)
+![Updated](https://img.shields.io/badge/Updated-2025-09-20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Format](https://img.shields.io/badge/Format-M3U-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -11,13 +11,26 @@
 
 ## 🚀 Quick Start
 
-### 📺 Direct Playlist URL
+### 📺 Main Playlist (All 6,159 Channels)
 ```
 https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay.m3u
 ```
 
-### 📱 For Mobile/TV Apps
-Simply copy the URL above and paste it into your IPTV player:
+### 🏷️ Category-Specific Playlists
+
+| Category | Channels | Direct URL |
+|----------|----------|------------|
+| 🏃 **Sports** | 1,086 | [`msplay_sports.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_sports.m3u) |
+| 📰 **News** | 1,087 | [`msplay_news.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_news.m3u) |
+| 🎬 **Movies** | 712 | [`msplay_movies.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_movies.m3u) |
+| 🎵 **Music** | 218 | [`msplay_music.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_music.m3u) |
+| 👶 **Kids** | 80 | [`msplay_kids.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_kids.m3u) |
+| � **Documentary** | 72 | [`msplay_documentary.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_documentary.m3u) |
+| 📺 **Entertainment** | 39 | [`msplay_entertainment.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_entertainment.m3u) |
+| 🌐 **General** | 2,865 | [`msplay_general.m3u`](https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_general.m3u) |
+
+### �📱 For Mobile/TV Apps
+Simply copy any URL above and paste it into your IPTV player:
 - **VLC Media Player**: Media → Open Network Stream
 - **Kodi**: TV → Enter add-on browser → PVR IPTV Simple Client
 - **Perfect Player**: Settings → Playlist → Add Playlist
@@ -25,9 +38,25 @@ Simply copy the URL above and paste it into your IPTV player:
 
 ## 📊 Statistics
 
-*Statistics are automatically updated daily*
+| Metric | Value |
+|--------|-------|
+| 📺 Total Channels | 6,159 |
+| 🏷️ Categories | 8 |
+| 🌍 Sources | 2 |
+| 🕐 Last Updated | 2025-09-20 09:37:18 |
 
-## 🎯 Features
+### 📁 Categories
+
+| Category | Channels |
+|----------|----------|
+| Documentary | 72 |
+| Entertainment | 39 |
+| General | 2,865 |
+| Kids | 80 |
+| Movies | 712 |
+| Music | 218 |
+| News | 1,087 |
+| Sports | 1,086 |## 🎯 Features
 
 - ✅ **Daily Updates**: Automated channel validation and playlist generation
 - 🔍 **Quality Assured**: All channels are tested for availability
@@ -95,6 +124,24 @@ Edit `src/config.py` to customize:
 - Output preferences
 
 ## 📋 API Endpoints
+
+## 📋 All Available URLs
+
+### 📺 Main Playlist
+- **All Channels**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay.m3u`
+
+### 🏷️ Category Playlists
+- **Sports**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_sports.m3u`
+- **News**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_news.m3u`
+- **Movies**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_movies.m3u`
+- **Music**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_music.m3u`
+- **Kids**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_kids.m3u`
+- **Documentary**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_documentary.m3u`
+- **Entertainment**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_entertainment.m3u`
+- **General**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/msplay_general.m3u`
+
+### 📊 API Endpoints
+- **Statistics**: `https://raw.githubusercontent.com/januaropik3/msplayiptv/main/static/stats.json`
 
 We provide JSON API for developers:
 
