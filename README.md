@@ -1,6 +1,34 @@
 # MSPlay IPTV
 
-![Channels](https://img.shields.io/badge/Channels-6,159-brightgreen)
+![Channels](ht### 📱 For Mobile/TV Apps
+Simply copy any URL above and paste it into your IPTV player:
+- **VLC Media Player**: Media → Open Network Stream
+- **Kodi**: TV → Enter add-on browser → PVR IPTV Simple Client
+- **Perfect Player**: Settings → Playlist → Add Playlist
+- **TiviMate**: Add Playlist → M3U Playlist
+
+## 🤖 Automated Updates
+
+### ⏰ Daily Schedule
+This project runs **completely automatically** - you don't need to do anything manually!
+
+- **🕕 06:00 UTC Daily**: Automatic scraping and validation
+- **⚡ Real-time**: GitHub Actions updates all playlists
+- **🔄 Always Fresh**: Latest channels automatically added/removed
+- **✅ Validated**: Only working channels included
+
+### 🎯 What Happens Automatically:
+1. **Scrape**: Collects channels from multiple sources
+2. **Validate**: Tests each channel (10-second timeout)
+3. **Filter**: Removes dead/broken channels
+4. **Generate**: Creates M3U playlists by category
+5. **Deploy**: Updates GitHub repository
+6. **Statistics**: Updates channel counts and badges
+
+### 💡 Manual Trigger (Optional)
+If you want to update immediately, visit the [Actions](https://github.com/januaropik3/msplayiptv/actions) page and click "Run workflow"
+
+**No maintenance required!** The system handles everything automatically.img.shields.io/badge/Channels-6,159-brightgreen)
 ![Updated](https://img.shields.io/badge/Updated-2025-09-20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Format](https://img.shields.io/badge/Format-M3U-orange)
@@ -221,7 +249,7 @@ If this project helps you, please consider:
 
 <div align="center">
 
-**Made with ❤️ by januaropik3**
+**Made with ❤️ by Masanto**
 
 🔄 *Last updated: Check the badges above for real-time information*
 
