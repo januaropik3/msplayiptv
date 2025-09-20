@@ -1,18 +1,6 @@
 # MSPlay IPTV
 
-![Channels](ht### 📱 For Mobile/TV Apps
-Simply copy any URL above and paste it into your IPTV player:
-- **VLC Media Player**: Media → Open Network Stream
-- **Kodi**: TV → Enter add-on browser → PVR IPTV Simple Client
-- **Perfect Player**: Settings → Playlist → Add Playlist
-- **TiviMate**: Add Playlist → M3U Playlist
-
-## 🤖 Automated Updates
-
-### ⏰ Daily Schedule
-This project runs **completely automatically** - you don't need to do anything manually!
-
-- **🌙 00:00 WIB Daily** (17:00 UTC): Automatic scraping and validation
+![Channels](https://img.shields.io/badge/Channels-6,806-brightgreen): Automatic scraping and validation
 - **⚡ Real-time**: GitHub Actions updates all playlists
 - **🔄 Always Fresh**: Latest channels automatically added/removed
 - **✅ Validated**: Only working channels included
@@ -68,12 +56,23 @@ Simply copy any URL above and paste it into your IPTV player:
 
 | Metric | Value |
 |--------|-------|
-| 📺 Total Channels | 6,159 |
+| 📺 Total Channels | 6,806 |
 | 🏷️ Categories | 8 |
 | 🌍 Sources | 2 |
-| 🕐 Last Updated | 2025-09-20 09:37:18 |
+| 🕐 Last Updated | 2025-09-20 16:37:18 |
 
 ### 📁 Categories
+
+| Category | Channels |
+|----------|----------|
+| Documentary | 78 |
+| Entertainment | 47 |
+| General | 3,124 |
+| Kids | 84 |
+| Movies | 771 |
+| Music | 226 |
+| News | 1,286 |
+| Sports | 1,190 |### 📁 Categories
 
 | Category | Channels |
 |----------|----------|
