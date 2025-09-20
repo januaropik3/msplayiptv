@@ -2,8 +2,8 @@ name: Update IPTV Playlist
 
 on:
   schedule:
-    # Run daily at 06:00 UTC (adjust timezone as needed)
-    - cron: '0 6 * * *'
+    # Run daily at 17:00 UTC (00:00 WIB / 12 malam Jakarta)
+    - cron: '0 17 * * *'
   
   # Allow manual trigger
   workflow_dispatch:
@@ -140,7 +140,7 @@ jobs:
         
     - name: Upload logs as artifact
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: iptv-logs-${{ github.run_number }}
         path: |

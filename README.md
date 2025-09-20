@@ -12,7 +12,7 @@ Simply copy any URL above and paste it into your IPTV player:
 ### ⏰ Daily Schedule
 This project runs **completely automatically** - you don't need to do anything manually!
 
-- **🕕 06:00 UTC Daily**: Automatic scraping and validation
+- **🌙 00:00 WIB Daily** (17:00 UTC): Automatic scraping and validation
 - **⚡ Real-time**: GitHub Actions updates all playlists
 - **🔄 Always Fresh**: Latest channels automatically added/removed
 - **✅ Validated**: Only working channels included
