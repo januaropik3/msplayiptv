@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-20 17:27:13 UTC
-# Total Channels: 43
+# Generated: 2025-09-21 17:28:03 UTC
+# Total Channels: 42
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== ENTERTAINMENT (43 channels) ======
+# ====== ENTERTAINMENT (42 channels) ======
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1517-LG-Logo-PNG-100x100_v1.png" group-title="LGTV AU",207 Autentic Travel
 https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticTravel/playlist.m3u8
@@ -109,9 +109,6 @@ https://jmp2.uk/stvp-GB2600021LP
 
 #EXTINF:-1  tvg-name="Tastemade Travel" tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png" tvg-chno="2130" group-title="PlutoTV - United States",Tastemade Travel
 https://jmp2.uk/stvp-USBD700017WC
-
-#EXTINF:-1  tvg-name="The Cooking Channel HD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TVPass",The Cooking Channel HD
-https://tvpass.org/live/CookingChannel/hd
 
 #EXTINF:-1  tvg-id="400000068" tvg-logo="https://canvas-lb.tubitv.com/opts/CYTNzlV6patUNA==/d2ad86e1-c1b3-4758-abec-a75aabd439d0/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Travel + Adventure
 https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884546a1d916/playlist.m3u8
