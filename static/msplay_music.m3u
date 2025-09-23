@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-22 17:28:36 UTC
-# Total Channels: 222
+# Generated: 2025-09-23 17:36:23 UTC
+# Total Channels: 219
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (222 channels) ======
+# ====== MUSIC (219 channels) ======
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912501/600x200.png?type=white_cropped" group-title="LGTV Canada",447 Stingray Cozy Cafe
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912501&ads.csid=lgchannels_[COUNTRY]_StingrayCozyCafe_ssai&ads.ad_tag_id=102189&ads.xumo_contentName=StingrayCozyCafe&ads.xumo_contentId=4180&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -191,9 +191,6 @@ http://kiyi.radioca.st:8118/stream2
 #EXTINF:-1  tvg-name="Indie SF Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://insomniaradio.net/wp-content/uploads/2008/02/sf.jpg" group-title="DrewFX - Indie" radio="true",Indie SF Radio
 http://359.cloudrad.io:8618/;
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Ireland Republic - Premier Division : Waterford United vs Shamrock Rovers (Sep 22-2025 6:45 PM UK / Sep 22-2025 11:45 AM MT / Sep 22-2025 1:45 PM EST)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium69%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
 #EXTINF:-1  tvg-name="Jazz 88.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://i0.wp.com/www.gcrcf.org/wp-content/uploads/2023/07/KCCK-IJS-Logo.png?fit=1920%2C1920&ssl=1" group-title="DrewFX - Jazz" radio="true",Jazz 88.3
 https://stream.kcck.org/jazz883kcck
 
@@ -211,9 +208,6 @@ https://ca01.utako.moe/kayopops/index.m3u8
 
 #EXTINF:-1  tvg-name="KZWA 104.9 FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn.socast.io/9069/sites/6/2024/12/05130114/OFFICIAL-KZWA-LOGO-150x74.jpeg" group-title="DrewFX - Hip Hop & R&B" radio="true",KZWA 104.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM.mp3?dist=onlineradiobox
-
-#EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Latinatv.jpg" tvg-id="LatinaTV.ve" group-title="Venezuela",Latina TV
-https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
 #EXTINF:-1  tvg-name="Live Music" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" tvg-chno="2190" group-title="PlutoTV - United Kingdom",Live Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
@@ -278,6 +272,9 @@ https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 #EXTINF:-1  tvg-name="MTV Rocks" tvg-id="66bb895acd0d31000871e31c" tvg-logo="https://images.pluto.tv/channels/66bb895acd0d31000871e31c/colorLogoPNG.png" tvg-chno="757" group-title="PlutoTV - Canada",MTV Rocks
 https://jmp2.uk/plu-66bb895acd0d31000871e31c.m3u8
 
+#EXTINF:-1  tvg-name="MTV SD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV SD
+https://v2.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8?token=4y_jXnMi_4Oq-D-381O-Hg&expires=1758662622&user_id=Y3Y2d210SFZVQks3a01HN3cxZ0RiVnR3Z3VSSmFmOG9zNDRHQnV6cA==
+
 #EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="PlutoTV - United Kingdom",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
@@ -304,9 +301,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 
 #EXTINF:-1  tvg-name="NickMusic USA" tvg-id="Nick.Music.(NICM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="MoveOnJoy" radio="false",NickMusic USA
 https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8
-
-#EXTINF:-1  tvg-name="Non Stop Classic Rock 24/7" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rock.png" group-title="DrewLive Fan Made TV" radio="false",Non Stop Classic Rock 24/7
-https://1a-1791.com/live/gke17oc4/slot-148/gu9i-vvf3_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" tvg-id="NowRock.uk" group-title="UK",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -389,9 +383,6 @@ https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" tvg-id="RadioZetaTV.it" group-title="Italy",Radio ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
 
-#EXTINF:-1  tvg-name="Radio-Canada INFO" tvg-id="62cc1e1e0d0611000837dc1d" tvg-logo="https://images.pluto.tv/channels/62cc1e1e0d0611000837dc1d/colorLogoPNG.png" tvg-chno="542" group-title="PlutoTV - Canada",Radio-Canada INFO
-https://jmp2.uk/plu-62cc1e1e0d0611000837dc1d.m3u8
-
 #EXTINF:-1  tvg-id="CABC2300010E4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20250729T185317SQUARE.png" tvg-chno="1065" group-title="SamsungTVPlus - CA",Radio-Canada INFO
 https://jmp2.uk/stvp-CABC2300010E4
 
@@ -409,6 +400,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&for
 
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="Czech Republic",Retro Music Television Ⓢ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Smooth Jazz" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.smoothjazz.com/sites/default/files/station-logos/smooth-jazz-live-365_0.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz
 https://stream.revma.ihrhls.com/zc4242/hls.m3u8
@@ -511,9 +505,6 @@ https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
 
 #EXTINF:-1  tvg-id="GBBD3200003T6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" tvg-chno="4771" group-title="SamsungTVPlus - UK",Tiny POP
 https://jmp2.uk/stvp-GBBD3200003T6
-
-#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="Italy",TRL Tele Radio Leo
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="Italy",Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8
@@ -632,14 +623,17 @@ https://fl7.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1  tvg-name="VH1 Eastern Feed SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed SD
 https://tvpass.org/live/VH1East/sd
 
+#EXTINF:-1  tvg-name="VH1 HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 HD
+https://e4.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=yaB696S-0R7hdV2AwGN-8w&expires=1758662984&user_id=Y3Y2d210SFZVQks3a01HN3cxZ0RiVnR3Z3VSSmFmOG9zNDRHQnV6cA==
+
 #EXTINF:-1  tvg-name="VH1 Queens of Reality" tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-chno="1675" group-title="PlutoTV - United Kingdom",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 
+#EXTINF:-1  tvg-name="VH1 SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 SD
+https://e4.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8?token=Ht1RuYO4pmwai9v_UxxtgA&expires=1758662979&user_id=Y3Y2d210SFZVQks3a01HN3cxZ0RiVnR3Z3VSSmFmOG9zNDRHQnV6cA==
+
 #EXTINF:-1  tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH1.png" group-title="DaddyLive USA",VH1 USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium344%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1 tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" group-title="Italy",Vintage Radio Tv
-https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" group-title="Italy",Virgin Radio TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
@@ -670,6 +664,3 @@ https://jmp2.uk/stvp-CABB26000054K
 
 #EXTINF:-1  tvg-name="Yo! MTV" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="DrewLive Music Video Channels" radio="false",Yo! MTV
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
-
-#EXTINF:-1 tvg-name="Zerouno Tv Music" tvg-logo="https://i.imgur.com/r74lqW8.png" group-title="Italy",Zerouno Tv Music
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
