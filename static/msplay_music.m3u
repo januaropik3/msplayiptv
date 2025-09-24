@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-23 17:36:23 UTC
-# Total Channels: 219
+# Generated: 2025-09-24 17:32:01 UTC
+# Total Channels: 222
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (219 channels) ======
+# ====== MUSIC (222 channels) ======
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912501/600x200.png?type=white_cropped" group-title="LGTV Canada",447 Stingray Cozy Cafe
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912501&ads.csid=lgchannels_[COUNTRY]_StingrayCozyCafe_ssai&ads.ad_tag_id=102189&ads.xumo_contentName=StingrayCozyCafe&ads.xumo_contentId=4180&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -161,6 +161,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR.a
 #EXTINF:-1  tvg-name="Classic Rock WCSX" tvg-id="Radio.105.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/WCSXFM_1137091_config_station_logo_image_1415221612.jpg" group-title="DrewFX - Classic Rock" radio="true",Classic Rock WCSX
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFMAACIHR.aac
 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Seattle Mariners (09/24 9:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="TVPass - MLB",Colorado Rockies @ Seattle Mariners (09/24 9:41 Pm Et) Sd
+https://tvpass.org/live/MLB14/sd
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Seattle Mariners - 9/25/25, 1:41:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Colorado Rockies @ Seattle Mariners - 9/25/25 - 1:41:00 AM UTC HD
+https://v15.thetvapp.to/hls/MLB14/tracks-v1a1/mono.m3u8?token=uoxRjNEAMs9W4NrW-gSeHQ&expires=1758749540&user_id=VXhsbVU1enNwbFloTVVVZDdNUDk0cmkwcmMzaHZvS3FSdkRiSVlXVg==
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Seattle Mariners - 9/25/25, 1:41:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Colorado Rockies @ Seattle Mariners - 9/25/25 - 1:41:00 AM UTC SD
+https://v13.thetvapp.to/hls/MLB14/tracks-v2a1/mono.m3u8?token=BoS8JfKopXqa-qnTxN7KTQ&expires=1758749536&user_id=VXhsbVU1enNwbFloTVVVZDdNUDk0cmkwcmMzaHZvS3FSdkRiSVlXVg==
+
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
@@ -209,6 +218,9 @@ https://ca01.utako.moe/kayopops/index.m3u8
 #EXTINF:-1  tvg-name="KZWA 104.9 FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn.socast.io/9069/sites/6/2024/12/05130114/OFFICIAL-KZWA-LOGO-150x74.jpeg" group-title="DrewFX - Hip Hop & R&B" radio="true",KZWA 104.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM.mp3?dist=onlineradiobox
 
+#EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Latinatv.jpg" tvg-id="LatinaTV.ve" group-title="Venezuela",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+
 #EXTINF:-1  tvg-name="Live Music" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" tvg-chno="2190" group-title="PlutoTV - United Kingdom",Live Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 
@@ -251,6 +263,9 @@ https://a1xs.vip/1000037
 #EXTINF:-1  tvg-name="MTV Flow Latino" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" tvg-chno="4790" group-title="PlutoTV - United Kingdom",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 
+#EXTINF:-1  tvg-name="MTV HD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV HD
+https://e1.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=8EpUbPLq7swpu_vF0q-_QA&expires=1758749006&user_id=V3B5ODFCRE9qTkFIcm1icjZJOTR6cTlaSUNYVmtiNGtkRHZ1NnVtTA==
+
 #EXTINF:-1  tvg-name="MTV Kay" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive NSFW" radio="false",MTV Kay
 https://cdn.baddiehub.com/MTV.mp4
 
@@ -273,7 +288,7 @@ https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 https://jmp2.uk/plu-66bb895acd0d31000871e31c.m3u8
 
 #EXTINF:-1  tvg-name="MTV SD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV SD
-https://v2.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8?token=4y_jXnMi_4Oq-D-381O-Hg&expires=1758662622&user_id=Y3Y2d210SFZVQks3a01HN3cxZ0RiVnR3Z3VSSmFmOG9zNDRHQnV6cA==
+https://v15.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8?token=2_sXL79rc-I4HswDHkWpkg&expires=1758749002&user_id=V3B5ODFCRE9qTkFIcm1icjZJOTR6cTlaSUNYVmtiNGtkRHZ1NnVtTA==
 
 #EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="PlutoTV - United Kingdom",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
@@ -283,6 +298,9 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 
 #EXTINF:-1  tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="DaddyLive USA",MTV USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium371%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1  tvg-name="MTV USA Eastern Feed SD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TVPass",MTV USA Eastern Feed SD
+https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" tvg-id="MTVUutiset.fi" group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
@@ -383,6 +401,9 @@ https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" tvg-id="RadioZetaTV.it" group-title="Italy",Radio ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
 
+#EXTINF:-1  tvg-name="Radio-Canada INFO" tvg-id="62cc1e1e0d0611000837dc1d" tvg-logo="https://images.pluto.tv/channels/62cc1e1e0d0611000837dc1d/colorLogoPNG.png" tvg-chno="542" group-title="PlutoTV - Canada",Radio-Canada INFO
+https://jmp2.uk/plu-62cc1e1e0d0611000837dc1d.m3u8
+
 #EXTINF:-1  tvg-id="CABC2300010E4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20250729T185317SQUARE.png" tvg-chno="1065" group-title="SamsungTVPlus - CA",Radio-Canada INFO
 https://jmp2.uk/stvp-CABC2300010E4
 
@@ -395,9 +416,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Italy",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" group-title="Italy",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
-
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 
@@ -406,9 +424,6 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Smooth Jazz" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.smoothjazz.com/sites/default/files/station-logos/smooth-jazz-live-365_0.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz
 https://stream.revma.ihrhls.com/zc4242/hls.m3u8
-
-#EXTINF:-1  tvg-name="Smooth Jazz 88.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KJLU.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz 88.9
-https://ice8.securenetsystems.net/KJLU
 
 #EXTINF:-1  tvg-name="Smooth Jazz Box" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-radiotime-logos.tunein.com/s206902g.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz Box
 https://streamingv2.shoutcast.com/SmoothJazzBox
@@ -493,9 +508,6 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 
 #EXTINF:-1 tvg-name="Tele Radio Pace 4" tvg-logo="https://i.imgur.com/KPHHsN5.png" group-title="Italy",Tele Radio Pace 4
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TeleRadioStereo Ⓣ" tvg-logo="https://i.imgur.com/eRNgqnA.png" group-title="Italy",TeleRadioStereo Ⓣ
-https://www.twitch.tv/teleradiostereo
 
 #EXTINF:-1  tvg-name="The Adventures of Rocky and Bullwinkle and Friends" tvg-id="99951319" tvg-logo="https://image.xumo.com/v1/channels/channel/99951319/168x168.png?type=color_onBlack" group-title="Xumo Streams",The Adventures of Rocky and Bullwinkle and Friends
 https://live-content.xumo.com/4064/content/XM04OXBYEMOGUS/27446791/master.m3u8
@@ -620,17 +632,14 @@ https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 #EXTINF:-1  tvg-name="VH1" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",VH1
 https://fl7.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1  tvg-name="VH1 Eastern Feed SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed SD
-https://tvpass.org/live/VH1East/sd
-
 #EXTINF:-1  tvg-name="VH1 HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 HD
-https://e4.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=yaB696S-0R7hdV2AwGN-8w&expires=1758662984&user_id=Y3Y2d210SFZVQks3a01HN3cxZ0RiVnR3Z3VSSmFmOG9zNDRHQnV6cA==
+https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=Ip6kWHMncp_PNEyyT3AGtg&expires=1758749363&user_id=V3B5ODFCRE9qTkFIcm1icjZJOTR6cTlaSUNYVmtiNGtkRHZ1NnVtTA==
 
 #EXTINF:-1  tvg-name="VH1 Queens of Reality" tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-chno="1675" group-title="PlutoTV - United Kingdom",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 
 #EXTINF:-1  tvg-name="VH1 SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 SD
-https://e4.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8?token=Ht1RuYO4pmwai9v_UxxtgA&expires=1758662979&user_id=Y3Y2d210SFZVQks3a01HN3cxZ0RiVnR3Z3VSSmFmOG9zNDRHQnV6cA==
+https://v18.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8?token=6x2q4vYW-BQMFB7D89XgNQ&expires=1758749359&user_id=V3B5ODFCRE9qTkFIcm1icjZJOTR6cTlaSUNYVmtiNGtkRHZ1NnVtTA==
 
 #EXTINF:-1  tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH1.png" group-title="DaddyLive USA",VH1 USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium344%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
