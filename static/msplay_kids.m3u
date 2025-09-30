@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-29 17:32:25 UTC
-# Total Channels: 80
+# Generated: 2025-09-30 17:31:29 UTC
+# Total Channels: 85
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== KIDS (80 channels) ======
+# ====== KIDS (85 channels) ======
 
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -71,17 +71,32 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112907.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png" group-title="AriaPlus - United States",Boomerang
 https://tvpass.org/live/Boomerang/hd
 
+#EXTINF:-1  tvg-id="Boomerang.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="DaddyLive USA",Boomerang
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium648%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",Boomerang
 https://fl25.moveonjoy.com/BOOMERANG/index.m3u8
 
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/boomerang-hd-us.png?raw=true" group-title="Tims247 - 24/7",Boomerang
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/6f26a3f2f96ca70a26215b8351a36742.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjZmMjZhM2YyZjk2Y2E3MGEyNjIxNWI4MzUxYTM2NzQyIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTI0OTAxNCwiZXhwIjoxNzU5MjU2MjE0fQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ
+
 #EXTINF:-1  tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang HD
-https://v5.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=3uxhsIE2iSfxADKuHqPUoA&expires=1759184087&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v17.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=qKIjFP2YURxiIlO4GfSjHg&expires=1759266807&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang SD
-https://v5.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8?token=C4Dzs4e9Ts-MmwAYqj4Djw&expires=1759184082&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e1.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8?token=4UqH92dQ0ufXjPUFWBUIPA&expires=1759266803&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
+#EXTINF:-1  tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="DaddyLive USA",Discovery Family
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium657%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="DISCOVERY FAMILY CHANNEL" tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",DISCOVERY FAMILY CHANNEL
 https://fl25.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+#EXTINF:-1  tvg-name="Discovery Family Channel HD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TheTVApp",Discovery Family Channel HD
+https://e5.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=3l-ocgdV6Mvs_WeFRMwl_w&expires=1759266944&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
+#EXTINF:-1  tvg-name="Discovery Family Channel SD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TheTVApp",Discovery Family Channel SD
+https://v2.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8?token=VpTFZT2JGeu6t_9m9Gfigg&expires=1759266939&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" group-title="Korea",EBS 1 Ⓢ
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -119,9 +134,6 @@ https://live-content.xumo.com/3769/content/XM0PP71OMIXGVY/24100447/master.m3u8
 #EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
 http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
 
-#EXTINF:-1  tvg-id="715941" tvg-logo="https://canvas-lb.tubitv.com/opts/97xH-Xj-ZVtn1A==/d989c21f-9244-4791-84c5-14af3db5758a/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Family Faves
-https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab8676f0981/playlist.m3u8
-
 #EXTINF:-1  tvg-name="Family Feud" tvg-id="672e4d915534bb0008c50168" tvg-logo="https://images.pluto.tv/channels/672e4d915534bb0008c50168/colorLogoPNG_1732662454856.png" tvg-chno="2290" group-title="PlutoTV - United Kingdom",Family Feud
 https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
 
@@ -151,9 +163,6 @@ https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
 #EXTINF:-1  tvg-name="Family Ties" tvg-id="USBB3500003D6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" tvg-chno="2675" group-title="PlutoTV - United States",Family Ties
 https://jmp2.uk/stvp-USBB3500003D6
-
-#EXTINF:-1  tvg-id="715948" tvg-logo="https://canvas-lb.tubitv.com/opts/fScebgMxe5tv5Q==/6ea6276d-0cdb-4348-a68f-5b6cc575c8cb/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Family Unscripted
-https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Forever Kids" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" tvg-chno="3900" group-title="PlutoTV - United Kingdom",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
@@ -194,11 +203,14 @@ https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 #EXTINF:-1  tvg-id="GB900003KR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" tvg-chno="4823" group-title="SamsungTVPlus - UK",Mr Bean Animated (UK)
 https://jmp2.uk/stvp-GB900003KR
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="AriaPlus - United States",Nick Jr.
-https://tvpass.org/live/NickJrEast/hd
+#EXTINF:-1  tvg-id="Nick.Jr.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="DaddyLive USA",NICK JR
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium329%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="Nick Jr. FHD" tvg-id="Nick.Jr.HD.us2" tvg-logo="https://i.imgur.com/cHN8fE8.png" group-title="A1xmedia US Channels" radio="false",Nick Jr. FHD
 https://a1xs.vip/300033
+
+#EXTINF:-1  tvg-name="Nick Jr. HD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TheTVApp",Nick Jr. HD
+https://v3.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=S8yJZAPbJ9OwzN5oGjVFMw&expires=1759267437&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="Nick Jr. Pluto TV" tvg-id="62bdb75c3afd1200079146a6" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" tvg-chno="600" group-title="PlutoTV - Canada",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
@@ -212,14 +224,14 @@ https://a1xs.vip/1000052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png" group-title="AriaPlus - Australia",Nickelodeon
 http://44.32.200.212:5004/auto/v13
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="AriaPlus - United States",Nickelodeon
+https://tvpass.org/live/NickelodeonEast/hd
+
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",Nickelodeon
 https://fl25.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1  tvg-name="Nickelodeon East HD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="TheTVApp",Nickelodeon East HD
-https://e5.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=UzE4fjQlXzY5ybcz2tvs2Q&expires=1759184729&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
-#EXTINF:-1  tvg-name="Nickelodeon East SD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="TheTVApp",Nickelodeon East SD
-https://e5.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8?token=Tft6ChEYoqFi1jpAj8kcCQ&expires=1759184724&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Nickelodeon" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Tims247 - 24/7",Nickelodeon
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/e07a573f0a6ea861a83fc63aa1fdf2cb.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImUwN2E1NzNmMGE2ZWE4NjFhODNmYzYzYWExZmRmMmNiIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTI0OTA5NywiZXhwIjoxNzU5MjU2Mjk3fQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ
 
 #EXTINF:-1  tvg-name="Nickelodeon en espaÃ±ol" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-chno="3780" group-title="PlutoTV - United Kingdom",Nickelodeon en espaÃ±ol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
@@ -238,6 +250,9 @@ https://fl25.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1  tvg-name="PBS Kids" tvg-id="USBC3600013PC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20241112T001723SQUARE.png" tvg-chno="3615" group-title="PlutoTV - United States",PBS Kids
 https://jmp2.uk/stvp-USBC3600013PC
+
+#EXTINF:-1  tvg-name="PBS Kids (KET)" tvg-id="PBS.(KET2).Lexington,.KY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dot-icon-us.png?raw=true" group-title="MoveOnJoy" radio="false",PBS Kids (KET)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1  tvg-name="TG Junior" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" tvg-chno="3666" group-title="PlutoTV - United States",TG Junior
 https://jmp2.uk/stvp-USBB3600001R6

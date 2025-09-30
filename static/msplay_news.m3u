@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-09-29 17:32:25 UTC
-# Total Channels: 1,232
+# Generated: 2025-09-30 17:31:29 UTC
+# Total Channels: 1,202
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (1232 channels) ======
+# ====== NEWS (1202 channels) ======
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped" group-title="LGTV USA",104 Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051&ads.asnw=169843&ads.afid=158702674&ads.sfid=16520667&ads.csid=lgchannels_us_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99993051&ads._fw_ifa_type=dpid
@@ -506,11 +506,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6674b595f04c
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" group-title="PlexTV",A&E Crime 360
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="A&E SD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E SD
-https://e4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8?token=oFiRZxsbxFLW9UGN5ErtaA&expires=1759183981&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" group-title="Albania",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="ABC" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/abc_2.png" group-title="Tims247 - 24/7",ABC
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/wffwehg9yklo7k3dmabqxi70sbws5w4q.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IndmZndlaGc5eWtsbzdrM2RtYWJxeGk3MHNid3M1dzRxIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTI0OTAxMiwiZXhwIjoxNzU5MjU2MjEyfQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="AriaPlus - Australia",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
@@ -536,14 +536,14 @@ https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1  tvg-name="ABC News Live" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" tvg-chno="1112" group-title="PlutoTV - United States",ABC News Live
 https://jmp2.uk/stvp-USBC39000171G
 
-#EXTINF:-1  tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",ABC News Live
-https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
-
 #EXTINF:-1  tvg-name="ABC7 Bay Area" tvg-id="99951173" tvg-logo="https://image.xumo.com/v1/channels/channel/99951173/168x168.png?type=color_onBlack" group-title="Xumo Streams",ABC7 Bay Area
 https://content-dtci.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=kgo_live&ad.vast3=1&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.networkID=21783347309&ad.adUnit=/KGO/xumo/web/fast-channel&ad.ppid=559151d1-ca50-4692-8b4f-19e309876d95&ad.correlator=1755836222266&ad.scor=1755836222266&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=559151d1-ca50-4692-8b4f-19e309876d95&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=&ad.cust_params=vdm%3Dlive%26chan%3Dabc%26plt%3Dctv%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%26vps%3D640x480%26ppid%3D559151d1-ca50-4692-8b4f-19e309876d95%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26var%3D16x9
 
 #EXTINF:-1  tvg-name="ABC7 New York" tvg-id="99951169" tvg-logo="https://image.xumo.com/v1/channels/channel/99951169/168x168.png?type=color_onBlack" group-title="Xumo Streams",ABC7 New York
 https://content-dtci.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=wabc_live&ad.vast3=1&ad.description_url=https://abcnews.go.com&ad.networkID=21783347309&ad.adUnit=/WABC/xumo/web/fast-channel&ad.ppid=4482b8f9-c16b-4c71-a805-c5eda19bb081&ad.correlator=1755836189976&ad.scor=1755836189976&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=4482b8f9-c16b-4c71-a805-c5eda19bb081&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=&ad.cust_params=vdm=live&chan=abc&plt=ctv&refDomain=https://abcnews.go.com&vps=640x480&ppid=4482b8f9-c16b-4c71-a805-c5eda19bb081&beacTyp=ssai&sp=vdms&ait=ssai&var=16x9
+
+#EXTINF:-1  tvg-name="ACC Network SD" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="TheTVApp",ACC Network SD
+https://v15.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8?token=BgDW-pOsgsoYBrz-lAEZ5g&expires=1759266711&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/755bfa66-9d86-449b-9af3-8abd5c3b9f10/ACCDN_Logo_1500x1000_Dark_Background_-_Mathew_Carstens.png" group-title="PlexTV",ACCDN
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -737,11 +737,14 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63e63f20abac
 #EXTINF:-1  tvg-name="BBC AMERICA" tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",BBC AMERICA
 https://fl25.moveonjoy.com/BBC_AMERICA/index.m3u8
 
+#EXTINF:-1  tvg-id="BBC.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="DaddyLive USA",BBC America (BBCA)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium305%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="BBC America HD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TheTVApp",BBC America HD
-https://v8.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=_im3fRXu15tCYMDgRcX05Q&expires=1759184032&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e2.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=FOKxtrYWejXewmjpjuhBNA&expires=1759266752&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="BBC America SD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TheTVApp",BBC America SD
-https://v8.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=XV4sUV0e8KRtGjQIzz6Dhg&expires=1759184027&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v17.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8?token=_POLDs95QFM1rry-W9whlg&expires=1759266748&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="PlexTV",BBC Comedy
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -788,6 +791,9 @@ https://jmp2.uk/stvp-CABD1200010LE
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="AriaPlus - United Kingdom",BBC Four
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 
+#EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" group-title="DaddyLive UK",BBC Four UK
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium359%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6b8b55c-c48b-4f01-b357-5c9d62779cd8/BBC_GAME_SHOWS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="PlexTV",BBC Game Shows
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
@@ -809,6 +815,9 @@ https://jmp2.uk/stvp-US800003JM
 #EXTINF:-1  tvg-id="CA800001ZX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250805T010110SQUARE.png" tvg-chno="3724" group-title="SamsungTVPlus - CA",BBC Kids (CA)
 https://jmp2.uk/stvp-CA800001ZX
 
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="AriaPlus - United Kingdom",BBC News
+http://86.180.115.121:1990/stream/channelid/396948315?profile=pass
+
 #EXTINF:-1  tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" tvg-chno="2629" group-title="PlutoTV - United Kingdom",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 
@@ -821,11 +830,17 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 group-title="JapanTV" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
 
+#EXTINF:-1  tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-world-news-hz-uk.png?raw=true" group-title="DaddyLive USA",BBC News Channel HD
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium349%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="BBC News FHD" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://i.imgur.com/wZcplCT.png" group-title="A1xmedia UK Channels" radio="false",BBC News FHD
 https://a1xs.vip/1000015
 
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="FSTV",BBC News UK
-https://fstv.zip/player?link=https%3A%2F%2Fo2.sundaytueday.store%2Fuk-bbcnews.m3u8%3Fauth_key%3D1759164406-db5c30d9bb8573a891b65d43d5ad9a47-00000000000000000000000000000000-f80c7f02bf23f55904af5842b932144d&type=hls&isLive=false
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="AriaPlus - United Kingdom",BBC One
+http://86.180.115.121:1990/stream/channelid/2113595444?profile=pass
+
+#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="DaddyLive UK",BBC One UK
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium356%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="PlexTV",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -833,20 +848,26 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbc
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="AriaPlus - United Kingdom",BBC Three
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
+#EXTINF:-1  tvg-id="BBC.Three.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="DaddyLive UK",BBC Three UK
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium358%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="PlexTV",BBC Travel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="AriaPlus - United Kingdom",BBC Two
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 
+#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="DaddyLive UK",BBC Two UK
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium357%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="BBC WORLD NEWS" tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="MoveOnJoy" radio="false",BBC WORLD NEWS
 https://fl25.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
 #EXTINF:-1  tvg-name="BBC World News HD HD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TheTVApp",BBC World News HD HD
-https://v12.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=f9xduZZBXmEqpgU-GXYSwg&expires=1759184041&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e2.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=2BfU2x63r0-bUTdBsDySqw&expires=1759266761&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="BBC World News HD SD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TheTVApp",BBC World News HD SD
-https://v2.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8?token=dRcI-WSLHObjQ4AgaO6wHQ&expires=1759184037&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e2.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8?token=GrHtBCiCqmFUzWwcgI4Nbg&expires=1759266757&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" tvg-id="BBCRadioWorldService.uk" group-title="UK",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
@@ -974,9 +995,6 @@ https://jmp2.uk/stvp-USAJ30000041W
 #EXTINF:-1  tvg-id="KRBB500044GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20250402T005610SQUARE.png" tvg-chno="794" group-title="SamsungTVPlus - South Korea",Bloomberg Originals
 https://jmp2.uk/stvp-KRBB500044GP
 
-#EXTINF:-1  tvg-id="571664" tvg-logo="https://canvas-lb.tubitv.com/opts/ttUV_o1MiFKnFQ==/0536c907-af63-40b6-a8d7-62c190492c5a/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Bloomberg Originals
-https://live-manifest.production-public.tubi.io/live/2d0569a6-6f5c-4d03-b418-3853cf9edc25/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" tvg-id="BloombergTVEurope.uk" group-title="UK",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
@@ -984,10 +1002,10 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 
 #EXTINF:-1  tvg-name="Bloomberg TV HD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TheTVApp",Bloomberg TV HD
-https://v12.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=XUgT1lE8YDoLg1EcMC_nPA&expires=1759184078&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v18.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=1t-Z0_cDK7fF4OtW1e0EbQ&expires=1759266798&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="Bloomberg TV SD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TheTVApp",Bloomberg TV SD
-https://v1.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8?token=OiuTsL38WRAh6YSkdYoxXg&expires=1759184073&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v18.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8?token=4eLtcrIiWKefEB0ja7NpTw&expires=1759266793&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -997,9 +1015,6 @@ https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
 
 #EXTINF:-1  tvg-name="Bloomberg TV+" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20241203T231504SQUARE.png" tvg-chno="1155" group-title="PlutoTV - United States",Bloomberg TV+
 https://jmp2.uk/stvp-USAJ3400011A8
-
-#EXTINF:-1  tvg-id="555124" tvg-logo="https://canvas-lb.tubitv.com/opts/Y-vFFHuAXASLSg==/fde25048-c7d2-4bfb-b744-06755f42d915/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Bloomberg TV+
-https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
 
 #EXTINF:-1  tvg-id="GBBA3300033C2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20250107T022527SQUARE.png" tvg-chno="4572" group-title="SamsungTVPlus - UK",Bloomberg TV+ (UK)
 https://jmp2.uk/stvp-GBBA3300033C2
@@ -1085,6 +1100,18 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6605be856b03
 #EXTINF:-1 tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png" group-title="AriaPlus - Canada",Cartoon Network
 http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/6/62/Cartoon_Network_South_Korea.png/revision/latest?cb=20191113004608" tvg-logo="" group-title="AriaPlus - South Korea",Cartoon Network
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=EZYDWDyS1Bw7xiDHQvH0k39UGRrzeEZKFmbKHj7s&secret=afcfe5f046e1218d3cc5b160b4d5118b&time=1749703097
+
+#EXTINF:-1  tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="DaddyLive USA",Cartoon Network
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium339%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1  tvg-name="CARTOON NETWORK" tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",CARTOON NETWORK
+https://fl25.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Cartoon Network" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cartoon.png" group-title="Tims247 - 24/7",Cartoon Network
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/j7frlCr9theTHiPhistuSPInuchosawE.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo3ZnJsQ3I5dGhlVEhpUGhpc3R1U1BJbnVjaG9zYXdFIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTI0OTAxNSwiZXhwIjoxNzU5MjU2MjE1fQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ
+
 #EXTINF:-1 group-title="JapanTV" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs25
 
@@ -1098,13 +1125,13 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://a1xs.vip/300032
 
 #EXTINF:-1  tvg-name="Cartoon Network HD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="TheTVApp",Cartoon Network HD
-https://e3.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=o6PF83ftMIj6Z2P1_zNNYA&expires=1759184105&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v4.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=JKI77vJ3g5Cfpe2FGD8zqg&expires=1759266825&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 group-title="JapanTV" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
 https://ca01.utako.moe/cartoon_network/index.m3u8
 
 #EXTINF:-1  tvg-name="Cartoon Network SD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="TheTVApp",Cartoon Network SD
-https://v15.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8?token=Qvequ-aPx9YQeTzuUA7G7w&expires=1759184101&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v13.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8?token=x0H5DmbtXP6t8lnIXIhj5w&expires=1759266821&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="Case Pazzesche – Pluto TV" tvg-logo="https://i.imgur.com/v8IDWwX.png" group-title="VOD Italy",Case Pazzesche – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626bb07a58b8dd0007e9f36e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1123,9 +1150,6 @@ https://jmp2.uk/stvp-USBC4400003OU
 
 #EXTINF:-1  tvg-name="CBC News" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png" tvg-chno="142" group-title="RokuTV",CBC News
 https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
-
-#EXTINF:-1  tvg-id="555130" tvg-logo="https://canvas-lb.tubitv.com/opts/LXRAZJAoCk0umQ==/4de90f79-d72c-4016-a740-93916a615dc2/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",CBC News
-https://live-manifest.production-public.tubi.io/live/08b1a540-5618-46ce-b6e2-c0dfd1e8786f/playlist.m3u8
 
 #EXTINF:-1  tvg-name="CBC News" tvg-id="99991276" tvg-logo="https://image.xumo.com/v1/channels/channel/99991276/168x168.png?type=color_onBlack" group-title="Xumo Streams",CBC News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_channelId=99991276&ads._fw_ifa_type=&ads._fw_did=409272f4-5db0-49ed-b6f3-1733fc3f8965&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=CBCNewsEnglish&ads.csid=xumo_web_CBCNewsEnglish_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=207&ads.xumo_contentName=CBCNewsEnglish&ads.xumo_providerId=207&ads.xumo_providerName=CBCNewsEnglish&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991276&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -1244,11 +1268,11 @@ https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
 #EXTINF:-1  tvg-name="CBS News Detroit" tvg-id="634f2610d5023700078f7dee" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" tvg-chno="5140" group-title="PlutoTV - United Kingdom",CBS News Detroit
 https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
 
-#EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="2560" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
-https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
-
 #EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc481cda1d430000948a1b4" tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" tvg-chno="5150" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
 https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
+
+#EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" tvg-chno="2560" group-title="PlutoTV - United Kingdom",CBS News Los Angeles
+https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 
 #EXTINF:-1  tvg-name="CBS News Los Angeles" tvg-id="99991642" tvg-logo="https://image.xumo.com/v1/channels/channel/99991642/168x168.png?type=color_onBlack" group-title="Xumo Streams",CBS News Los Angeles
 https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8?imafw_csid=;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
@@ -1258,6 +1282,12 @@ https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
 
 #EXTINF:-1  tvg-name="CBS News Minnesota" tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" tvg-chno="5170" group-title="PlutoTV - United Kingdom",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
+
+#EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc9b8223687ff000936ed79" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" tvg-chno="2550" group-title="PlutoTV - United Kingdom",CBS News New York
+https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
+
+#EXTINF:-1  tvg-name="CBS News New York" tvg-id="5dc48170e280c80009a861ab" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" tvg-chno="5180" group-title="PlutoTV - United Kingdom",CBS News New York
+https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 
 #EXTINF:-1  tvg-name="CBS News New York" tvg-id="99991641" tvg-logo="https://image.xumo.com/v1/channels/channel/99991641/168x168.png?type=color_onBlack" group-title="Xumo Streams",CBS News New York
 https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8?imafw_csid=;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
@@ -1307,9 +1337,6 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Channel 3 Eyewitness News" tvg-id="307cbde3d30957828ff68b3b979d6958" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307cbde3d30957828ff68b3b979d6958/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746558269828_WFSB_EPG_Hud_LogoWFSB_HUD_logo_260x147_Centered.png" tvg-chno="4260" group-title="RokuTV",Channel 3 Eyewitness News
 https://jmp2.uk/rok-307cbde3d30957828ff68b3b979d6958.m3u8
 
-#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" group-title="News",Channel News Asia
-https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-67be3cc41a98aab3729899ba" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0f3b50b-fe22-4c4b-bce2-2fa14ef0d5f9/Chaos_Cam_by_AE_channel_logo_W_1500x1000_-_Laura_Connolly.png" group-title="PlexTV",Chaos Cam by A&E
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67be3cc41a98aab3729899ba.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
@@ -1349,9 +1376,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65f0e049046e
 #EXTINF:-1 tvg-name="Cinema Italiano – Pluto TV" tvg-logo="https://i.imgur.com/drDX5DC.png" tvg-id="PlutoTVCinemaItalianoItaly.it" group-title="VOD Italy",Cinema Italiano – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1  tvg-name="Cinemax SD" tvg-id="cinemax-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="TheTVApp",Cinemax SD
-https://e5.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8?token=W7DMfu6JUdWV2gOF_LeUow&expires=1759184119&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1 tvg-id="CITY.Toronto.ON.ca" tvg-logo="https://media.starlite.best/city.toronto.on.ca.png" group-title="AriaPlus - Canada",CityTV Toronto
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40752.ts
 
@@ -1370,17 +1394,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="PlexTV",Classic Rock
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="Cleveland 19 News Plus" tvg-id="d0d9af56b7735c318b66afe21089d028" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d0d9af56b7735c318b66afe21089d028/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345937107_WOIO_EPG%2526Hud_LogoWOIO_HUD_logo_260x147.png" tvg-chno="4192" group-title="RokuTV",Cleveland 19 News Plus
-https://jmp2.uk/rok-d0d9af56b7735c318b66afe21089d028.m3u8
-
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="PlexTV",Clic
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1 tvg-name="Club RTL" tvg-logo="https://i.imgur.com/e9GkFwY.png" tvg-id="ClubRTL.be" group-title="Belgium",Club RTL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts
-
 #EXTINF:-1 tvg-id="CMT.Canada.ca" tvg-logo="https://media.starlite.best/cmt.canada.ca.png" group-title="AriaPlus - Canada",CMT
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40750.ts
+
+#EXTINF:-1  tvg-name="CMT HD" tvg-id="cmt-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-color-us.png?raw=true" group-title="TheTVApp",CMT HD
+https://e4.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8?token=XiR6FBkdw7h1djPDu3wT1g&expires=1759266853&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="CNBC" tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",CNBC
 https://fl25.moveonjoy.com/CNBC/index.m3u8
@@ -1398,7 +1419,7 @@ https://a1xs.vip/300009
 https://a1xs.vip/300010
 
 #EXTINF:-1  tvg-name="CNBC HD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" group-title="TheTVApp",CNBC HD
-https://e2.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=D_nGXetVKtrIk5D4FCAb6Q&expires=1759184142&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e1.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=JEGHlzuMP9-YFb3aJC0ZdA&expires=1759266862&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://imgur.com/ie2zSTY" tvg-id="CNBCIndonesia.am" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -1407,7 +1428,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1  tvg-name="CNBC SD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" group-title="TheTVApp",CNBC SD
-https://e2.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=sR1G6BHzC-31_j-alNpM7Q&expires=1759184137&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v16.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=84kAlKT1hwtgMODQnj1mqA&expires=1759266857&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
+#EXTINF:-1  tvg-id="CNBC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-us.png?raw=true" group-title="DaddyLive USA",CNBC USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium309%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1  tvg-name="CNBC USA SD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" group-title="TVPass",CNBC USA SD
+https://tvpass.org/live/CNBC/sd
 
 #EXTINF:-1 tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" group-title="USA",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
@@ -1422,7 +1449,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 https://jmp2.uk/stvp-GBBD8000016N
 
 #EXTINF:-1  tvg-name="CNN HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TheTVApp",CNN HD
-https://e2.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=mNy2gmBQGAJTVU7x4suVog&expires=1759184151&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v5.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=WK4y5ziajdWtcWbEBJJrCw&expires=1759266871&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4231e1c1-803e-4743-a5fe-98778cb2f6c2/CNN_Headlines_FastChannel_Logo_Dark_1500x1000.png" group-title="PlexTV",CNN Headlines
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -1457,11 +1484,8 @@ https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
 #EXTINF:-1  tvg-name="CNN Originals" tvg-id="99951387" tvg-logo="https://image.xumo.com/v1/channels/channel/99951387/168x168.png?type=color_onBlack" group-title="Xumo Streams",CNN Originals
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=43a92633-8434-44a4-a334-768543e125f4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
-#EXTINF:-1  tvg-name="CNN SD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TheTVApp",CNN SD
-https://e2.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8?token=mbMvyP3uEgDgK2xfoWrawg&expires=1759184147&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
-#EXTINF:-1  tvg-name="CNN US SD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TVPass",CNN US SD
-https://tvpass.org/live/CNN/sd
+#EXTINF:-1  tvg-id="CNN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="DaddyLive USA",CNN USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium345%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="CNN XPRESS" tvg-id="673248f9030a2c0008033af8" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" tvg-chno="4525" group-title="PlutoTV - United Kingdom",CNN XPRESS
 https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
@@ -1499,9 +1523,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c1c8f5724
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66ce3ef09ac0b1441b19ca2b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c8909c9-e161-4bca-afd4-649b7486a01b/Continuum_Channel_Logo_White.png" group-title="PlexTV",Continuum
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ce3ef09ac0b1441b19ca2b.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="Cooking Channel SD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TheTVApp",Cooking Channel SD
-https://v14.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8?token=JdkXFiR0wqLBOb-P6Rta0w&expires=1759184165&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="PlexTV",Cops en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6477b95b7ba9c0d593859bfc.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
@@ -1523,9 +1544,6 @@ https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 #EXTINF:-1  tvg-name="Court TV" tvg-id="USBA34000049Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20250513T012620SQUARE.png" tvg-chno="1892" group-title="PlutoTV - United States",Court TV
 https://jmp2.uk/stvp-USBA34000049Z
 
-#EXTINF:-1  tvg-id="682630" tvg-logo="https://canvas-lb.tubitv.com/opts/YIq2jr1bUlLbSg==/c2033d61-8138-4bed-abdc-9e512b797080/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Court TV
-https://live-manifest.production-public.tubi.io/live/18bd09d5-37b1-443e-b6e7-d4add644d3c9/playlist.m3u8
-
 #EXTINF:-1  tvg-name="Court TV" tvg-id="99991713" tvg-logo="https://image.xumo.com/v1/channels/channel/99991713/168x168.png?type=color_onBlack" group-title="Xumo Streams",Court TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991713/hls/playlist.m3u8?ads.xumo_channelId=99991713&ads._fw_ifa_type=&ads._fw_did=0b70a46f-9d6b-4efe-87d6-a0e233f73dc5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsTVCourtTV&ads.csid=xumo_web_ScrippsTVCourtTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2048&ads.xumo_contentName=ScrippsTVCourtTV&ads.xumo_providerId=2048&ads.xumo_providerName=ScrippsTVCourtTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991713&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
@@ -1537,6 +1555,9 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:-1  tvg-name="Court TV Legendary Trials" tvg-id="99951233" tvg-logo="https://image.xumo.com/v1/channels/channel/99951233/168x168.png?type=color_onBlack" group-title="Xumo Streams",Court TV Legendary Trials
 https://dbrb49pjoymg4.cloudfront.net/10001/99951233/hls/playlist.m3u8?ads.xumo_channelId=99951233&ads._fw_ifa_type=&ads._fw_did=9578335e-967e-46e5-86d9-9c348ae23eb7&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsCourtTVLegendaryTrials&ads.csid=xumo_web_ScrippsCourtTVLegendaryTrials_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3924&ads.xumo_contentName=ScrippsCourtTVLegendaryTrials&ads.xumo_providerId=3924&ads.xumo_providerName=ScrippsCourtTVLegendaryTrials&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951233&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-id="Court.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" group-title="DaddyLive USA",Court TV USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium281%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1 tvg-id="CP24.(CablePulse.24).ca" tvg-logo="https://media.starlite.best/cp24.cablepulse.24.ca.png" group-title="AriaPlus - Canada",CP24
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40740.ts
@@ -1657,12 +1678,6 @@ https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DION" tvg-logo="https://i.imgur.com/13MverN.png" tvg-id="DionTV.gr" group-title="Greece",DION
 https://rtmp.win:3650/live/diontvlive.m3u8
-
-#EXTINF:-1  tvg-name="Discovery Family Channel HD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TheTVApp",Discovery Family Channel HD
-https://v8.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=Po6y4H_pc173dW7HFubRLQ&expires=1759184225&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
-#EXTINF:-1  tvg-name="Disney Channel (East) SD" tvg-id="disney-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screen-bug/disney-channel-bug-us.png?raw=true" group-title="TheTVApp",Disney Channel (East) SD
-https://v2.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?token=7op_J2wRToUHlnq-UsjFDg&expires=1759184238&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
 
 #EXTINF:-1  tvg-name="Divorce Court" tvg-id="USBD300006A6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20250211T021721SQUARE.png" tvg-chno="2934" group-title="PlutoTV - United States",Divorce Court
 https://jmp2.uk/stvp-USBD300006A6
@@ -1814,6 +1829,9 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1  tvg-name="E! East" tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="MoveOnJoy" radio="false",E! East
 https://fl25.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
+#EXTINF:-1  tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="DaddyLive USA",E! Entertainment Television
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium315%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-id="GBBD3200001E2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200001E2_20250107T030638SQUARE.png" tvg-chno="4496" group-title="SamsungTVPlus - UK",Earth Touch (UK)
 https://jmp2.uk/stvp-GBBD3200001E2
 
@@ -1868,9 +1886,6 @@ https://jmp2.uk/stvp-USAJ2200020N4
 #EXTINF:-1  tvg-name="Estrella News" tvg-id="0af429c36c6b517e8df2025e809b3964" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0af429c36c6b517e8df2025e809b3964/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921499084_RoKu_260x147_Estrella_NEWS.png" tvg-chno="900" group-title="RokuTV",Estrella News
 https://jmp2.uk/rok-0af429c36c6b517e8df2025e809b3964.m3u8
 
-#EXTINF:-1  tvg-id="560215" tvg-logo="https://canvas-lb.tubitv.com/opts/5lwzo7BT_au5Nw==/6693c612-32f8-4e02-be56-0029a4576cb2/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Estrella News
-https://live-manifest.production-public.tubi.io/live/1c67c086-8938-4961-9b14-2546c4b9be0b/playlist.m3u8
-
 #EXTINF:-1  tvg-name="Estrella News" tvg-id="99991776" tvg-logo="https://image.xumo.com/v1/channels/channel/99991776/168x168.png?type=color_onBlack" group-title="Xumo Streams",Estrella News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776&ads._fw_ifa_type=&ads._fw_did=c2b10dd5-8be7-4684-90f4-2fd5cb18158b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=EstrellaNews&ads.csid=xumo_web_EstrellaNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2641&ads.xumo_contentName=EstrellaNews&ads.xumo_providerId=2641&ads.xumo_providerName=EstrellaNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991776&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
@@ -1880,11 +1895,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d98f682
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV",Euro Hits
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" group-title="DaddyLive - Hoops Central",Euroleague : Virtus Bologna vs. Real Madrid (Sep 30-2025 6:45 PM UK / Sep 30-2025 11:45 AM MT / Sep 30-2025 1:45 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium170%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" group-title="PlexTV",Euronews
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60089d90f682a3002c348299.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="559144" tvg-logo="https://canvas-lb.tubitv.com/opts/R85W7qpShoJ77Q==/bac08913-5ae4-4e98-8a24-18f143bd6e25/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Euronews
-https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Albania Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" tvg-id="EuronewsAlbania.al" group-title="Albania",Euronews Albania Ⓨ
 https://www.youtube.com/@EuronewsAlbania/live
@@ -1964,6 +1979,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-651600fb2ff6
 #EXTINF:-1 tvg-name="FehérvárTV" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" group-title="Hungary",FehérvárTV
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
 
+#EXTINF:-1  tvg-id="Family.Entertainment.Television.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fetv-us.png?raw=true" group-title="DaddyLive USA",FETV - Family Entertainment Television
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium751%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64106a1075be345a863fe0d7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2355a75e-cc71-4f8c-89bb-69587e8e4fc6/5thcd2457359e3d9e7c617b0296c36feb09OG_RDX_Color.png" group-title="PlexTV",Fifth Gear (UK)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64106a1075be345a863fe0d7.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
@@ -2012,6 +2030,21 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ea09a39502
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-67cbd3318fe3ca436b8b0496" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6945fcee-40cf-4ac4-b20b-4ebc4be83057/Plex_FilmRiseMusic_WHITE.png" group-title="PlexTV",FilmRise Music
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67cbd3318fe3ca436b8b0496.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/452f1693-0c65-4d2d-8fb2-de1ef429164f/FilmRiseTrueCrime_Logo_Color.png" group-title="PlexTV",FilmRise True Crime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",FIM Speedway of Nations Semi-Final 1 | Torun (Sep 30-2025 4:45 PM UK / Sep 30-2025 9:45 AM MT / Sep 30-2025 11:45 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium879%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",FIM Speedway of Nations Semi-Final 1 | Torun (Sep 30-2025 4:45 PM UK / Sep 30-2025 9:45 AM MT / Sep 30-2025 11:45 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium232%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",FIM Speedway of Nations Semi-Final 1 | Torun (Sep 30-2025 4:45 PM UK / Sep 30-2025 9:45 AM MT / Sep 30-2025 11:45 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium58%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",FIM Speedway of Nations Semi-Final 1 | Torun (Sep 30-2025 4:45 PM UK / Sep 30-2025 9:45 AM MT / Sep 30-2025 11:45 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium773%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="First Alert 4 St. Louis" tvg-id="e8f8972f377a598590592ecd079e7cc4" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e8f8972f377a598590592ecd079e7cc4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1703177116537_KMOV_EPG%2526Hud_LogoKMOV_HUD_logo_260x147_.png" tvg-chno="4210" group-title="RokuTV",First Alert 4 St. Louis
 https://jmp2.uk/rok-e8f8972f377a598590592ecd079e7cc4.m3u8
 
@@ -2021,8 +2054,20 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40743.ts
 #EXTINF:-1 tvg-name="Flicks of Fury" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="VOD Movies (EN)",Flicks of Fury
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-673675909564224797d5b598" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f379bffd-f0f8-41e8-8f68-f1e553471d89/FLOU_Detonacion_x_PLEX_1000_x_1500__White_RDX.png" group-title="PlexTV",FLOU Detonación
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3f79b58a-d938-4555-bed6-f64107110e63/FilmRise_ForensicFiles_Color_Logo.png" group-title="PlexTV",Forensic Files
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
 #EXTINF:-1 tvg-name="Forensic Files – Pluto TV" tvg-logo="https://i.imgur.com/hF5maH7.png" group-title="VOD Italy",Forensic Files – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6529ad9dc8221fe0db66c0b3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8d728a3a-76fd-4036-aa30-59834c9cf813/forkflight_1500x1000_light_-_Jose_Martinez.png" group-title="PlexTV",Fork & Flight
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6529ad9dc8221fe0db66c0b3.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-name="FOX (KTTV) Los Angeles SD" tvg-id="fox-kttv-los-angeles-ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TVPass",FOX (KTTV) Los Angeles SD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 
 #EXTINF:-1  tvg-name="FOX (WFLX)" tvg-id="FOX.(WFLX).West.Palm.Beach,.FL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="MoveOnJoy" radio="false",FOX (WFLX)
 https://fl25.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
@@ -2040,31 +2085,46 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951418/hls/playlist.m3u8?ads.xumo_c
 https://fl25.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1  tvg-name="Fox Business Network HD" tvg-id="fox-business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TheTVApp",Fox Business Network HD
-https://e3.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=Clb6CB6EhVJn9oSH42rJsw&expires=1759184325&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e3.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=twdac5jQdxMsqJ4E0JUaGA&expires=1759267044&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="Fox Business Network SD" tvg-id="fox-business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TheTVApp",Fox Business Network SD
-https://e3.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8?token=STEmfhFJMXZpYPmb526Lrg&expires=1759184321&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e3.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8?token=EQLPvvYr32foG2yjgJ-m4A&expires=1759267040&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
+#EXTINF:-1  tvg-name="Fox Business SD" tvg-id="fox-business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TVPass",Fox Business SD
+https://tvpass.org/live/FoxBusiness/sd
 
 #EXTINF:-1  tvg-name="FOX Deportes" tvg-id="63d0269d60bc8f000890facc" tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" tvg-chno="4550" group-title="PlutoTV - United Kingdom",FOX Deportes
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
+#EXTINF:-1  tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-deportes-flat-us.png?raw=true" group-title="DaddyLive USA",FOX Deportes USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium643%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="Fox News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://i.imgur.com/m22eA9B.png" group-title="A1xmedia US Channels" radio="false",Fox News
 https://a1xs.vip/300011
+
+#EXTINF:-1  tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="DaddyLive USA",Fox News
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium347%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="Tims247 - 24/7",Fox News
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/7c8ec2f20d8194418415ad9e644ed3ac.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjdjOGVjMmYyMGQ4MTk0NDE4NDE1YWQ5ZTY0NGVkM2FjIiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTI0OTA1MCwiZXhwIjoxNzU5MjU2MjUwfQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ
 
 #EXTINF:-1  tvg-name="FOX News Channel" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",FOX News Channel
 https://fl25.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1  tvg-name="FOX News Channel HD" tvg-id="fox-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TheTVApp",FOX News Channel HD
-https://e5.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=GSonwi3yYBUBoQ_l0N6Dcw&expires=1759184335&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v15.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=H7nUP8cqdtK56TJlfIjFaQ&expires=1759267054&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="FOX News Channel SD" tvg-id="fox-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TheTVApp",FOX News Channel SD
-https://e3.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8?token=CwmaBUHO-zkEmMfkRkLssg&expires=1759184330&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v15.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8?token=_g1HA4kSfB_Qoml0B56H1g&expires=1759267049&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="FOX SOUL" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" group-title="MoveOnJoy" radio="false",FOX SOUL
 https://fl25.moveonjoy.com/FOX_SOUL/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="AriaPlus - United States",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="PlexTV",FRANCE 24
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="France 24 Español Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24Espanol.fr" group-title="News (ES)",France 24 Español Ⓨ
 https://www.youtube.com/c/FRANCE24Espanol/live
@@ -2078,20 +2138,74 @@ https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="News",France 24 Ⓨ
 https://www.youtube.com/france24english/live
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b927ddc8-1ec7-4e82-896c-77028536e891/Free_Movies_plus_1500x1000rdx.png" group-title="PlexTV",Free Movies Plus
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-604bf68f499957002d574f45" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/freebietv_logo_dark.png" group-title="PlexTV",Freebie TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-604bf68f499957002d574f45.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31b558aa-aff3-4529-a3e1-db97b394e97f/FreeTVBanda_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Banda
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-608b7095a09205002da4f293" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b00e74dc-d15c-40c4-a411-c2a730034f5d/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Estelar
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608b7095a09205002da4f293.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Hits
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94b42b07-1f67-4538-8220-6c83c9a456f5/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Horror
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png" group-title="PlexTV",FreeTV Live
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Saber Más
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913ea15130002b284195.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV",FreeTV Sureño
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="PlexTV",FrightFlix
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="FS1" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs1.png" group-title="Tims247 - 24/7",FS1
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/j7xysrst3ytbc4h50of84mmbyrn4ba9v.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo3eHlzcnN0M3l0YmM0aDUwb2Y4NG1tYnlybjRiYTl2IiwidHlwZSI6InByb3h5X2FjY2VzcyIsImlhdCI6MTc1OTI0OTA3MSwiZXhwIjoxNzU5MjU2MjcxfQ.ciomRUhZRFdJaEgqRSZXRCNIWTc4ZWl1aG4zcjlmeQ
+
 #EXTINF:-1  tvg-name="FSCAPE" tvg-id="5e20b730f2f8d5003d739db7-635195e9ccee3e1547a8831a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77115f01-d00a-4ef0-bb00-dcb3896e1c09/f5c7ee72e5a980b3ac2a31fd94e112e8.png" group-title="PlexTV",Farscape
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635195e9ccee3e1547a8831a.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="FTV News (民視新聞台) Ⓨ" tvg-logo="https://i.imgur.com/j9Gebr5.png" tvg-id="FTVNews.tw" group-title="Taiwan",FTV News (民視新聞台) Ⓨ
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
+#EXTINF:-1  tvg-name="FUBOSNX" tvg-id="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/06c47ba211d9363a6b220b9ab6301be0.png" group-title="PlexTV",Fubo Sports Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-name="FWX" tvg-id="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="PlexTV",FOX Weather
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-name="FX HD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TheTVApp",FX HD
+https://v2.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8?token=UDwaUFyuCha64FHBoT1lWg&expires=1759267099&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
+#EXTINF:-1  tvg-name="FXX SD" tvg-id="fxx-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="TheTVApp",FXX SD
+https://v13.thetvapp.to/hls/FXXEast/tracks-v2a1/mono.m3u8?token=HiHYN4LfOXvICDJwk9fXPg&expires=1759267113&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png" group-title="PlexTV",Game & Fish TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/cms/production/690eb5a5-8a79-4f7a-8b6d-7ab2a01dc1d5/game-show-centralRDX.png" group-title="PlexTV",Game Show Central
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63d6f9b67c3070b6e06e0aad" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db913c01-eb1b-4e36-9f88-f7fe25389bc4/Wurl_GWMD_ChannelAllWhite_1500x1000.png" group-title="PlexTV",Gardening with Monty Don
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d6f9b67c3070b6e06e0aad.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="UK",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="News",GB News
-https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
-
 #EXTINF:-1  tvg-name="GB News" tvg-id="GB.News.HD.uk" tvg-logo="https://i.imgur.com/0OLwnMR.png" group-title="A1xmedia UK Channels" radio="false",GB News FHD
 https://a1xs.vip/1000017
+
+#EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="AriaPlus - United Kingdom",GB News
+http://86.180.115.121:1990/stream/channelid/1566175602?profile=pass
 
 #EXTINF:-1  tvg-id="GBBB1600008R3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png" tvg-chno="4553" group-title="SamsungTVPlus - UK",GB News (UK)
 https://jmp2.uk/stvp-GBBB1600008R3
@@ -2099,8 +2213,20 @@ https://jmp2.uk/stvp-GBBB1600008R3
 #EXTINF:-1 tvg-name="Geordie Shore – Pluto TV" tvg-logo="https://i.imgur.com/y0fkHVi.png" group-title="VOD Italy",Geordie Shore – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6699937717c9985deeb74e39" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d8ac3d3f-88be-4d2a-89f3-608f02e15728/GetFactual_Dark_Mode_Logordx.png" group-title="PlexTV",Get.Factual
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6699937717c9985deeb74e39.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
 #EXTINF:-1  tvg-name="GFDNFRD" tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="PlexTV",9 Story Presents: Garfield and Friends
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="PlexTV",Ghost Hunters Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66a294d3e1a2934adfe851f5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2354dc9b-6193-44a4-97e0-b9b876620fab/GhostsAreReal_Logo_Dark_1500x1000.png" group-title="PlexTV",Ghosts Are Real
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a294d3e1a2934adfe851f5.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="PlexTV",Glewed TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" tvg-id="GlobalNews.ca" group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
@@ -2156,6 +2282,18 @@ https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 #EXTINF:-1 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://i.ibb.co/0y1WZRV0/Global-Television-Network-2019-logo-svg.png" group-title="AriaPlus - Canada",Global Toronto (CIII)
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40703.ts
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/616ccdb3-bc16-4546-bfda-3102d114be5a/Go_Wild_Tilef0c5e75034912cf50d05c24ee0530aa8RDXFINAL.png" group-title="PlexTV",Go Wild
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25fe7ecc-9dce-41e3-baea-bb1d5cf49041/GoTraveler_logo_dark_background.png" group-title="PlexTV",GoTraveler
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-654d5db7ff9919cc3e31e961" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a937d36-e14d-470b-a909-746fb0744ec4/gousa-tvWHITE_RDX1500x1000.png" group-title="PlexTV",GoUSA TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-654d5db7ff9919cc3e31e961.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e33abab2-b500-4189-820b-b4448eaec393/1500x1000_Christmas_Channel_Logo_TRANSPARENTRDX.png" group-title="PlexTV",Gravitas Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
 #EXTINF:-1  tvg-id="GBBC900014LW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20250107T022833SQUARE.png" tvg-chno="4514" group-title="SamsungTVPlus - UK",Great British Menu (UK)
 https://jmp2.uk/stvp-GBBC900014LW
 
@@ -2165,20 +2303,38 @@ https://jmp2.uk/stvp-GBBC900007Q5
 #EXTINF:-1  tvg-id="GBBC900008L9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20250307T151838SQUARE.png" tvg-chno="4886" group-title="SamsungTVPlus - UK",Great! romance (UK)
 https://jmp2.uk/stvp-GBBC900008L9
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63489eff90b96ef5e0eb3282" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="PlexTV",Grjngo - Películas Del Oeste
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="PlexTV",Grjngo - Western Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-name="GUSTOTV" tvg-id="5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="PlexTV",GUSTOTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
 #EXTINF:-1  tvg-name="Hagerty" tvg-id="USBD4200011W4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png" tvg-chno="2545" group-title="PlutoTV - United States",Hagerty
 https://jmp2.uk/stvp-USBD4200011W4
 
-#EXTINF:-1  tvg-id="400000164" tvg-logo="https://canvas-lb.tubitv.com/opts/3bcGoel-LyvOjA==/63cd15f5-1b92-44ec-aa48-da4c4f90fb8f/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Hagerty
-https://live-manifest.production-public.tubi.io/live/7d917d9c-66d1-4a15-a323-7ad001137c41/playlist.m3u8
-
 #EXTINF:-1  tvg-id="CA290000616" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA290000616_20250729T185156SQUARE.png" tvg-chno="2545" group-title="SamsungTVPlus - CA",Hagerty (CA)
 https://jmp2.uk/stvp-CA290000616
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/64e671ce-56a6-4a43-8dc8-f3c1c550e0be/HMMore_PLEX_HallmarkEnEspanol_Light_Logo_RDX.png" group-title="PlexTV",Hallmark en Español
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="PlexTV",Hallmark Movies & More
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-name="HBCUGO" tvg-id="5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" group-title="PlexTV",HBCUGO SPORTS
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png" group-title="AriaPlus - Canada",HBO
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
 
 #EXTINF:-1 tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png" group-title="AriaPlus - Canada",HBO 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40696.ts
+
+#EXTINF:-1  tvg-id="HLN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" group-title="DaddyLive USA",Headline News
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium323%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-id="CA34000033Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA34000033Z_20250805T010143SQUARE.png" tvg-chno="1480" group-title="SamsungTVPlus - CA",Hearties (CA)
 https://jmp2.uk/stvp-CA34000033Z
@@ -2189,9 +2345,6 @@ https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 #EXTINF:-1  tvg-name="Heartland" tvg-id="USBB2900003O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20250610T001034SQUARE.png" tvg-chno="1580" group-title="PlutoTV - United States",Heartland
 https://jmp2.uk/stvp-USBB2900003O3
 
-#EXTINF:-1  tvg-id="671821" tvg-logo="https://canvas-lb.tubitv.com/opts/DFnLRpw7-zxJuw==/9f14559d-8ba0-4e75-bce4-f21e3c45b5db/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Heartland
-https://live-manifest.production-public.tubi.io/live/66ba3042-2459-4493-bba9-3819aa596eeb/playlist.m3u8
-
 #EXTINF:-1  tvg-name="Heartland" tvg-id="9995114" tvg-logo="https://image.xumo.com/v1/channels/channel/9995114/168x168.png?type=color_onBlack" group-title="Xumo Streams",Heartland
 https://live-content.xumo.com/260/content/XM0B4G600DYZYT/23721210/master.m3u8
 
@@ -2201,8 +2354,11 @@ https://jmp2.uk/stvp-CA4600004EA
 #EXTINF:-1  tvg-id="GB5100001EW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB5100001EW_20250121T013043SQUARE.png" tvg-chno="4232" group-title="SamsungTVPlus - UK",Heartland (UK)
 https://jmp2.uk/stvp-GB5100001EW
 
-#EXTINF:-1  tvg-name="HGTV HD" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" group-title="TheTVApp",HGTV HD
-https://v12.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8?token=m1jRCRkLeDjrT9dS3OKLnQ&expires=1759184509&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png" group-title="PlexTV",HerSphere by Lionsgate
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" group-title="PlexTV",Hi-YAH!
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1  tvg-name="Hi-Yah!" tvg-id="99991302" tvg-logo="https://image.xumo.com/v1/channels/channel/99991302/168x168.png?type=color_onBlack" group-title="Xumo Streams",Hi-Yah!
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=c313305c-5651-43cb-a960-66749976f01e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -2216,11 +2372,20 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-635c5c6ac3585aefbd236576" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cddcf059-ba30-49cd-8f20-48deb9783242/HistoryWarfareNow_Full_Light__2_.png" group-title="PlexTV",History & Warfare Now
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635c5c6ac3585aefbd236576.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-logo="https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png" group-title="PlexTV",History Hit
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6d559f3-6a3d-4ce0-839e-55681e4a7928/Hit_List.png" group-title="PlexTV",Hit List
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5bc80ea6-51bf-4e0a-9d51-c72e4ed18575/HitSitcoms_dark_1500x1000.png" group-title="PlexTV",Hit Sitcoms
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" group-title="AriaPlus - United States",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1  tvg-name="HMN" tvg-id="5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e5adc119-fef5-4248-bc22-0fcf485f58ba/Home_Made_Nation_COLOR_Logo_1500x1000rdx.png" group-title="PlexTV",Home.Made.Nation
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1  tvg-id="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20250819T032600SQUARE.png" tvg-chno="4067" group-title="SamsungTVPlus - UK",Homes Under the Hammer (UK)
 https://jmp2.uk/stvp-GBBC900013K9
@@ -2270,17 +2435,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64a355697d24
 #EXTINF:-1  tvg-name="IFCFILM" tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="PlexTV",IFC Films Picks
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="IFCOFF" tvg-id="5e20b730f2f8d5003d739db7-5fc705eea2236e002d69f5ae" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/836ae5bf33d76b6a6bbb10e510978b11.png" group-title="PlexTV",Slightly Off IFC
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eea2236e002d69f5ae.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1  tvg-name="iHeart Alternative Radio" tvg-id="9995101" tvg-logo="https://image.xumo.com/v1/channels/channel/9995101/168x168.png?type=color_onBlack" group-title="Xumo Streams",iHeart Alternative Radio
 https://dbrb49pjoymg4.cloudfront.net/10001/9995101/hls/playlist.m3u8?ads.xumo_channelId=9995101&ads._fw_ifa_type=&ads._fw_did=89aabdac-c8e2-4459-a0ea-568e8c254308&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=iHeartAlternativeRadio&ads.csid=xumo_web_iHeartAlternativeRadio_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3524&ads.xumo_contentName=iHeartAlternativeRadio&ads.xumo_providerId=3524&ads.xumo_providerName=iHeartAlternativeRadio&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995101&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1  tvg-name="iHeartCountry Classics" tvg-id="3395d3b6c6e895a495fd12a2c719b21c" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/3395d3b6c6e895a495fd12a2c719b21c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728501104207_260x147_Image_HUD_2.png" tvg-chno="1141" group-title="RokuTV",iHeartCountry Classics
 https://jmp2.uk/rok-3395d3b6c6e895a495fd12a2c719b21c.m3u8
-
-#EXTINF:-1  tvg-name="iHeartRadio Hip Hop Beats (DrewLive)" tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/600x337.webp?type=channelTile" group-title="DrewLive Music Video Channels" radio="false",iHeartRadio Hip Hop Beats (DrewLive)
-https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Il banco dei pugni – Pluto TV" tvg-logo="https://i.imgur.com/2Lj1sdf.png" group-title="VOD Italy",Il banco dei pugni – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -2309,9 +2468,6 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6529b08ece8f0608a50194b5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb7f0e42-5129-4675-bedd-4c9875bfd127/investigation_1500x1000_light_-_Jose_Martinez.png" group-title="PlexTV",Investigation
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6529b08ece8f0608a50194b5.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="Investigation Discovery HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="TheTVApp",Investigation Discovery HD
-https://v5.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8?token=jrXDSYdw9KG29vJrCcpS4w&expires=1759184545&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaa03a9e-c480-4a0a-be8b-a641aa4d7973/inwinder_logo_color_1500x1000_-_Itay_Pollak.png" group-title="PlexTV",INWONDER
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6668b2b5e4f56766e556a413.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
@@ -2330,6 +2486,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707d20ab87b
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Brazil",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Italy - Serie B : Virtus Entella vs Bari 1908 (Sep 30-2025 6:30 PM UK / Sep 30-2025 11:30 AM MT / Sep 30-2025 1:30 PM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium68%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-666e1a2bce73ed6023b55a13" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abef57ed-8084-4da0-bf57-cf52edf919f7/channel_logo_1500x1000_light.png.png" group-title="PlexTV",Jade Fever
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-666e1a2bce73ed6023b55a13.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
@@ -2347,9 +2506,6 @@ https://live-content.xumo.com/197/content/XM0WULRTJJ73ZD/22162337/master.m3u8
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8518d7bc-9f5b-4569-9c06-91a58b9edae6/journy.png" group-title="PlexTV",Journy
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1 tvg-name="Joy News" tvg-logo="https://i.imgur.com/kGuMNmR.png" tvg-id="JoyNews.gh" group-title="News",Joy News
-https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-639baa971a12420ff66ae7b1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e14f2078-3820-466e-8b9f-41fb618a7ce6/jubao_logo_dark_-_Ali_Clausenrdx_1500x1000.png" group-title="PlexTV",Jubao
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639baa971a12420ff66ae7b1.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -2372,17 +2528,11 @@ https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
 #EXTINF:-1  tvg-name="Kartoon Channel!" tvg-id="US2900015RO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png" tvg-chno="3676" group-title="PlutoTV - United States",Kartoon Channel!
 https://jmp2.uk/stvp-US2900015RO
 
-#EXTINF:-1  tvg-id="400000033" tvg-logo="https://canvas-lb.tubitv.com/opts/Ack4AYWUtvd8Gw==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Kartoon Channel!
-https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
-
 #EXTINF:-1  tvg-name="Kartoon Channel!" tvg-id="99991327" tvg-logo="https://image.xumo.com/v1/channels/channel/99991327/168x168.png?type=color_onBlack" group-title="Xumo Streams",Kartoon Channel!
 https://live-content.xumo.com/2682/content/XM0JPM6TT9POAY/23092123/master.m3u8
 
 #EXTINF:-1  tvg-id="CA2900011BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900011BJ_20250523T231855SQUARE.png" tvg-chno="3676" group-title="SamsungTVPlus - CA",Kartoon Channel! (CA)
 https://jmp2.uk/stvp-CA2900011BJ
-
-#EXTINF:-1  tvg-id="687447" tvg-logo="https://canvas-lb.tubitv.com/opts/gIY9VhXw00UXyA==/a6ee923c-4dc0-4d93-81a2-31bf11be3a7e/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",KATC News Acadiana
-https://live-manifest.production-public.tubi.io/live/38e73771-a440-42a2-9621-555f04e397bc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KBS News D" tvg-logo="https://i.imgur.com/4qKgvHN.png" tvg-id="KBSNewsD.kr" group-title="Korea",KBS News D
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
@@ -2467,9 +2617,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62aa3052e038
 
 #EXTINF:-1  tvg-name="Localish" tvg-id="99951149" tvg-logo="https://image.xumo.com/v1/channels/channel/99951149/168x168.png?type=color_onBlack" group-title="Xumo Streams",Localish
 https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=localish_live&ad.vast3=1&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.networkID=21783347309&ad.adUnit=/localish/xumo/web&ad.ppid=3c3d5f32-a17a-4de4-9b5e-1da6ef201e41&ad.correlator=1755836223287&ad.scor=1755836223287&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=3c3d5f32-a17a-4de4-9b5e-1da6ef201e41&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=&ad.cust_params=vdm%3Dlive%26chan%3Dlocalish%26plt%3Dctv%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%26vps%3D640x480%26ppid%3D3c3d5f32-a17a-4de4-9b5e-1da6ef201e41%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26var%3D16x9
-
-#EXTINF:-1  tvg-name="Logo HD" tvg-id="logo-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" group-title="TheTVApp",Logo HD
-https://v1.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8?token=n7g7-DFCAagJTHyXwJ7pdw&expires=1759184582&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40b29461-7862-478d-b768-b9e9899593ef/Lol_revised_whiterdx.png" group-title="PlexTV",LOL! Network
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -2558,8 +2705,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64d79408e5f67b0fab47ff24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png" group-title="PlexTV",Misterios sin Resolver
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64d79408e5f67b0fab47ff24.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="MLB Network HD" tvg-id="mlb-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="TheTVApp",MLB Network HD
-https://v2.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8?token=qE_1Rt5AQJtaI9BCB8k7rw&expires=1759184601&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+#EXTINF:-1  tvg-name="MLB Network SD" tvg-id="mlb-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="TheTVApp",MLB Network SD
+https://v2.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8?token=FxiFOXl6D5JIS25QHeKntg&expires=1759267314&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-67ae8ad1a9b2dfa7f83e17d6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="PlexTV",Modern Innovations by History
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-67ae8ad1a9b2dfa7f83e17d6.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -2579,9 +2726,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6112a9139894
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png" group-title="PlexTV",Movieitaly Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="MovieMAX SD" tvg-id="moviemax-max-6-east" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MovieMAX.png" group-title="TheTVApp",MovieMAX SD
-https://e1.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8?token=bENyy5VTDwLCNwPM6PdSyQ&expires=1759184623&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="PlexTV",MOVIESPHERE
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
@@ -2597,6 +2741,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671a924b79fc
 #EXTINF:-1  tvg-name="MSGZONE" tvg-id="5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6786da65a6db13732b7b580755932165.png" group-title="PlexTV",MSG SportsZone
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
+#EXTINF:-1  tvg-id="MSNBC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true" group-title="DaddyLive USA",MSNBC
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium327%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="AriaPlus - United States",MSNBC (Soon to be MSNOW)
 https://tvpass.org/live/MSNBC/hd
 
@@ -2604,10 +2751,10 @@ https://tvpass.org/live/MSNBC/hd
 https://a1xs.vip/300008
 
 #EXTINF:-1  tvg-name="MSNBC HD" tvg-id="msnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="TheTVApp",MSNBC HD
-https://v13.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8?token=K1-e5LvEXmgByZw2A1G95g&expires=1759184637&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://e4.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8?token=BpTMLgGnFWHBR8D8np1pGQ&expires=1759267355&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="MSNBC SD" tvg-id="msnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="TheTVApp",MSNBC SD
-https://v13.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8?token=tEsRGKqLxJFJjNK5QyEjiQ&expires=1759184633&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v17.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8?token=-qJN_BKkzN_BgDKJHBttIw&expires=1759267350&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4eddbb2fdec002c141133" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mst3k_logo_dark.png" group-title="PlexTV",MST3K
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4eddbb2fdec002c141133.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
@@ -2690,9 +2837,6 @@ https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
 #EXTINF:-1  tvg-name="NBC News NOW" tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" tvg-chno="1114" group-title="PlutoTV - United States",NBC News NOW
 https://jmp2.uk/stvp-USBB2200014DK
 
-#EXTINF:-1  tvg-id="556174" tvg-logo="https://canvas-lb.tubitv.com/opts/SAA3cS-V06_Q3w==/dd770066-df10-4187-b8d5-c31d0b9c0a1f/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",NBC News NOW
-https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
-
 #EXTINF:-1  tvg-name="NBC News NOW" tvg-id="99991247" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" group-title="Xumo Streams",NBC News NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.csid=xumo_web_NBCNewsNOW_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=6b1d8ae1-fb1c-4aab-9b99-735dfa2f6f85&ads._fw_vcid2=512116:6b1d8ae1-fb1c-4aab-9b99-735dfa2f6f85&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99991247&ads._fw_ifa_type=
 
@@ -2702,26 +2846,8 @@ https://jmp2.uk/stvp-CAAJ2700011IF
 #EXTINF:-1  tvg-id="GBBB1500004LG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20250107T030724SQUARE.png" tvg-chno="4569" group-title="SamsungTVPlus - UK",NBC News NOW (UK)
 https://jmp2.uk/stvp-GBBB1500004LG
 
-#EXTINF:-1  tvg-name="NBCNN" tvg-id="5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="PlexTV",NBC News NOW
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="NESNNAT" tvg-id="5e20b730f2f8d5003d739db7-6759a32270e41582b1b7a236" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/99bf05dfe25874877cf2251a760f76c2.png" group-title="PlexTV",NESN NATION
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6759a32270e41582b1b7a236.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="PlexTV",NEW K-POP
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark_v2.png" group-title="PlexTV",NEW K.MOVIES
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="News 12 New York" tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" tvg-chno="5190" group-title="PlutoTV - United Kingdom",News 12 New York
-https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
-
 #EXTINF:-1  tvg-name="News 12 New York" tvg-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/6abe7dcc96d5d834853c8d1c93d97230/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1727118344457_N12NY_Roku_Info_HUD.png" tvg-chno="4104" group-title="RokuTV",News 12 New York
 https://jmp2.uk/rok-6abe7dcc96d5d834853c8d1c93d97230.m3u8
-
-#EXTINF:-1  tvg-id="557345" tvg-logo="https://canvas-lb.tubitv.com/opts/WBTHyRV-rcHRIg==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",News 12 New York
-https://live-manifest.production-public.tubi.io/live/3b3697be-6add-4564-abb1-9358014f2d3a/playlist.m3u8
 
 #EXTINF:-1 tvg-name="News 24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-id="News24.al" group-title="Albania",News 24 Ⓢ
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
@@ -2729,14 +2855,11 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="NewsMax" tvg-id="Newsmax.TV.HD.us2" tvg-logo="https://i.imgur.com/iOjk0wy.png" group-title="A1xmedia US Channels" radio="false",NewsMax
 https://a1xs.vip/300012
 
-#EXTINF:-1  tvg-name="Newsmax TV HD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="TheTVApp",Newsmax TV HD
-https://v14.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=pIHa4rQ7VCkLADrzWrfjug&expires=1759184683&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1  tvg-name="Newsmax TV SD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="TheTVApp",Newsmax TV SD
-https://v4.thetvapp.to/hls/NewsmaxTV/tracks-v2a1/mono.m3u8?token=XSEwgrWRS92ip6DWXs8KrA&expires=1759184678&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
+https://v14.thetvapp.to/hls/NewsmaxTV/tracks-v2a1/mono.m3u8?token=PE_TVCDQkCobHt531x4-cg&expires=1759267396&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="PlexTV",Newsmax2
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-id="Newsmax.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="DaddyLive USA",Newsmax USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium613%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="Newsmax2" tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" tvg-chno="2670" group-title="PlutoTV - United Kingdom",Newsmax2
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
@@ -2753,53 +2876,20 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991194/hls/index.m3u8?ads.xumo_chan
 #EXTINF:-1  tvg-name="NewsNation" tvg-id="NewsNation.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="MoveOnJoy" radio="false",NewsNation
 https://fl25.moveonjoy.com/NEWS_NATION/index.m3u8
 
+#EXTINF:-1  tvg-id="NewsNation.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-hz-us.png?raw=true" group-title="DaddyLive USA",NewsNation USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium292%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1 tvg-name="Newstalk" tvg-logo="" group-title="Ireland",Newstalk
 https://stream.audioxi.com/NT
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="PlexTV",NHRA TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="Nicktoons SD" tvg-id="nicktoons-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="TheTVApp",Nicktoons SD
-https://e5.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8?token=Rt2t4uF86qonUrGzAyrryg&expires=1759184733&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png" group-title="PlexTV",Ninja Kidz TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66b13485a9ef8c41ec0841ac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/455dc800-e86d-422a-9698-2bb2723ad08d/NipTuck_plex_dark_1500x1000.png" group-title="PlexTV",Nip/Tuck
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13485a9ef8c41ec0841ac.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-656fb665cb7e8e6a9bc3f36c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/331d73a7-e95d-4ded-9c61-546eb867c32f/Logo_Art_-_Nitro_Circus_Dark_Backgrounds.png" group-title="PlexTV",NitroCircusTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fb665cb7e8e6a9bc3f36c.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66b141e2a9ef8c41ec0841b2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71ad0c57-33d2-4085-a852-c76966ccab43/NoReservations_Logo_Dark_1500x1000.png" group-title="PlexTV",No Reservations
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b141e2a9ef8c41ec0841b2.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64b1e1217d4037206787f384" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png" group-title="PlexTV",Nolly Africa HD
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64b1e1217d4037206787f384.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1  tvg-name="Nosey" tvg-id="plex.tv.Nosey.plex" tvg-logo="https://images.pluto.tv/channels/5aec96ec5126c2157123c657/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="MoveOnJoy" radio="false",Nosey
 https://fl25.moveonjoy.com/Newsy/index.m3u8
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9716e55e-d888-46f7-aa99-54d5a06e6e60/nosey.png" group-title="PlexTV",Nosey
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="PlexTV",Nosey Escándalos
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64d4e82ac5d4668c9cb7b5df" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="PlexTV",Novelisima
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64d4e82ac5d4668c9cb7b5df.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1  tvg-id="GBBC900003B2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20250107T022856SQUARE.png" tvg-chno="4711" group-title="SamsungTVPlus - UK",Now 80s (UK)
 https://jmp2.uk/stvp-GBBC900003B2
 
-#EXTINF:-1  tvg-name="NS90S" tvg-id="5e20b730f2f8d5003d739db7-65bd5a538314c24e11553543" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4392e3498bf21c45694aaaf985328ba2.png" group-title="PlexTV",Non-Stop '90s
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65bd5a538314c24e11553543.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="När-TV Ⓢ" tvg-logo="https://i.imgur.com/Ht5yePq.png" tvg-id="NarTV.fi" group-title="Finland",När-TV Ⓢ
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3b45d90-8290-4886-8017-d55ed6517f6c/ONE_1500x1000_for_dark_bgd_-_Eddie_Hunter-HigginsRDX.png" group-title="PlexTV",ONE Championship TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6785867ad3749c9bdd4d2ed1.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1  tvg-name="One Worldwide Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.radio.net/300/oneworldradio.png?version=5e057726c634db79edab2931efc0fab5" group-title="DrewFX - House" radio="true",One Worldwide Radio
 https://listen.radioking.com/radio/316403/stream/363812
@@ -2810,53 +2900,11 @@ https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-name="Orler Tv" tvg-logo="https://i.imgur.com/dBkxD8e.png" group-title="Italy",Orler Tv
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc1bc8ab-32db-4b42-ae66-d4e07eaa0a9f/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="PlexTV",Oro TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="PlexTV",OuterSphere by Lionsgate
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="OUTLW" tvg-id="5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6f6cffee3da24432269d9614379a6b1e.png" group-title="PlexTV",Outlaw
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64aed1e9c6085b5faf20ee1f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/35196d4d-991d-4c11-bf65-590157385a30/OutTv_Color_-_Emma_Manfredirdx__1_.png" group-title="PlexTV",OUTtv Proud
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64aed1e9c6085b5faf20ee1f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62a388865440744efae8e243" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9601711e-66df-4bdb-ae7a-611b8673b90a/Light_Logo_LGrdx.png" group-title="PlexTV",Overtime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62a388865440744efae8e243.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="OXYTCA" tvg-id="5e20b730f2f8d5003d739db7-6467891c73e5e029428f0e18" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3baa91b801c24aacb6d68db7f5c697cf.png" group-title="PlexTV",Oxygen True Crime Archives
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6467891c73e5e029428f0e18.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" group-title="PlexTV",Pac-12 Insider
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="VOD Movies (EN)",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-name="Partenope Tv" tvg-logo="https://i.imgur.com/FtuWkj1.png" group-title="Italy",Partenope Tv
-https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="PlexTV",party tyme karaoke
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1  tvg-name="Paul Blart: Mall Cop 2 (2015)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NzA1MzE1NF5BMl5BanBnXkFtZTcwOTYyNDIzMg@@._V1_FMjpg_UX1000_.jpg" group-title="DrewLive - VOD" radio="false",Paul Blart: Mall Cop 2 (2015)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Paul.Blart.Mall.Cop.2009.1080p.BluRay.x265-RARBG.mp4
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66a2818ce1a2934adfe851e5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a5761270-da5c-4076-b49a-3f09876c7c7d/Paws_Claws_Logo_Dark_1500x1000.png" group-title="PlexTV",Paws & Claws
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2818ce1a2934adfe851e5.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6348ac7090b96ef5e0eb3288" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08f15a8f-2255-4f5d-8218-b9550b494f8c/PBSAntiquesRoadshow_logo_dark_-_Antonio_de_la_Torre.png" group-title="PlexTV",PBS Antiques Roadshow
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6348ac7090b96ef5e0eb3288.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5d8caa9-6a26-480b-b990-c4ea65b27e30/PBS_Food_Logo_Dark_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="PlexTV",PBS Food
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650299cdec4e38daa56e9c7c.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/489e066a-d4e6-4d2e-9265-a8c7be935651/PBS-Nature_logo-1_for-dark-bkgrd.png" group-title="PlexTV",PBS Nature
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="PlexTV",PBS Retro
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="Peer Tv Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-id="PeerTV.it" group-title="Italy",Peer Tv Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
@@ -2867,44 +2915,14 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-id="PeerTV.de" group-title="Italy",Peer TV Südtirol
 https://iptv.peer.biz/live/peertv.m3u8
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png" group-title="PlexTV",People are Awesome
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
 http://rtmp.one.by:1200
-
-#EXTINF:-1  tvg-name="PGSOULX" tvg-id="5e20b730f2f8d5003d739db7-678819cadb8f0c5dc195cf50" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e5edb46c630a8a5a90867289950f841e.png" group-title="PlexTV",Pam Grier's Soul Flix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678819cadb8f0c5dc195cf50.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c3ddbf2-e5f5-4764-92eb-8276e6a54e38/pbtv_1_1500_x_1000___Logo_Dark_BG_1__-_Ari_Brock.png" group-title="PlexTV",PickleballTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6583507e0938f2993a23375c.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9bcbd116-5f47-4868-a002-5dbc5ecf5ed7/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-title="PlexTV",PickleTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="PlexTV",Pitufo TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639ba57d3f4612cc150a5723.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1  tvg-name="PK12" tvg-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd19" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4edb090c44538616547b7a5eba9a264f.png" group-title="PlexTV",Dateline
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd19.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1  tvg-name="PK22" tvg-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/ccdbca6785ac89ad9cb6b6626b891a33.png" group-title="PlexTV",NBC Sports NOW
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="PK3" tvg-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png" group-title="PlexTV",SNL Vault
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64b7139c8ec13d5dcb7e6bb2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9854ded7-4814-474b-ba75-58da26fed8de/PLEX_P_S_WHT_LOGO_1500X1500_REV.png" group-title="PlexTV",Places & Spaces
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64b7139c8ec13d5dcb7e6bb2.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66180428e06c9878b6d9d76c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dffc8d37-e5af-41e1-ade1-b36379ec773c/Plex24-forDarkRDX.png" group-title="PlexTV",Plex24
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66180428e06c9878b6d9d76c.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png" group-title="PlexTV",PLL Network
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1 tvg-name="Plug RTL" tvg-logo="https://i.imgur.com/iAZZWkZ.png" tvg-id="PlugRTL.be" group-title="Belgium",Plug RTL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
+#EXTINF:-1  tvg-name="PK24" tvg-id="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8305bd749cf0b0d63cffde46d8142a73.png" group-title="PlexTV",GOLFPASS
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="VOD Movies (EN)",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -2945,26 +2963,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04
 #EXTINF:-1 tvg-name="Pluto TV Westerns" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="VOD Movies (EN)",Pluto TV Westerns
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png" group-title="PlexTV",pocket.watch Game-On
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/01614482-6ebf-412d-907d-b7bba2e46575/pokernight_logo_dark-3.png" group-title="PlexTV",Poker Night TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png" group-title="PlexTV",PokerGO
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1  tvg-id="GBBC430000128" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png" tvg-chno="4799" group-title="SamsungTVPlus - UK",POP (UK)
 https://jmp2.uk/stvp-GBBC430000128
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="PlexTV",Pop Adult
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="PlexTV",Popular Science
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6397d23-f64f-4f16-bdef-d24d4dc24436/AMCN-PortlandiaIFC_Plex_logo_dark_v01.png" group-title="PlexTV",Portlandia
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1  tvg-name="Portlandia" tvg-id="USBD12000038K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20250325T015254SQUARE.png" tvg-chno="2650" group-title="PlutoTV - United States",Portlandia
 https://jmp2.uk/stvp-USBD12000038K
@@ -2975,14 +2975,8 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951301/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1  tvg-name="Portlandia IFC" tvg-id="753bb09547f701d2e6d0f66bee0ee589" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/753bb09547f701d2e6d0f66bee0ee589/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730998272708_AMCN_PortlandiaIFC_Roku_HUD2_260x147.png" tvg-chno="824" group-title="RokuTV",Portlandia IFC
 https://jmp2.uk/rok-753bb09547f701d2e6d0f66bee0ee589.m3u8
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-644a69895b1d51b6a8d18609" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3d7679fb-6db0-4363-a85e-fe59abff5cf9/PWR_Logo_1500x1000_-_lucas_arechaga.png" group-title="PlexTV",Power Rangers
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644a69895b1d51b6a8d18609.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6674b780f04cf4bb9233c918" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b5f799b0-c898-42ad-b8d6-d7053640991d/FilmRise_PrimeSuspect_Logo_WhiteRDX.png" group-title="PlexTV",Prime Suspect
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6674b780f04cf4bb9233c918.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66b13a1f4893b3d48c72db19" tvg-logo="https://provider-static.plex.tv/epg/cms/production/095a8052-aeaf-4d68-afcb-9454ed96b8ab/PrimetimeSoaps_plex_dark_1500x1000.png" group-title="PlexTV",Primetime Soaps
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13a1f4893b3d48c72db19.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="DaddyLive - Soccer Action",Portugal - Liga RevelaÃ§Ã£o : Estoril U23 vs Estrela U23 (Sep 30-2025 10:00 AM UK / Sep 30-2025 3:00 AM MT / Sep 30-2025 5:00 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium540%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="Princess Hanna - GloryHoleSwallow" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Princess Hanna - GloryHoleSwallow
 http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Princess%20Hanna%20-GloryHoleSwallow/Princess.Hanna.The.Round.Parts.Work.The.Holes.1080.mp4
@@ -2993,20 +2987,11 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 #EXTINF:-1 tvg-name="Promovideo Tv" tvg-logo="https://i.imgur.com/MwK9HVG.png" group-title="Italy",Promovideo Tv
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6427568defc65caa7e9514d4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5bddbbd7-d411-4bc8-af8d-faab7c86b864/Property_and_Reno_1500_x_1000_dark_-_Matt_Mattysiak.png" group-title="PlexTV",Property & Reno
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6427568defc65caa7e9514d4.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1  tvg-name="Property & Reno" tvg-id="99951221" tvg-logo="https://image.xumo.com/v1/channels/channel/99951221/168x168.png?type=color_onBlack" group-title="Xumo Streams",Property & Reno
 https://dbrb49pjoymg4.cloudfront.net/10001/99951221/hls/playlist.m3u8?ads.xumo_channelId=99951221&ads._fw_ifa_type=&ads._fw_did=39b00e98-f7e2-4840-9ce6-68eaaf2254df&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=CineflixPropertyReno&ads.csid=xumo_web_CineflixPropertyReno_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3887&ads.xumo_contentName=CineflixPropertyReno&ads.xumo_providerId=3887&ads.xumo_providerName=CineflixPropertyReno&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951221&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1  tvg-id="CA1400017PU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400017PU_20250812T003317SQUARE.png" tvg-chno="2007" group-title="SamsungTVPlus - CA",Property Brothers (CA)
 https://jmp2.uk/stvp-CA1400017PU
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png" group-title="PlexTV",PursuitUP
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="687468" tvg-logo="https://canvas-lb.tubitv.com/opts/m0HRv6okk224BQ==/3a067014-7789-48eb-a234-da3ee43aae12/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Q2 News Billings
-https://live-manifest.production-public.tubi.io/live/abf5acdc-2147-4e86-90d6-be8a941956d5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="evasion.ca" tvg-logo="https://cdn.vev.design/cdn-cgi/image/f=auto group-title="AriaPlus - Canada",q=82,w=1920/private/gymRnPp2f0dtMHSH31xxfsdMDVp1/image/Ltd-1m54GK.png",Evasion
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40716.ts
@@ -3023,9 +3008,6 @@ https://jmp2.uk/stvp-USBD3500024YB
 #EXTINF:-1  tvg-id="CA400004SM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400004SM_20250805T010216SQUARE.png" tvg-chno="4462" group-title="SamsungTVPlus - CA",Qello Concerts by Stingray (CA)
 https://jmp2.uk/stvp-CA400004SM
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="PlexTV",Qwest TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Radio Libertà" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="Italy",Radio Libertà
 https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 
@@ -3035,44 +3017,23 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" group-title="Italy",Rai News 24 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png" group-title="PlexTV",Rakuten Viki
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="PlexTV",RCM
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-id="rds.2.ca" tvg-logo="https://media.starlite.best/rds.2.ca.png" group-title="AriaPlus - Canada",RDS 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40631.ts
 
 #EXTINF:-1 tvg-id="rds.info.ca" tvg-logo="https://media.starlite.best/rds.info.ca.png" group-title="AriaPlus - Canada",RDS Info
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40627.ts
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png" group-title="PlexTV",Real Crime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d9d2d4ea1109a7d205a70.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64275805efc65caa7e9514d6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb16500b-28af-4fc6-8c77-b76dd98b8b56/Logo_Real_Disaster_1500_x_1000_dark_-_Matt_Mattysiak.png" group-title="PlexTV",Real Disaster Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64275805efc65caa7e9514d6.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Real life – Pluto TV" tvg-logo="https://i.imgur.com/FpwqJYw.png" tvg-id="PlutoTVRealLifeItaly.it" group-title="VOD Italy",Real life – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-63584a0cf8e2be1350f802a4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" group-title="PlexTV",Real Wild
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63584a0cf8e2be1350f802a4.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="Reality – Pluto TV" tvg-logo="https://i.imgur.com/tPEOeTk.png" tvg-id="PlutoTVRealityItaly.it" group-title="VOD Italy",Reality – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1  tvg-name="REALSTR" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec012" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6fe5dc64c156a1f8062fd8cc83c4198.png" group-title="PlexTV",So... Real
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec012.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" tvg-id="RecordNews.br" group-title="Brazil",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64f0d3ddc2bc9b9001d46ea4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="PlexTV",REELZ Famous & Infamous
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f0d3ddc2bc9b9001d46ea4.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="PlexTV",Remember the ‘80s
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="ReelzChannel SD" tvg-id="reelzchannel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" group-title="TheTVApp",ReelzChannel SD
+https://v4.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8?token=mhZf03yu4sZXPxZcfVnHDw&expires=1759267497&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="Renegade – Pluto TV" tvg-logo="https://i.imgur.com/Qsd9wuS.png" group-title="VOD Italy",Renegade – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -3088,18 +3049,6 @@ https://jmp2.uk/stvp-GBBD4900001RG
 
 #EXTINF:-1  tvg-name="Reuters 60" tvg-id="99951197" tvg-logo="https://image.xumo.com/v1/channels/channel/99951197/168x168.png?type=color_onBlack" group-title="Xumo Streams",Reuters 60
 https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197&ads._fw_ifa_type=&ads._fw_did=d72cd720-e5bd-4b6f-afa4-d40eeed8e3d0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReutersNow&ads.csid=xumo_web_ReutersNow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3850&ads.xumo_contentName=ReutersNow&ads.xumo_providerId=3850&ads.xumo_providerName=ReutersNow&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951197&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="PlexTV",Reuters TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="RHLVT" tvg-id="5e20b730f2f8d5003d739db7-645f840b361156ab4214e28d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72d43435-ea35-4e77-bde5-c6b903d3a513/real-housewives-vault-fclogo-72-dpi-1500-x-1000-RDX_COLOR_WHITE.png" group-title="PlexTV",Real Housewives Vault
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-645f840b361156ab4214e28d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png" group-title="PlexTV",Rig TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="RRCRUSH" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5360ece62b311e016df020dc68482424.png" group-title="PlexTV",RetroCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="RT Documentary English Ⓖ" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries (EN)",RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -3118,6 +3067,12 @@ https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTC Telecalabria" tvg-logo="https://i.imgur.com/tTYLcuh.jpg" tvg-id="RTCTelecalabria.it" group-title="Italy",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-id="RTE1Network.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-uk.png?raw=true" group-title="DaddyLive UK",RTE 1
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium364%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1  tvg-id="RTE2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-2-uk.png?raw=true" group-title="DaddyLive UK",RTE 2
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium365%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1 tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk" group-title="Hong Kong",RTHK TV 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -3145,9 +3100,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP Madeira Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png" tvg-id="RTPMadeira.pt" group-title="Portugal",RTP Madeira Ⓢ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rtp Tv" tvg-logo="https://i.imgur.com/I1hYI0C.png" group-title="Italy",Rtp Tv
-http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/640px-RTP1_-_Logo_2016.svg.png" tvg-id="RTP1.pt" group-title="Portugal",RTP1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
@@ -3197,23 +3149,17 @@ https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png" group-title="PlexTV",Runtime Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Ruth Lee" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Ruth Lee
 https://cdn.baddiehub.com/RthL20.mp4
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a664" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="PlexTV",Ryan and Friends
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a664.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="SABC News" tvg-logo="https://i.imgur.com/H9q3Q9d.png" tvg-id="SABCNews.gh" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1ddd349-0b81-4525-ba53-1912701467db/Saboreartv_1500x1000-_For_dark_backgrounds.png" group-title="PlexTV",Saborear TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f0d9a7c2bc9b9001d46ea6.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1  tvg-name="Salem News Channel" tvg-id="66a7f0a78561260008c177f2" tvg-logo="https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png" tvg-chno="2702" group-title="PlutoTV - United Kingdom",Salem News Channel
+https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
 
 #EXTINF:-1  tvg-name="Salem News Channel" tvg-id="US3700004Y0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700004Y0_20241022T004434SQUARE.png" tvg-chno="1177" group-title="PlutoTV - United States",Salem News Channel
 https://jmp2.uk/stvp-US3700004Y0
@@ -3221,35 +3167,17 @@ https://jmp2.uk/stvp-US3700004Y0
 #EXTINF:-1  tvg-name="Salem News Channel" tvg-id="99951283" tvg-logo="https://image.xumo.com/v1/channels/channel/99951283/168x168.png?type=color_onBlack" group-title="Xumo Streams",Salem News Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951283/hls/playlist.m3u8?ads.xumo_channelId=99951283&ads._fw_ifa_type=&ads._fw_did=54197647-5640-4b7f-9035-5e777f5b1923&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SalemNewsChannel&ads.csid=xumo_web_SalemNewsChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3997&ads.xumo_contentName=SalemNewsChannel&ads.xumo_providerId=3997&ads.xumo_providerName=SalemNewsChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951283&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png" group-title="PlexTV",Samuel Goldwyn Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Sanctuary – Pluto TV" tvg-logo="https://i.imgur.com/iYyijeJ.png" group-title="VOD Italy",Sanctuary – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="savoir.mdia.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="AriaPlus - Canada",savior.média (CFTU-DT)
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40764.ts
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-66a1ae9e77649467da169f0e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9298385b-b248-4e3b-87ee-fba261db99f9/SYTTD_Logo_Dark_1500x1000.png" group-title="PlexTV",Say Yes to the Dress
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a1ae9e77649467da169f0e.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="SBOXTV" tvg-id="5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9bcf51d4-22a5-4271-9445-21f38e29cf57/scream_box_tv_rdx.png" group-title="PlexTV",Screambox TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="SBSHUDD" tvg-id="5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/627ce40ef536741e2d80772b3624650b.png" group-title="PlexTV",Scares by Shudder
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-name="Scherzi e risate – Pluto TV" tvg-logo="https://i.imgur.com/kPxGzPI.png" group-title="VOD Italy",Scherzi e risate – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="Sci-Fi – Pluto TV" tvg-logo="https://i.imgur.com/5B94N8g.png" tvg-id="PlutoTVSciFiItaly.it" group-title="VOD Italy",Sci-Fi – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1  tvg-name="SCNEWST" tvg-id="5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe7112f2-d9df-4e7e-9ee7-ef4eb746c513/SN_Logo_Primary_1500x1000_color_white.png" group-title="PlexTV",Scripps News
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9043fa4d-851d-4cca-bc0c-ae48981b91ad/ScreamFactoryTV_logo_light_-_Paige_Sherman.png" group-title="PlexTV",Scream Factory TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-id="ScrippsNews.us" group-title="News",Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
@@ -3260,9 +3188,6 @@ https://jmp2.uk/stvp-USBD3000073N
 #EXTINF:-1  tvg-name="Scripps News" tvg-id="d3f36d4a35fa5f40a24b96a51556b9b5" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d3f36d4a35fa5f40a24b96a51556b9b5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1672770149812_Scripps-News_Roku-Channel_Hud-Logo-2_260x147.png" tvg-chno="166" group-title="RokuTV",Scripps News
 https://jmp2.uk/rok-d3f36d4a35fa5f40a24b96a51556b9b5.m3u8
 
-#EXTINF:-1  tvg-id="578086" tvg-logo="https://canvas-lb.tubitv.com/opts/HlP19CQuIAuOFQ==/d7933070-b9eb-4ce4-9c59-9631dd5815be/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Scripps News
-https://live-manifest.production-public.tubi.io/live/8e323548-ac9b-48b4-af77-13d700bd6785/playlist.m3u8
-
 #EXTINF:-1  tvg-name="Scripps News" tvg-id="99991148" tvg-logo="https://image.xumo.com/v1/channels/channel/99991148/168x168.png?type=color_onBlack" group-title="Xumo Streams",Scripps News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991148/hls/playlist.m3u8?ads.xumo_channelId=99991148&ads._fw_ifa_type=&ads._fw_did=b446c169-1d15-4906-bc35-c6b0dc937a12&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Newsy&ads.csid=xumo_web_Newsy_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=41&ads.xumo_contentName=Newsy&ads.xumo_providerId=41&ads.xumo_providerName=Newsy&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991148&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
@@ -3272,26 +3197,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff272
 #EXTINF:-1 tvg-name="Settimo Cielo – Pluto TV" tvg-logo="https://i.imgur.com/TC5lo6r.png" group-title="VOD Italy",Settimo Cielo – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="PlexTV",Shemaroo Bollywood
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6707dc42da81682f2d1e6846" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ea9a1621-fb9e-4c60-b8c4-57d57a8a12df/SheriffsElDoradoCounty_Color_Logo_wht_TXT_RDX.png" group-title="PlexTV",Sheriffs: El Dorado County
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6707dc42da81682f2d1e6846.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" tvg-logo="https://provider-static.plex.tv/epg/cms/production/390674f3-43ef-4f52-95f9-0fdabd9b0269/S_TV_Logo_DARKRDX_2023__1_.png" group-title="PlexTV",Shout! TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
 #EXTINF:-1 tvg-id="Showcase.Canada.ca" tvg-logo="https://media.starlite.best/showcase.canada.ca.png" group-title="AriaPlus - Canada",Showcase
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40624.ts
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-656235425dbccec83a87b645" tvg-logo="https://provider-static.plex.tv/epg/cms/production/877f1e84-0244-4a3f-ada4-fe7c2e41df9b/SILENT_WITNESS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer__1_.png" group-title="PlexTV",Silent Witness|New Tricks
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656235425dbccec83a87b645.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-id="Silver.Screen.Classics.ca" tvg-logo="https://media.starlite.best/silver.screen.classics.ca.png" group-title="AriaPlus - Canada",Silver Screen Classic
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40623.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="AriaPlus - United Kingdom",Sky Arts
+http://86.180.115.121:1990/stream/channelid/99503184?profile=pass
+
+#EXTINF:-1  tvg-id="Sky.Arts.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-arts-uk.png?raw=true" group-title="DaddyLive UK",Sky Arts UK
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium683%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="Sky News" tvg-id="Sky.News.HD.uk" tvg-logo="https://i.imgur.com/OrPaXvv.png" group-title="A1xmedia UK Channels" radio="false",Sky News FHD
 https://a1xs.vip/1000018
+
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="AriaPlus - United Kingdom",Sky News
+http://86.180.115.121:1990/stream/channelid/47242596?profile=pass
 
 #EXTINF:-1  tvg-name="Sky News" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" tvg-chno="2630" group-title="PlutoTV - United Kingdom",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
@@ -3301,9 +3223,6 @@ https://jmp2.uk/stvp-USBB52000022Q
 
 #EXTINF:-1  tvg-name="Sky News" tvg-id="99951223" tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack" group-title="Xumo Streams",Sky News
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223&ads._fw_ifa_type=&ads._fw_did=4f3c3ba0-47b9-4144-8e93-16d8037e516a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SkyNews&ads.csid=xumo_web_SkyNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951223&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News (UK)
-https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 
 #EXTINF:-1  tvg-id="GB3300002NF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3300002NF_20250107T031217SQUARE.png" tvg-chno="4551" group-title="SamsungTVPlus - UK",Sky News (UK)
 https://jmp2.uk/stvp-GB3300002NF
@@ -3317,23 +3236,8 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40622.ts
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="PlexTV",Smooth Jazz
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-name="SMUS68" tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fc8a6ac8022fe0b80fb668cdda9cea0.png" group-title="PlexTV",Qello Concerts
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6041643175c115002dc5125d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SoYummy_logo_Dark.png" group-title="PlexTV",So Yummy
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6041643175c115002dc5125d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png" group-title="PlexTV",Sonic The Hedgehog
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="PlexTV",Sonic TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
-
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801" tvg-logo="https://provider-static.plex.tv/epg/cms/production/84bbc4c9-ab36-47c0-88f8-d2d2e67f657a/Soul_Storm.png" group-title="PlexTV",Soul Storm
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",Slovakia-1st Liga : HK Gladiators Trnava vs. HK Martin (Sep 30-2025 3:30 PM UK / Sep 30-2025 8:30 AM MT / Sep 30-2025 10:30 AM EST)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium21%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1 tvg-name="South Park – Pluto TV" tvg-logo="https://i.imgur.com/06wIdRV.png" group-title="VOD Italy",South Park – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -3416,6 +3320,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5b
 #EXTINF:-1 tvg-name="Super! Rugrats – Pluto TV" tvg-logo="https://i.imgur.com/QqMQZte.png" group-title="VOD Italy",Super! Rugrats – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Super! Spongebob – Pluto TV" tvg-logo="https://i.imgur.com/vFiwODM.png" group-title="VOD Italy",Super! Spongebob – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-name="Super! Star – Pluto TV" tvg-logo="https://i.imgur.com/YLtqPkF.png" group-title="VOD Italy",Super! Star – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -3464,9 +3371,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d5369
 #EXTINF:-1 tvg-name="The Boat Show – Pluto TV" tvg-logo="https://i.imgur.com/aDcwRvj.png" group-title="VOD Italy",The Boat Show – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb58aa60bc8f0008caa8f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1  tvg-id="400000155" tvg-logo="https://canvas-lb.tubitv.com/opts/aJMiL7C9b6KOFA==/fa2f8c60-0492-4a50-a92d-4a034e9f89f3/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",The Breakfast Club on iHeartRadio
-https://live-manifest.production-public.tubi.io/live/01eff731-e659-4011-9c28-bc1e7b0d8151/playlist.m3u8
-
 #EXTINF:-1  tvg-name="The Graham Norton Show" tvg-id="66166ce7aec96800080f6bd3" tvg-logo="https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/colorLogoPNG.png" tvg-chno="510" group-title="PlutoTV - Canada",The Graham Norton Show
 https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8
 
@@ -3503,14 +3407,23 @@ https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1  tvg-name="The Powerpuff Girls Movie (2002)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMxMDVkYzMtY2IyNS00NmIyLTkzYmEtNzhmOTBlM2NhNjUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DrewLive - VOD" radio="false",The Powerpuff Girls Movie (2002)
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Powerpuff%20Girls/Movies/The%20Powerpuff%20Girls%20Movie.mp4
 
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="The Strongest Man On Earth 2025 - Source 1" tvg-logo="https://i.imgur.gg/060Ta1e-Banner-IIVwW9Su.jpg" group-title="Tims247 - Replays",The Strongest Man On Earth 2025 - Source 1
+https://cdn.jwplayer.com/live/events/GPmD7JnD.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="The Strongest Man On Earth 2025 - Source 2" tvg-logo="https://i.imgur.gg/060Ta1e-Banner-IIVwW9Su.jpg" group-title="Tims247 - Replays",The Strongest Man On Earth 2025 - Source 2
+https://cdn.jwplayer.com/live/events/SM4rSaHS.m3u8
+
 #EXTINF:-1  tvg-id="GBBC900004G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900004G9_20250107T025820SQUARE.png" tvg-chno="4352" group-title="SamsungTVPlus - UK",The Wicked Tuna Channel (UK)
 https://jmp2.uk/stvp-GBBC900004G9
 
 #EXTINF:-1  tvg-name="Tiffany & HMR" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Tiffany & HMR
 https://cdn.baddiehub.com/HMRTiffn.mp4
 
-#EXTINF:-1  tvg-id="687451" tvg-logo="https://canvas-lb.tubitv.com/opts/lHX_ZHXhmz8AMw==/b4316034-83c2-4f21-86b5-255caf1f8742/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",TMJ4 News Milwaukee
-https://live-manifest.production-public.tubi.io/live/485314ce-0bb3-4194-a97d-6a03aebfc0a6/playlist.m3u8
+#EXTINF:-1  tvg-name="TLC HD" tvg-id="tlc-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" group-title="TheTVApp",TLC HD
+https://v15.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8?token=HXT0YzYzECHgVOB4BG-Odw&expires=1759267648&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
+#EXTINF:-1  tvg-name="TNT SD" tvg-id="tnt-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="TheTVApp",TNT SD
+https://v15.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8?token=37PMr8VisL8BZpSRtL7DGw&expires=1759267652&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1  tvg-name="Top Gear" tvg-id="99951249" tvg-logo="https://image.xumo.com/v1/channels/channel/99951249/168x168.png?type=color_onBlack" group-title="Xumo Streams",Top Gear
 https://dbrb49pjoymg4.cloudfront.net/10001/99951249/hls/playlist.m3u8?ads.xumo_channelId=99951249&ads._fw_ifa_type=&ads._fw_did=86a70dcb-2f08-4bc5-8de6-56f544cc049b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCTopGear&ads.csid=xumo_web_BBCTopGear_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3953&ads.xumo_contentName=BBCTopGear&ads.xumo_providerId=3953&ads.xumo_providerName=BBCTopGear&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951249&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -3535,6 +3448,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f988
 
 #EXTINF:-1  tvg-id="GBBC900001SC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20250107T025823SQUARE.png" tvg-chno="4717" group-title="SamsungTVPlus - UK",Trace Urban (UK)
 https://jmp2.uk/stvp-GBBC900001SC
+
+#EXTINF:-1  tvg-name="Travel Channel HD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TheTVApp",Travel Channel HD
+https://v16.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=etRNZ48K4oHSHPTgatCNdw&expires=1759267666&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -3575,14 +3491,14 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="Turkey",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" group-title="News",TRT World
-https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
-
 #EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/QLFmD6d.png" tvg-id="TRTCocuk.tr" group-title="Turkey",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TTV News (台視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-id="TTVNews.tw" group-title="Taiwan",TTV News (台視新聞台) Ⓨ
 https://www.youtube.com/watch?v=xL0ch83RAK8
+
+#EXTINF:-1  tvg-name="TV One HD SD" tvg-id="tv-one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" group-title="TheTVApp",TV One HD SD
+https://v8.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8?token=KwuqZDwCV1rMehlf8b7Oew&expires=1759267680&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-name="TVC News Ⓨ" tvg-logo="https://i.imgur.com/jaSq18B.png" tvg-id="TVCNews.ng" group-title="News",TVC News Ⓨ
 https://www.youtube.com/tvcnewsnigeria/live
@@ -3593,14 +3509,14 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40604.ts
 #EXTINF:-1  tvg-name="Universal Movies" tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Xumo Streams",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=abcaa6af-2ea8-40a1-a083-dafea8c1cde3&ads._fw_vcid2=512116:abcaa6af-2ea8-40a1-a083-dafea8c1cde3&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 
+#EXTINF:-1  tvg-name="Univision East SD" tvg-id="univision-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" group-title="TheTVApp",Univision East SD
+https://v18.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8?token=eDwhIgUaEZBM-5jzPGle6w&expires=1759267698&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
+
 #EXTINF:-1  tvg-name="Vevo '90s & '00s (DrewLive)" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="DrewLive Music Video Channels" radio="false",Vevo '90s & '00s (DrewLive)
 https://jmp2.uk/stvp-GBBC2100002HP
 
 #EXTINF:-1  tvg-id="GBBC19000017V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" tvg-chno="4683" group-title="SamsungTVPlus - UK",Vevo Pop (UK)
 https://jmp2.uk/stvp-GBBC19000017V
-
-#EXTINF:-1  tvg-name="VH1 SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 SD
-https://v3.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8?token=WXEx8Ri5FgAGcmj8BF7Odw&expires=1759185000&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
 
 #EXTINF:-1 tvg-name="VH1+ Back to 90's – Pluto TV" tvg-logo="https://i.imgur.com/vGgh3cs.png" group-title="VOD Italy",VH1+ Back to 90's – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -3617,9 +3533,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e
 #EXTINF:-1 tvg-name="Viaggi – Pluto TV" tvg-logo="https://i.imgur.com/3GJg0uy.png" group-title="VOD Italy",Viaggi – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1  tvg-name="VICE HD" tvg-id="vice" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="TheTVApp",VICE HD
-https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8?token=ocLbBc9pM9eQSPskrC0dwg&expires=1759185013&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1 tvg-id="vie.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Canal_Vie_2016_logo.png" group-title="AriaPlus - Canada",Vie
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40673.ts
 
@@ -3634,6 +3547,9 @@ https://jmp2.uk/stvp-GBBC300003UQ
 
 #EXTINF:-1  tvg-name="WBTV News 3" tvg-id="bf7ee95e6a905222a1d24174120cc106" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bf7ee95e6a905222a1d24174120cc106/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746558434543_WBTV_EPG_Hud_LogoWBTV_HUD_logo_260x147_Centered.png" tvg-chno="4205" group-title="RokuTV",WBTV News 3
 https://jmp2.uk/rok-bf7ee95e6a905222a1d24174120cc106.m3u8
+
+#EXTINF:-1  tvg-name="WCBS (New York) CBS East HD" tvg-id="cbs-wcbs-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="TheTVApp",WCBS (New York) CBS East HD
+https://e1.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=HHHD82kaIrZbYNmRwa8Fdw&expires=1759267748&user_id=TzJBS3R3cks2dXBXVTNVVFNqSUppNURUcXJMdU9qbmVOeTlwekthQQ==
 
 #EXTINF:-1 tvg-logo="https://www.cclmportal.ca/sites/default/files/images/2023-07/the_weather_network_the_weather_network_s_summer_2020_forecast.jpg" group-title="AriaPlus - Canada",Weather Network
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40658.ts
@@ -3668,9 +3584,6 @@ http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Willow%20Ryder%20-%20Tushy/Tu
 #EXTINF:-1  tvg-name="WN Dallas/Ft Worth" tvg-id="USBC1500014UR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500014UR_20241112T001922SQUARE.png" tvg-chno="1135" group-title="PlutoTV - United States",WN Dallas/Ft Worth
 https://jmp2.uk/stvp-USBC1500014UR
 
-#EXTINF:-1  tvg-name="WNYW (New York) FOX East SD" tvg-id="fox-wnyw-new-york-ny" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="TheTVApp",WNYW (New York) FOX East SD
-https://v18.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=Jnlkz94VbHRThe60jLqezA&expires=1759185055&user_id=NGVsRzNCNkdJU1dPUG1KdE1JN1BZUTIySEt3Sm4zMnByT0lLYmVrRA==
-
 #EXTINF:-1  tvg-name="World Poker Tour" tvg-id="99991317" tvg-logo="https://image.xumo.com/v1/channels/channel/99991317/168x168.png?type=color_onBlack" group-title="Xumo Streams",World Poker Tour
 https://dtqutq7lmcchv.cloudfront.net/10001/99991317/hls/playlist.m3u8?ads.xumo_channelId=99991317&ads._fw_ifa_type=&ads._fw_did=07c4ce74-509d-4575-8dd9-adebacbf3ae5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WorldPokerTour&ads.csid=xumo_web_WorldPokerTour_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=252&ads.xumo_contentName=WorldPokerTour&ads.xumo_providerId=252&ads.xumo_providerName=WorldPokerTour&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991317&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
@@ -3682,9 +3595,6 @@ https://jmp2.uk/rok-d53b1fb8c41f574387cde82d084515ea.m3u8
 
 #EXTINF:-1  tvg-name="WTVD ABC11 24/7 Streaming Channel" tvg-id="99951175" tvg-logo="https://image.xumo.com/v1/channels/channel/99951175/168x168.png?type=color_onBlack" group-title="Xumo Streams",WTVD ABC11 24/7 Streaming Channel
 https://content-dtci.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=wtvd_live&ad.vast3=1&ad.description_url=https://abcnews.go.com&ad.networkID=21783347309&ad.adUnit=/WTVD/xumo/web/fast-channel&ad.ppid=1403cb77-5234-4b16-9c1a-c80a87d49fd5&ad.correlator=1755836222511&ad.scor=1755836222511&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=1403cb77-5234-4b16-9c1a-c80a87d49fd5&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=&ad.cust_params=vdm=live&chan=abc&plt=ctv&refDomain=https://abcnews.go.com&vps=640x480&ppid=1403cb77-5234-4b16-9c1a-c80a87d49fd5&beacTyp=ssai&sp=vdms&ait=ssai&var=16x9
-
-#EXTINF:-1  tvg-name="XPLPF" tvg-id="5e20b730f2f8d5003d739db7-65e87f35335524a69e8e0ce0" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/419e4cf8a2e6d3fa3ba349045061d831.png" group-title="PlexTV",Paranormal Files
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e87f35335524a69e8e0ce0.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-id="Yes.TV.(CITS).Burlington.ON.ca" tvg-logo="https://media.starlite.best/yes.tv.ckcs.calgary.ab.ca.png" group-title="AriaPlus - Canada",Yes TV
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40665.ts
