@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-10-08 17:32:19 UTC
-# Total Channels: 48
+# Generated: 2025-10-09 17:35:54 UTC
+# Total Channels: 56
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== ENTERTAINMENT (48 channels) ======
+# ====== ENTERTAINMENT (56 channels) ======
 
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1517-LG-Logo-PNG-100x100_v1.png" group-title="LGTV AU",207 Autentic Travel
 https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticTravel/playlist.m3u8
@@ -44,6 +44,9 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999206
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992106/600x200.png?type=white_cropped" group-title="LGTV USA",756 NatureVision
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992106&ads.csid=lgchannels_ca_naturevisionca_ssai&ads.ad_tag_id=9320&ads.xumo_contentName=NatureVisionTV&ads.xumo_contentId=133&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
+#EXTINF:-1  tvg-name="All Reality We TV" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png" group-title="PlexTV - United States",All Reality We TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec.m3u8
+
 #EXTINF:-1  tvg-name="All Reality WE tv" tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" tvg-chno="1810" group-title="PlutoTV - United Kingdom",All Reality WE tv
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 
@@ -57,16 +60,34 @@ https://jmp2.uk/stvp-USBB4400016F9
 https://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1  tvg-name="Cooking Channel HD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TheTVApp",Cooking Channel HD
-https://e1.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=A5015eo8a5jtaTxrQbl9lg&expires=1759958440&user_id=a0RWQXNrekczbGxjMjNkbUQ0UllMbzEySG5xaDFKWG0zZTFUYWtWSQ==
+https://e3.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=1pn2DabiKOW7O20OuDMf0A&expires=1760045774&user_id=YWNDNUh2U0xTRG00SWM0N1NXOVJmU2JVRXpiOFpGNDlIQmVLVXcyWQ==
 
 #EXTINF:-1  tvg-name="Cooking Channel SD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TheTVApp",Cooking Channel SD
-https://e1.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=wg13sPnlzY5Vj3_1SMlOgQ&expires=1759958431&user_id=a0RWQXNrekczbGxjMjNkbUQ0UllMbzEySG5xaDFKWG0zZTFUYWtWSQ==
+https://v3.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=GJOdj8lUkVtZe8RqawMi5g&expires=1760045764&user_id=YWNDNUh2U0xTRG00SWM0N1NXOVJmU2JVRXpiOFpGNDlIQmVLVXcyWQ==
 
 #EXTINF:-1  tvg-id="Cooking.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="DaddyLive USA",Cooking Channel USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium697%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-id="FashionTV(src01).uk" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4d/Fashion_TV_%282007-.n.v.%29.png/revision/latest?cb=20191014124911" group-title="DaddyLive UK",Fashion TV
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium744%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Australia",FashionTV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
+
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="647f8d22a2fc3fadb4721685-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Canada",FashionTV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6490c01f3b3ce9e1aaad95be.m3u8
+
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - France",FashionTV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be.m3u8
+
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Mexico",FashionTV
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be.m3u8
+
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Spain",FashionTV
+https://jmp2.uk/plex-643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be.m3u8
+
+#EXTINF:-1  tvg-name="Game Show Central" tvg-id="647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/cms/production/690eb5a5-8a79-4f7a-8b6d-7ab2a01dc1d5/game-show-centralRDX.png" group-title="PlexTV - Canada",Game Show Central
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782.m3u8
 
 #EXTINF:-1  tvg-name="Game Show Central" tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" tvg-chno="2370" group-title="PlutoTV - United Kingdom",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
@@ -119,6 +140,9 @@ https://jmp2.uk/stvp-GB2600021LP
 #EXTINF:-1  tvg-name="Tastemade Travel" tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png" tvg-chno="2130" group-title="PlutoTV - United States",Tastemade Travel
 https://jmp2.uk/stvp-USBD700017WC
 
+#EXTINF:-1  tvg-name="The Cooking Channel HD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TVPass",The Cooking Channel HD
+https://tvpass.org/live/CookingChannel/hd
+
 #EXTINF:-1  tvg-name="The Cooking Channel SD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TVPass",The Cooking Channel SD
 https://tvpass.org/live/CookingChannel/sd
 
@@ -132,10 +156,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 https://fl7.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1  tvg-name="Travel Channel HD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TheTVApp",Travel Channel HD
-https://v5.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=Db96EKWtpd2yycpgB8DMVA&expires=1759960044&user_id=a0RWQXNrekczbGxjMjNkbUQ0UllMbzEySG5xaDFKWG0zZTFUYWtWSQ==
+https://v18.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=THJ3-d1uGAdIegMDOSYbWw&expires=1760047382&user_id=YWNDNUh2U0xTRG00SWM0N1NXOVJmU2JVRXpiOFpGNDlIQmVLVXcyWQ==
 
 #EXTINF:-1  tvg-name="Travel Channel SD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TheTVApp",Travel Channel SD
-https://v5.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=CtO-qbLx88PVeZRG9viFzg&expires=1759960035&user_id=a0RWQXNrekczbGxjMjNkbUQ0UllMbzEySG5xaDFKWG0zZTFUYWtWSQ==
+https://v16.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=gWdu2jjaS74hh_Yx58_GMw&expires=1760047372&user_id=YWNDNUh2U0xTRG00SWM0N1NXOVJmU2JVRXpiOFpGNDlIQmVLVXcyWQ==
 
 #EXTINF:-1  tvg-name="Travel US East HD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TVPass",Travel US East HD
 https://tvpass.org/live/TravelChannelEast/hd
