@@ -1,135 +1,198 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-10-12 17:31:33 UTC
-# Total Channels: 255
+# Generated: 2025-10-13 17:34:40 UTC
+# Total Channels: 282
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (255 channels) ======
+# ====== MUSIC (282 channels) ======
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1068/lg/831dd8/LG-Logo-PNG-100x100_v1.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1112 Popflix
+https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1210 Mr.Bean Live
+https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/narrative/lg/POP UP.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1859 Pop UP
+https://amg01753-amg01753c9-lg-gb-8137.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-popup-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&&ads.fck=[FCK]&&ads.viewsize=[VIEWSIZE]&&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/TinyPOP-Logo.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1861 Tiny POP
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://d13rrbz4t88obi.cloudfront.net/qjazz/LG_Ch_Logo_200x200.jpg" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1920 Qwest TV
+https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://d3ia204y3aqvyv.cloudfront.net/HITUK/XITE_Hits_LG_Rebrand/Logo_XITE_Hits.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1923 XITE Hits
+https://xite-hitsuk-lg.amagi.tv/hls/amagi_hls_data_xiteAAAAA-xite-hitsuk-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
 #EXTINF:-1  tvg-name="24/7 Chiptune Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://watch.chiptune.fm/logo" group-title="DrewLive Fan Made TV" radio="false",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912501/600x200.png?type=white_cropped" group-title="LGTV Canada",447 Stingray Cozy Cafe
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912501/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",447 Stingray Cozy Cafe
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912501&ads.csid=lgchannels_[COUNTRY]_StingrayCozyCafe_ssai&ads.ad_tag_id=102189&ads.xumo_contentName=StingrayCozyCafe&ads.xumo_contentId=4180&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912007/600x200.png?type=white_cropped" group-title="LGTV Canada",448 ZENLife By Stingray
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912007/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",448 ZENLife By Stingray
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912007&ads.csid=lgchannels_[COUNTRY]_StingrayZenlifeCA_ssai&ads.ad_tag_id=36042&ads.xumo_contentName=StingrayZenlifeCA&ads.xumo_contentId=3975&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d3gypb03kkyu14.cloudfront.net/Radio-Canada-Info/LGLogo.png" group-title="LGTV Canada",489 CBC Radio Canada
+#EXTINF:-1 tvg-logo="https://d3gypb03kkyu14.cloudfront.net/Radio-Canada-Info/LGLogo.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",489 CBC Radio Canada
 https://amg00788-cbc-amg00788c5-lg-ca-3605.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbcradiocanada-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/617-LG-Logo-PNG-100x100_v6.png" group-title="LGTV Canada",511 NEW KPOP
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/617-LG-Logo-PNG-100x100_v6.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",511 NEW KPOP
 https://909b88a1a7814326b58f45aa4514efdc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-ca_NewKPop/playlist.m3u8
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992099/600x200.png?type=white_cropped" group-title="LGTV USA",757 ZENLife By Stingray
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992099&ads.csid=lgchannels_[COUNTRY]_StingrayZenlifeUS_ssai&ads.ad_tag_id=36042&ads.xumo_contentName=StingrayZenlifeUS&ads.xumo_contentId=3975&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/617/lg/01b45e/LG-Logo-PNG-100x100_v2.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",562 NEW KPOP
+https://c0e27451f9624e41b622986316e1b10f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-mx_NewKPop/playlist.m3u8
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912503/600x200.png?type=white_cropped" group-title="LGTV Canada",805 Stingray Country Greats
+#EXTINF:-1 tvg-logo="https://d13rrbz4t88obi.cloudfront.net/qjazz/NewQwestTV_200x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",566 Qwest TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992422/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",567 Stingray Remember the 80s
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992422&ads.xumo_streamId=99992422&ads.channelId=99992422&ads.ad_tag_id=15722&ads.csid=lgchannels_mx_stingrayeverything80s_ssai&ads.channelName=stingrayeverything80s_mx&ads.xumo_contentName=StingrayEverything80s&ads.xumo_contentId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_providerId=2184&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992420/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",568 Stingray Classic Rock
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992420&ads.xumo_streamId=99992420&ads.channelId=99992420&ads.ad_tag_id=15723&ads.csid=lgchannels_mx_stingrayclassicrock_ssai&ads.channelName=stingrayclassicrock_mx&ads.xumo_contentName=StingrayClassicRock&ads.xumo_contentId=1856&ads.xumo_providerName=StingrayClassicRock&ads.xumo_providerId=1856&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992416/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",569 Stingray Exitos del Momento
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992416&ads.xumo_streamId=99992416&ads.channelId=99992416&ads.ad_tag_id=15714&ads.csid=lgchannels_mx_stingraylatinpop_ssai&ads.channelName=stingraylatinpop_mx&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3196&ads.xumo_providerName=StingrayExitosdelMomento&ads.xumo_providerId=3196&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992418/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",570 Stingray Greatest Hits
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992418&ads.xumo_streamId=99992418&ads.channelId=99992418&ads.ad_tag_id=15724&ads.csid=lgchannels_mx_stingraygreatesthits_ssai&ads.channelName=stingraygreatesthits_mx&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_contentId=1857&ads.xumo_providerName=StingrayGreatestHits&ads.xumo_providerId=1857&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992419/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",571 Stingray Hot Country
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992419&ads.xumo_streamId=99992419&ads.channelId=99992419&ads.ad_tag_id=15721&ads.csid=lgchannels_mx_stingrayhotcountry_ssai&ads.channelName=stingrayhotcountry_mx&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&ads.xumo_providerName=StingrayHotCountry&ads.xumo_providerId=1859&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992421/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",572 Stingray Soul Storm
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992421&ads.xumo_streamId=99992421&ads.channelId=99992421&ads.ad_tag_id=15710&ads.csid=lgchannels_mx_stingraysoulstorm_ssai&ads.channelName=stingraysoulstorm_mx&ads.xumo_contentName=StingraySoulStorm&ads.xumo_contentId=1860&ads.xumo_providerName=StingraySoulStorm&ads.xumo_providerId=1860&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992414/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",573 Stingray Pop Adult
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992414&ads.xumo_streamId=99992414&ads.channelId=99992414&ads.ad_tag_id=15716&ads.csid=lgchannels_mx_stingraypopadult_ssai&ads.channelName=stingraypopadult_mx&ads.xumo_contentName=StingrayPopAdult&ads.xumo_contentId=3197&ads.xumo_providerName=StingrayPopAdult&ads.xumo_providerId=3197&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992426/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",576 TikTok Radio en Español
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992426&ads.xumo_streamId=99992426&ads.channelId=99992426&ads.ad_tag_id=119701&ads.csid=lgchannels_mx_stingraytiktokenespanol_ssai&ads.channelName=stingraytiktokenespanol_mx&ads.xumo_contentName=StingrayTikTokRadioEspanol&ads.xumo_contentId=4252&ads.xumo_providerName=StingrayTikTokRadioEspanol&ads.xumo_providerId=4252&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992627/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",577 Stingray Éxitos Regional Mexicano
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992627&ads.xumo_streamId=99992627&ads.channelId=99992627&ads.ad_tag_id=119700&ads.csid=lgchannels_mx_Stingrayexitosregionalmexicano_ssai&ads.channelName=stingrayexitosdelmomento_mx&ads.xumo_contentName=StingrayExitosRegionalMexicano&ads.xumo_contentId=4253&ads.xumo_providerName=StingrayExitosRegionalMexicano&ads.xumo_providerId=4253&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992628/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",578 Stingray Época Dorada del Cine Mexicano
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992628&ads.xumo_streamId=99992628&ads.channelId=99992628&ads.ad_tag_id=119702&ads.csid=lgchannels_mx_stingrayepocadoradadelcinemexicano_ssai&ads.channelName=stingrayepocadoradadelcinemexicano_mx&ads.xumo_contentName=StingrayEpocaDoradadelCineMexicano&ads.xumo_contentId=4254&ads.xumo_providerName=StingrayEpocaDoradadelCineMexicano&ads.xumo_providerId=4254&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=es&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992629/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",579 Stingray Pop Mexicano 80s
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992629&ads.xumo_streamId=99992629&ads.channelId=99992629&ads.ad_tag_id=119699&ads.csid=lgchannels_mx_stingraypopmexicano80s_ssai&ads.channelName=stingraypopmexicano80s_mx&ads.xumo_contentName=StingrayPopMexicano80s&ads.xumo_contentId=4255&ads.xumo_providerName=StingrayPopMexicano80s&ads.xumo_providerId=4255&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992099/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",757 ZENLife By Stingray
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992099&ads.xumo_streamId=99992099&ads.channelId=99992099&ads.ad_tag_id=36042&ads.csid=lgchannels_us_stingrayzenlife_ssai&ads.channelName=stingrayzenlife_us&ads.xumo_contentName=StingrayZenlifeUS&ads.xumo_contentId=3975&ads.xumo_providerName=StingrayZenlifeUS&ads.xumo_providerId=3975&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912503/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",805 Stingray Country Greats
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912503&ads.csid=lgchannels_[COUNTRY]_StingrayCountryHits_ssai&ads.ad_tag_id=102187&ads.xumo_contentName=StingrayCountryHits&ads.xumo_contentId=4179&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912502/600x200.png?type=white_cropped" group-title="LGTV Canada",806 Stingray Flashback 70s
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912502/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",806 Stingray Flashback 70s
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912502&ads.csid=lgchannels_[COUNTRY]_StingrayFlashback_ssai&ads.ad_tag_id=102190&ads.xumo_contentName=StingrayFlashback&ads.xumo_contentId=4177&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992109/600x200.png?type=white_cropped" group-title="LGTV Canada",807 Stingray Pop Adult
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992109/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",807 Stingray Pop Adult
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992109&ads.csid=lgchannels_ca_stingraypopadultca_ssai&ads.ad_tag_id=9335&ads.xumo_contentName=StingrayPopAdultCA&ads.xumo_contentId=3841&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912006/600x200.png?type=white_cropped" group-title="LGTV Canada",808 Stingray Easy Listening
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912006/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",808 Stingray Easy Listening
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912006&ads.csid=lgchannels_ca_stingrayeasylisteningca_ssai&ads.ad_tag_id=9324&ads.xumo_contentName=StingrayEasyListeningCA&ads.xumo_contentId=3735&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912004/600x200.png?type=white_cropped" group-title="LGTV Canada",809 Stingray SPA
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912004/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",809 Stingray SPA
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912004&ads.csid=lgchannels_ca_stingrayspaca_ssai&ads.ad_tag_id=9338&ads.xumo_contentName=StingraySpaCA&ads.xumo_contentId=3742&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912504/600x200.png?type=white_cropped" group-title="LGTV Canada",810 TikTok Radio
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912504/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",810 TikTok Radio
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912504&ads.csid=lgchannels_[COUNTRY]_StingrayTikTok_ssai&ads.ad_tag_id=102191&ads.xumo_contentName=StingrayTikTok&ads.xumo_contentId=3813&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-pg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992136/600x200.png?type=white_cropped" group-title="LGTV Canada",811 Stingray Greatest Hits
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992136/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",811 Stingray Greatest Hits
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992136&ads.csid=lgchannels_ca_stingraygreatesthitsca_ssai&ads.ad_tag_id=9328&ads.xumo_contentName=StingrayGreatestHitsCA&ads.xumo_contentId=3839&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992088/600x200.png?type=white_cropped" group-title="LGTV Canada",812 Stingray Hot Country
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992088/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",812 Stingray Hot Country
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992088&ads.csid=lgchannels_ca_stingrayhotcountry_ssai&ads.ad_tag_id=9331&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992058/600x200.png?type=white_cropped" group-title="LGTV Canada",813 Stingray Classic Rock
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992058/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",813 Stingray Classic Rock
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992058&ads.csid=lgchannels_[COUNTRY]_StingrayClassicRock_ssai&ads.ad_tag_id=9323&ads.xumo_contentName=StingrayClassicRock&ads.xumo_contentId=1856&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992098/600x200.png?type=white_cropped" group-title="LGTV Canada",815 Stingray Remember the 80s
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992098/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",815 Stingray Remember the 80s
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992098&ads.csid=lgchannels_ca_stingrayeverything80sca_ssai&ads.ad_tag_id=9326&ads.xumo_contentName=StingrayEverything80sCA&ads.xumo_contentId=3837&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992041/600x200.png?type=white_cropped" group-title="LGTV Canada",816 Nothin' but the 90s
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992041/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",816 Nothin' but the 90s
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992041&ads.csid=lgchannels_ca_stingray90sca_ssai&ads.ad_tag_id=9334&ads.xumo_contentName=Stingray90sCA&ads.xumo_contentId=3757&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912003/600x200.png?type=white_cropped" group-title="LGTV Canada",818 Stingray Hip Hop
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912003/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",818 Stingray Hip Hop
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912003&ads.csid=lgchannels_ca_stingrayhiphop_ssai&ads.ad_tag_id=9329&ads.xumo_contentName=StingrayHipHop&ads.xumo_contentId=3195&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912005/600x200.png?type=white_cropped" group-title="LGTV Canada",819 Stingray Smooth Jazz
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912005/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",819 Stingray Smooth Jazz
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912005&ads.csid=lgchannels_ca_stingraysmoothjazzca_ssai&ads.ad_tag_id=9336&ads.xumo_contentName=StingraySmoothJazzCA&ads.xumo_contentId=3738&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png" group-title="LGTV Canada",820 Stingray Today's K-Pop
+#EXTINF:-1 tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",820 Stingray Today's K-Pop
 https://lotus.stingray.com/ads/ose-317ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/KAR000/lg-direct/Channel_Logo_740x200.png" group-title="LGTV Canada",821 Stingray Karaoke
+#EXTINF:-1 tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/KAR000/lg-direct/Channel_Logo_740x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",821 Stingray Karaoke
 https://lotus.stingray.com/ads/karaoke-kar000-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99912000/600x200.png?type=white_cropped" group-title="LGTV Canada",822 Stingray Holidayscapes
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99912000/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",822 Stingray Holidayscapes
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99912000&ads.csid=lgchannels_[COUNTRY]_StingrayHolidayscape_ssai&ads.ad_tag_id=31258&ads.xumo_contentName=StingrayHolidayscape&ads.xumo_contentId=4001&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992066/600x200.png?type=white_cropped" group-title="LGTV USA",900 Stingray Greatest Hits
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066&ads.csid=lgchannels_us_stingraygreatesthits_ssai&ads.ad_tag_id=9328&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_contentId=1857&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992066/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",900 Stingray Greatest Hits
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066&ads.xumo_streamId=99992066&ads.channelId=99992066&ads.ad_tag_id=9328&ads.csid=lgchannels_us_stingraygreatesthits_ssai&ads.channelName=stingraygreatesthits_us&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_contentId=1857&ads.xumo_providerName=StingrayGreatestHits&ads.xumo_providerId=1857&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99993050/600x200.png?type=white_cropped" group-title="LGTV USA",901 TikTok Radio
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993050&ads.csid=lgchannels_[COUNTRY]_StingrayTikTok_ssai&ads.ad_tag_id=102191&ads.xumo_contentName=StingrayTikTok&ads.xumo_contentId=3813&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-pg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993050/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",901 TikTok Radio
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993050&ads.xumo_streamId=99993050&ads.channelId=99993050&ads.ad_tag_id=102191&ads.csid=lgchannels_us_stingraytiktok_ssai&ads.channelName=stingraytiktok_us&ads.xumo_contentName=StingrayTikTok&ads.xumo_contentId=3813&ads.xumo_providerName=StingrayTikTok&ads.xumo_providerId=3813&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99993049/600x200.png?type=white_cropped" group-title="LGTV USA",902 Stingray Country Greats
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993049&ads.csid=lgchannels_[COUNTRY]_StingrayCountryHits_ssai&ads.ad_tag_id=102187&ads.xumo_contentName=StingrayCountryHits&ads.xumo_contentId=4179&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993049/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",902 Stingray Country Greats
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993049&ads.xumo_streamId=99993049&ads.channelId=99993049&ads.ad_tag_id=102187&ads.csid=lgchannels_us_stingraycountrygreats_ssai&ads.channelName=stingraycountrygreats_us&ads.xumo_contentName=StingrayCountryHits&ads.xumo_contentId=4179&ads.xumo_providerName=StingrayCountryHits&ads.xumo_providerId=4179&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992087/600x200.png?type=white_cropped" group-title="LGTV USA",903 Stingray Hot Country
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992087&ads.csid=lgchannels_us_stingrayhotcountry_ssai&ads.ad_tag_id=9331&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992087/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",903 Stingray Hot Country
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992087&ads.xumo_streamId=99992087&ads.channelId=99992087&ads.ad_tag_id=9331&ads.csid=lgchannels_us_stingrayhotcountry_ssai&ads.channelName=stingrayhotcountry_us&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&ads.xumo_providerName=StingrayHotCountry&ads.xumo_providerId=1859&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992057/600x200.png?type=white_cropped" group-title="LGTV USA",904 Stingray Classic Rock
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992057&ads.csid=lgchannels_[COUNTRY]_StingrayClassicRock_ssai&ads.ad_tag_id=9323&ads.xumo_contentName=StingrayClassicRock&ads.xumo_contentId=1856&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992057/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",904 Stingray Classic Rock
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992057&ads.xumo_streamId=99992057&ads.channelId=99992057&ads.ad_tag_id=9323&ads.csid=lgchannels_us_stingrayclassicrock_ssai&ads.channelName=stingrayclassicrock_us&ads.xumo_contentName=StingrayClassicRock&ads.xumo_contentId=1856&ads.xumo_providerName=StingrayClassicRock&ads.xumo_providerId=1856&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99993048/600x200.png?type=white_cropped" group-title="LGTV USA",905 Stingray Flashback 70s
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993048&ads.csid=lgchannels_[COUNTRY]_StingrayFlashback_ssai&ads.ad_tag_id=102190&ads.xumo_contentName=StingrayFlashback&ads.xumo_contentId=4177&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993048/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",905 Stingray Flashback 70s
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993048&ads.xumo_streamId=99993048&ads.channelId=99993048&ads.ad_tag_id=102190&ads.csid=lgchannels_us_stingrayflashback70s_ssai&ads.channelName=stingrayflashback70s_us&ads.xumo_contentName=StingrayFlashback&ads.xumo_contentId=4177&ads.xumo_providerName=StingrayFlashback&ads.xumo_providerId=4177&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992097/600x200.png?type=white_cropped" group-title="LGTV USA",906 Stingray Remember the 80s
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992097&ads.csid=lgchannels_us_stingrayeverything80s_ssai&ads.ad_tag_id=9326&ads.xumo_contentName=StingrayEverything80s&ads.xumo_contentId=2184&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992097/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",906 Stingray Remember the 80s
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992097&ads.xumo_streamId=99992097&ads.channelId=99992097&ads.ad_tag_id=9326&ads.csid=lgchannels_us_stingrayeverything80s_ssai&ads.channelName=stingrayeverything80s_us&ads.xumo_contentName=StingrayEverything80s&ads.xumo_contentId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_providerId=2184&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992108/600x200.png?type=white_cropped" group-title="LGTV USA",907 Stingray Pop Adult
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992108&ads.csid=lgchannels_br_stingraypopadult_ssai&ads.ad_tag_id=15725&ads.xumo_contentName=StingrayPopAdult&ads.xumo_contentId=3197&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992108/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",907 Stingray Pop Adult
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992108&ads.xumo_streamId=99992108&ads.channelId=99992108&ads.ad_tag_id=15725&ads.csid=lgchannels_us_stingraypopadult_ssai&ads.channelName=stingraypopadult_us&ads.xumo_contentName=StingrayPopAdult&ads.xumo_contentId=3197&ads.xumo_providerName=StingrayPopAdult&ads.xumo_providerId=3197&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=TV-PG&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992116/600x200.png?type=white_cropped" group-title="LGTV USA",908 Stingray Hip Hop
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992116&ads.csid=lgchannels_us_stingrayhiphop_ssai&ads.ad_tag_id=9329&ads.xumo_contentName=StingrayHipHop&ads.xumo_contentId=3195&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992116/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",908 Stingray Hip Hop
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992116&ads.xumo_streamId=99992116&ads.channelId=99992116&ads.ad_tag_id=9329&ads.csid=lgchannels_us_stingrayhiphop_ssai&ads.channelName=stingrayhiphop_br&ads.xumo_contentName=StingrayHipHop&ads.xumo_contentId=3195&ads.xumo_providerName=StingrayHipHop&ads.xumo_providerId=3195&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/190ADS/lg-direct/Channel_Logo_296x200.png" group-title="LGTV USA",909 Stingray Today's Latin Pop
-https://lotus.stingray.com/ads/ose-190ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/190ADS/lg-direct/Channel_Logo_296x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",909 Stingray Today\'s Latin Pop
+https://lotus.stingray.com/ads/ose-190ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.ifa=[IFA]&ads.lmt=[LMT]&ads.dns=[DNS]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992016/600x200.png?type=white_cropped" group-title="LGTV USA",911 Stingray Smooth Jazz
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992016&ads.csid=lgchannels_us_stingraysmoothjazz_ssai&ads.ad_tag_id=9336&ads.xumo_contentName=StingraySmoothJazz&ads.xumo_contentId=3538&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992016/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",911 Stingray Smooth Jazz
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992016&ads.xumo_streamId=99992016&ads.channelId=99992016&ads.ad_tag_id=9336&ads.csid=lgchannels_us_stingraysmoothjazz_ssai&ads.channelName=stingraysmoothjazz_us&ads.xumo_contentName=StingraySmoothJazz&ads.xumo_contentId=3538&ads.xumo_providerName=StingraySmoothJazz&ads.xumo_providerId=3538&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992000/600x200.png?type=white_cropped" group-title="LGTV USA",912 Stingray Easy Listening
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992000&ads.csid=lgchannels_us_stingrayeasylistening_ssai&ads.ad_tag_id=9324&ads.xumo_contentName=StingrayEasyListening&ads.xumo_contentId=3539&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992000/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",912 Stingray Easy Listening
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992000&ads.xumo_streamId=99992000&ads.channelId=99992000&ads.ad_tag_id=9324&ads.csid=lgchannels_us_stingrayeasylistening_ssai&ads.channelName=stingrayeasylistening_us&ads.xumo_contentName=StingrayEasyListening&ads.xumo_contentId=3539&ads.xumo_providerName=StingrayEasyListening&ads.xumo_providerId=3539&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992040/600x200.png?type=white_cropped" group-title="LGTV USA",913 Stingray Nothing But the 90s
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992040&ads.csid=lgchannels_br_stingray90smx_ssai&ads.ad_tag_id=7569&ads.xumo_contentName=Stingray90sUS&ads.xumo_contentId=3760&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992040/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",913 Stingray Nothin\' but \'90s
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992040&ads.xumo_streamId=99992040&ads.channelId=99992040&ads.ad_tag_id=9334&ads.csid=lgchannels_us_stingray90s_ssai&ads.channelName=stingray90s_us&ads.xumo_contentName=Stingray90sUS&ads.xumo_contentId=3760&ads.xumo_providerName=Stingray90sUS&ads.xumo_providerId=3760&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992008/600x200.png?type=white_cropped" group-title="LGTV USA",924 Stingray SPA
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992008&ads.csid=lgchannels_us_stingrayspa_ssai&ads.ad_tag_id=9338&ads.xumo_contentName=StingraySpa&ads.xumo_contentId=3537&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/KAR000/lg-direct/Channel_Logo_740x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",915 Stingray Karaoke
+https://lotus.stingray.com/ads/karaoke-kar000-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.ifa=[IFA]&ads.lmt=[LMT]&ads.dns=[DNS]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99993047/600x200.png?type=white_cropped" group-title="LGTV USA",925 Stingray Cozy Cafe
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993047&ads.csid=lgchannels_[COUNTRY]_StingrayCozyCafe_ssai&ads.ad_tag_id=102189&ads.xumo_contentName=StingrayCozyCafe&ads.xumo_contentId=4180&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",917 Stingray Today\'s K-Pop
+https://lotus.stingray.com/ads/ose-317ads-montreal/lgchannels/master.m3u8?ads.ip=[IP]&ads.ua=[UA]&ads.targetad=[TARGETAD_ALLOWED]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.gdprconsent=[GDPR_CONSENT]&ads.gdpr=[GDPR]&ads.usprivacy=[US_PRIVACY]&ads.lat=[LMT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.ifa=[IFA]&ads.lmt=[LMT]&ads.dns=[DNS]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992518/600x200.png?type=white_cropped" group-title="LGTV USA",926 Stingray Holidayscapes
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992518&ads.csid=lgchannels_[COUNTRY]_StingrayHolidayscape_ssai&ads.ad_tag_id=31258&ads.xumo_contentName=StingrayHolidayscape&ads.xumo_contentId=4001&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992008/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",924 Stingray SPA
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992008&ads.xumo_streamId=99992008&ads.channelId=99992008&ads.ad_tag_id=9338&ads.csid=lgchannels_us_stingrayspa_ssai&ads.channelName=stingrayspa_us&ads.xumo_contentName=StingraySpa&ads.xumo_contentId=3537&ads.xumo_providerName=StingraySpa&ads.xumo_providerId=3537&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993047/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",925 Stingray Cozy Cafe
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993047&ads.xumo_streamId=99993047&ads.channelId=99993047&ads.ad_tag_id=102189&ads.csid=lgchannels_us_stingraycozycafe_ssai&ads.channelName=stingraycozycafe_us&ads.xumo_contentName=StingrayCozyCafe&ads.xumo_contentId=4180&ads.xumo_providerName=StingrayCozyCafe&ads.xumo_providerId=4180&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992518/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",926 Stingray Holidayscapes
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992518&ads.xumo_streamId=99992518&ads.channelId=99992518&ads.ad_tag_id=31258&ads.csid=lgchannels_us_stingrayholidayscape_ssai&ads.channelName=stingrayholidayscape_us&ads.xumo_contentName=StingrayHolidayscape&ads.xumo_contentId=3996&ads.xumo_providerName=StingrayHolidayscape&ads.xumo_providerId=3996&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
 
-#EXTINF:-1  tvg-name="batteryPOP" tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20250211T021653SQUARE.png" tvg-chno="3714" group-title="PlutoTV - United States",batteryPOP
-https://jmp2.uk/stvp-USBD3300012VX
-
 #EXTINF:-1  tvg-id="CABD12000247O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD12000247O_20250812T003409SQUARE.png" tvg-chno="3714" group-title="SamsungTVPlus - CA",batteryPOP (CA)
 https://jmp2.uk/stvp-CABD12000247O
+
+#EXTINF:-1  tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20250211T021653SQUARE.png" tvg-chno="3714" group-title="SamsungTVPlus - USA",batteryPOP (USA)
+https://jmp2.uk/stvp-USBD3300012VX
 
 #EXTINF:-1  tvg-name="Bestnet Radio - Bomb Beats" tvg-id="Radio.105.Dummy.us" tvg-logo="https://image.live365.com/download/d0547470-63f8-4e3c-ada5-aed979c8a6ce.png/400/image.webp" group-title="DrewFX - Hip Hop & R&B" radio="true",Bestnet Radio - Bomb Beats
 https://streaming.live365.com/a20849
@@ -152,14 +215,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff.m3u8
 #EXTINF:-1  tvg-name="Classic Rock" tvg-id="647f8d22a2fc3fadb4721685-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="PlexTV - Canada",Classic Rock
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aaa0cc784a2161d3caf7ff.m3u8
 
-#EXTINF:-1  tvg-name="Classic Rock" tvg-id="6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="PlexTV - France",Classic Rock
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff.m3u8
-
 #EXTINF:-1  tvg-name="Classic Rock" tvg-id="608049aefa2b8ae93c2c3a63-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="PlexTV - Mexico",Classic Rock
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61aaa0cc784a2161d3caf7ff.m3u8
-
-#EXTINF:-1  tvg-name="Classic Rock" tvg-id="643054b1fc3be59477853717-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="PlexTV - Spain",Classic Rock
-https://jmp2.uk/plex-643054b1fc3be59477853717-61aaa0cc784a2161d3caf7ff.m3u8
 
 #EXTINF:-1  tvg-name="Classic Rock 103.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2733/files/2021/04/wglx-logo-glow-1024x683.png" group-title="DrewFX - Classic Rock" radio="true",Classic Rock 103.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGLXFMAAC.aac
@@ -191,26 +248,17 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:-1  tvg-name="Dilema Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dilemaradio.com/wp-content/uploads/2020/06/dilemaradio-logo-mobile.webp" group-title="DrewFX - Hip Hop & R&B" radio="true",Dilema Radio
 https://dilemaradiolive.radioca.st/stream
 
+#EXTINF:-1  tvg-name="Euro Hits" tvg-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - Australia",Euro Hits
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
+
 #EXTINF:-1  tvg-name="Euro Hits" tvg-id="647f8d22a2fc3fadb4721685-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - Canada",Euro Hits
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee74af52f7d73061eec491.m3u8
-
-#EXTINF:-1  tvg-name="Euro Hits" tvg-id="6430aa45fc3be5947780904e-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - France",Euro Hits
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-62ee74af52f7d73061eec491.m3u8
 
 #EXTINF:-1  tvg-name="Euro Hits" tvg-id="608049aefa2b8ae93c2c3a63-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - Mexico",Euro Hits
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ee74af52f7d73061eec491.m3u8
 
-#EXTINF:-1  tvg-name="Euro Hits" tvg-id="643054b1fc3be59477853717-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - Spain",Euro Hits
-https://jmp2.uk/plex-643054b1fc3be59477853717-62ee74af52f7d73061eec491.m3u8
-
 #EXTINF:-1  tvg-name="FreeTV Hits" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV - Mexico",FreeTV Hits
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284191.m3u8
-
-#EXTINF:-1  tvg-name="FreeTV Hits" tvg-id="643054b1fc3be59477853717-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV - Spain",FreeTV Hits
-https://jmp2.uk/plex-643054b1fc3be59477853717-6018913ea15130002b284191.m3u8
-
-#EXTINF:-1  tvg-name="FreeTV Hits" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV - United States",FreeTV Hits
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
 
 #EXTINF:-1  tvg-name="Gangstaville Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s135290/images/logod.png?t=636225822429870000" group-title="DrewFX - Hip Hop & R&B" radio="true",Gangstaville Radio
 https://stream.radio.co/s1cffd7347/listen
@@ -245,29 +293,17 @@ https://cdn.baddiehub.com/jz720.mp4
 #EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/xduh-613x360.jpg" group-title="DrewLive - XXX" radio="false",JazzTheStallion 2
 https://cdn.baddiehub.com/xduzh.mp4
 
-#EXTINF:-1  tvg-name="K-POP by CJ ENM" tvg-id="US39000038W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" tvg-chno="4445" group-title="PlutoTV - United States",K-POP by CJ ENM
-https://jmp2.uk/stvp-US39000038W
-
 #EXTINF:-1  tvg-id="CA3900002PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900002PM_20250729T185214SQUARE.png" tvg-chno="4445" group-title="SamsungTVPlus - CA",K-POP by CJ ENM (CA)
 https://jmp2.uk/stvp-CA3900002PM
 
 #EXTINF:-1  tvg-id="GB3900001TM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900001TM_20250107T030712SQUARE.png" tvg-chno="4742" group-title="SamsungTVPlus - UK",K-POP by CJ ENM (UK)
 https://jmp2.uk/stvp-GB3900001TM
 
+#EXTINF:-1  tvg-id="US39000038W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" tvg-chno="4445" group-title="SamsungTVPlus - USA",K-POP by CJ ENM (USA)
+https://jmp2.uk/stvp-US39000038W
+
 #EXTINF:-1 group-title="JapanTV" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
 https://ca01.utako.moe/kayopops/index.m3u8
-
-#EXTINF:-1  tvg-name="KPOP+" tvg-id="5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="PlexTV - Australia",KPOP+
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66.m3u8
-
-#EXTINF:-1  tvg-name="KPOP+" tvg-id="647f8d22a2fc3fadb4721685-682e09a8dfc9c452b8f9bd66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="PlexTV - Canada",KPOP+
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-682e09a8dfc9c452b8f9bd66.m3u8
-
-#EXTINF:-1  tvg-name="KPOP+" tvg-id="608049aefa2b8ae93c2c3a63-682e09a8dfc9c452b8f9bd66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="PlexTV - Mexico",KPOP+
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-682e09a8dfc9c452b8f9bd66.m3u8
-
-#EXTINF:-1  tvg-name="KPOP+" tvg-id="643054b1fc3be59477853717-682e09a8dfc9c452b8f9bd66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="PlexTV - Spain",KPOP+
-https://jmp2.uk/plex-643054b1fc3be59477853717-682e09a8dfc9c452b8f9bd66.m3u8
 
 #EXTINF:-1  tvg-name="KZWA 104.9 FM" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn.socast.io/9069/sites/6/2024/12/05130114/OFFICIAL-KZWA-LOGO-150x74.jpeg" group-title="DrewFX - Hip Hop & R&B" radio="true",KZWA 104.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM.mp3?dist=onlineradiobox
@@ -275,7 +311,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM.mp3?dis
 #EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-id="LatinaTV.ve" group-title="Venezuela",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
-#EXTINF:-1  tvg-name="Live Music" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" tvg-chno="2190" group-title="PlutoTV - United Kingdom",Live Music
+#EXTINF:-1  tvg-name="Live Music" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" tvg-chno="2190" group-title="PlutoTV - United States",Live Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 
 #EXTINF:-1  tvg-name="Lofi Hip-Hop Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/580fbaac440243d8731ffc57/46cb49b3-63d7-40e1-9cd0-540fbecdc39c/Lofi+Girl+16x9.jpeg" group-title="DrewLive Fan Made TV" radio="false",Lofi Hip-Hop Radio
@@ -287,17 +323,23 @@ https://live.amperwave.net/direct/adamsradio-wjfxhd2aac-ibc1
 #EXTINF:-1  tvg-name="MGM+ HITS" tvg-id="MGM+.Hits.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="MoveOnJoy" radio="false",MGM+ HITS
 https://fl7.moveonjoy.com/EPIX_HITS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="AriaPlus - United States",MTV
+https://tvpass.org/live/MTVEast/hd
+
 #EXTINF:-1 group-title="JapanTV" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
 https://ca01.utako.moe/mtv/index.m3u8
 
 #EXTINF:-1  tvg-name="MTV" tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",MTV
 https://fl7.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1  tvg-name="MTV 2 East SD" tvg-id="mtv-2-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="TVPass",MTV 2 East SD
-https://tvpass.org/live/mtv-2-east/sd
+#EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="66866fc995e91900088768a5" tvg-logo="https://images.pluto.tv/channels/66866fc995e91900088768a5/colorLogoPNG.png" tvg-chno="902" group-title="PlutoTV - United Kingdom",MTV Biggest Pop
+https://jmp2.uk/plu-66866fc995e91900088768a5.m3u8
 
-#EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="PlutoTV - United Kingdom",MTV Biggest Pop
+#EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png" tvg-chno="4780" group-title="PlutoTV - United States",MTV Biggest Pop
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+
+#EXTINF:-1  tvg-name="MTV Catfish" tvg-id="625461ef01f27a0007976ad1" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" tvg-chno="397" group-title="PlutoTV - Mexico",MTV Catfish
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 
 #EXTINF:-1  tvg-name="MTV Classic" tvg-id="MTV.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="MoveOnJoy" radio="false",MTV Classic
 https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8
@@ -305,17 +347,41 @@ https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1  tvg-name="MTV Classic" tvg-id="654100b4bdf3cf0008aa49c7" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" tvg-chno="756" group-title="PlutoTV - Canada",MTV Classic
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
+#EXTINF:-1  tvg-name="MTV Classic" tvg-id="66a11a21a79dea0008aa90ca" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" tvg-chno="1503" group-title="PlutoTV - Mexico",MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:-1  tvg-name="MTV Classic" tvg-id="635bfb89b5cd9b0007ca9d63" tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" tvg-chno="901" group-title="PlutoTV - United Kingdom",MTV Classic
+https://jmp2.uk/plu-635bfb89b5cd9b0007ca9d63.m3u8
+
+#EXTINF:-1  tvg-name="MTV Con Mi Ex" tvg-id="638693db857364000781b471" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" tvg-chno="391" group-title="PlutoTV - Mexico",MTV Con Mi Ex
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+
 #EXTINF:-1  tvg-name="MTV Dating" tvg-id="64f8a0c230ab3300084369b8" tvg-logo="https://images.pluto.tv/channels/64f8a0c230ab3300084369b8/colorLogoPNG.png" tvg-chno="451" group-title="PlutoTV - Canada",MTV Dating
 https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
 
-#EXTINF:-1  tvg-name="MTV en espaÃ±ol" tvg-id="5cf96d351652631e36d4331f" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" tvg-chno="4350" group-title="PlutoTV - United Kingdom",MTV en espaÃ±ol
+#EXTINF:-1  tvg-name="MTV Dating" tvg-id="6851b909954170e0128bc71d" tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1750686878183.png" tvg-chno="388" group-title="PlutoTV - Mexico",MTV Dating
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+
+#EXTINF:-1  tvg-name="MTV Drag" tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" tvg-chno="383" group-title="PlutoTV - Mexico",MTV Drag
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+
+#EXTINF:-1  tvg-name="MTV en español" tvg-id="5cf96d351652631e36d4331f" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" tvg-chno="4350" group-title="PlutoTV - United States",MTV en español
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 
 #EXTINF:-1  tvg-name="MTV FHD" tvg-id="MTV.HD.uk" tvg-logo="https://i.imgur.com/CeKvKIu.png" group-title="A1xmedia UK Channels" radio="false",MTV FHD
 https://a1xs.vip/1000037
 
-#EXTINF:-1  tvg-name="MTV Flow Latino" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" tvg-chno="4790" group-title="PlutoTV - United Kingdom",MTV Flow Latino
+#EXTINF:-1  tvg-name="MTV Flow Latino" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="PlutoTV - Mexico",MTV Flow Latino
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+
+#EXTINF:-1  tvg-name="MTV Flow Latino" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" tvg-chno="4790" group-title="PlutoTV - United States",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+
+#EXTINF:-1  tvg-name="MTV Halloween" tvg-id="6874aec6fd6704e9d3b9b45d" tvg-logo="https://images.pluto.tv/channels/6874aec6fd6704e9d3b9b45d/colorLogoPNG_1756818752434.png" tvg-chno="11" group-title="PlutoTV - Canada",MTV Halloween
+https://jmp2.uk/plu-6874aec6fd6704e9d3b9b45d.m3u8
+
+#EXTINF:-1  tvg-name="MTV Halloween" tvg-id="686f7fa794a8f8fdc6db806a" tvg-logo="https://images.pluto.tv/channels/686f7fa794a8f8fdc6db806a/colorLogoPNG_1756974300590.png" tvg-chno="61" group-title="PlutoTV - United Kingdom",MTV Halloween
+https://jmp2.uk/plu-686f7fa794a8f8fdc6db806a.m3u8
 
 #EXTINF:-1  tvg-name="MTV Kay" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",MTV Kay
 https://cdn.baddiehub.com/MTV.mp4
@@ -326,23 +392,44 @@ https://fl7.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1  tvg-name="MTV on Tour!" tvg-id="65a6509e0c7ff50008ca34ab" tvg-logo="https://images.pluto.tv/channels/65a6509e0c7ff50008ca34ab/colorLogoPNG.png" tvg-chno="751" group-title="PlutoTV - Canada",MTV on Tour!
 https://jmp2.uk/plu-65a6509e0c7ff50008ca34ab.m3u8
 
-#EXTINF:-1  tvg-name="MTV Pluto TV" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" tvg-chno="2140" group-title="PlutoTV - United Kingdom",MTV Pluto TV
+#EXTINF:-1  tvg-name="MTV on Tour!" tvg-id="67b4a4e41a5ca7608025da79" tvg-logo="https://images.pluto.tv/channels/67b4a4e41a5ca7608025da79/colorLogoPNG.png" tvg-chno="1508" group-title="PlutoTV - Mexico",MTV on Tour!
+https://jmp2.uk/plu-67b4a4e41a5ca7608025da79.m3u8
+
+#EXTINF:-1  tvg-name="MTV Pluto TV" tvg-id="5fab088b3279760007d4e4fd" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" tvg-chno="385" group-title="PlutoTV - Mexico",MTV Pluto TV
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+#EXTINF:-1  tvg-name="MTV Pluto TV" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" tvg-chno="2140" group-title="PlutoTV - United States",MTV Pluto TV
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 
-#EXTINF:-1  tvg-name="MTV Pluto TV" tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20241112T000701SQUARE.png" tvg-chno="1930" group-title="PlutoTV - United States",MTV Pluto TV
+#EXTINF:-1  tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20241112T000701SQUARE.png" tvg-chno="1930" group-title="SamsungTVPlus - USA",MTV Pluto TV (USA)
 https://jmp2.uk/stvp-USBA3000093U
 
 #EXTINF:-1  tvg-name="MTV Reality" tvg-id="64f89fcfd661bb00081ba45c" tvg-logo="https://images.pluto.tv/channels/64f89fcfd661bb00081ba45c/colorLogoPNG-1734529996071.png" tvg-chno="450" group-title="PlutoTV - Canada",MTV Reality
 https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 
+#EXTINF:-1  tvg-name="MTV Reality" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-chno="387" group-title="PlutoTV - Mexico",MTV Reality
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+
+#EXTINF:-1  tvg-name="MTV Reality" tvg-id="625eb3e245f5bc0007810046" tvg-logo="https://images.pluto.tv/channels/625eb3e245f5bc0007810046/colorLogoPNG.png" tvg-chno="604" group-title="PlutoTV - United Kingdom",MTV Reality
+https://jmp2.uk/plu-625eb3e245f5bc0007810046.m3u8
+
+#EXTINF:-1  tvg-name="MTV Ridiculousness" tvg-id="5e98a911c881310007d7aae2" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" tvg-chno="393" group-title="PlutoTV - Mexico",MTV Ridiculousness
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+
 #EXTINF:-1  tvg-name="MTV Rocks" tvg-id="66bb895acd0d31000871e31c" tvg-logo="https://images.pluto.tv/channels/66bb895acd0d31000871e31c/colorLogoPNG.png" tvg-chno="757" group-title="PlutoTV - Canada",MTV Rocks
 https://jmp2.uk/plu-66bb895acd0d31000871e31c.m3u8
 
-#EXTINF:-1  tvg-name="MTV SD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV SD
-https://e3.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=8N9yxqNiZGGbWOdnWR-ZuA&expires=1760304825&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
+#EXTINF:-1  tvg-name="MTV Rocks" tvg-id="66a01b52a4ee27000808ea36" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" tvg-chno="1504" group-title="PlutoTV - Mexico",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
-#EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="PlutoTV - United Kingdom",MTV Spankin' New
+#EXTINF:-1  tvg-name="MTV Rocks" tvg-id="624303598e45140007d765c1" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" tvg-chno="905" group-title="PlutoTV - United Kingdom",MTV Rocks
+https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
+
+#EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="PlutoTV - United States",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+
+#EXTINF:-1  tvg-name="MTV Teen Mom" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" tvg-chno="395" group-title="PlutoTV - Mexico",MTV Teen Mom
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 
 #EXTINF:-1  tvg-id="MTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mtv-uk.png?raw=true" group-title="DaddyLive UK",MTV UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium367%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -356,28 +443,16 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1  tvg-name="MTV2" tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="MoveOnJoy" radio="false",MTV2
 https://fl7.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1  tvg-name="mtvU" tvg-id="mtv-U.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="MoveOnJoy" radio="false",MTVU
-https://fl7.moveonjoy.com/MTV_U/index.m3u8
-
-#EXTINF:-1  tvg-name="Music Legends" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="PlexTV - Australia",Music Legends
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8
-
-#EXTINF:-1  tvg-name="Music Legends" tvg-id="647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="PlexTV - Canada",Music Legends
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615.m3u8
+#EXTINF:-1  tvg-name="MTV: Best of" tvg-id="65a6939b4a10d800085cee92" tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png" tvg-chno="904" group-title="PlutoTV - United Kingdom",MTV: Best of
+https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
 
 #EXTINF:-1  tvg-name="Music Legends" tvg-id="608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="PlexTV - Mexico",Music Legends
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
 
-#EXTINF:-1  tvg-name="Music Legends" tvg-id="643054b1fc3be59477853717-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="PlexTV - Spain",Music Legends
-https://jmp2.uk/plex-643054b1fc3be59477853717-6196c8c01d310bf925e02615.m3u8
-
-#EXTINF:-1  tvg-name="NEW K-POP" tvg-id="647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="PlexTV - Canada",NEW K-POP
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d.m3u8
-
 #EXTINF:-1  tvg-name="NEW K-POP" tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="PlexTV - United States",NEW K-POP
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d.m3u8
 
-#EXTINF:-1  tvg-name="NEW KPOP" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20250325T020236SQUARE.png" tvg-chno="4451" group-title="PlutoTV - United States",NEW KPOP
+#EXTINF:-1  tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20250325T020236SQUARE.png" tvg-chno="4451" group-title="SamsungTVPlus - USA",NEW KPOP (USA)
 https://jmp2.uk/stvp-USAJ3000013FJ
 
 #EXTINF:-1  tvg-id="Nick.Music.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="DaddyLive USA",NICK Music
@@ -389,6 +464,9 @@ https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" tvg-id="NowRock.uk" group-title="UK",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1  tvg-name="Now Rock" tvg-id="6568a78d635c3c0008765f41" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG.png" tvg-chno="910" group-title="PlutoTV - United Kingdom",Now Rock
+https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
+
 #EXTINF:-1  tvg-name="NYC House Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.nychouseradio.com/wp-content/uploads/LOGO-BLACK-CIRCLE.jpg" group-title="DrewFX - House" radio="true",NYC House Radio
 http://www.ophanim.net:8400/;
 
@@ -398,14 +476,8 @@ http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" group-title="Hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
-#EXTINF:-1  tvg-name="Pelis y Popcorn" tvg-id="60fb2f47c133270007327375" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" tvg-chno="4120" group-title="PlutoTV - United Kingdom",Pelis y Popcorn
-https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
-
-#EXTINF:-1  tvg-name="Pop Adult" tvg-id="5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="PlexTV - Australia",Pop Adult
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8
-
-#EXTINF:-1  tvg-name="Pop Adult" tvg-id="647f8d22a2fc3fadb4721685-62ee7992271f393d2d9f709c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="PlexTV - Canada",Pop Adult
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee7992271f393d2d9f709c.m3u8
+#EXTINF:-1  tvg-name="POP" tvg-id="664c94e80120f40008b860f0" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" tvg-chno="892" group-title="PlutoTV - United Kingdom",POP
+https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
 
 #EXTINF:-1  tvg-name="Pop Adult" tvg-id="608049aefa2b8ae93c2c3a63-62ee7992271f393d2d9f709c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="PlexTV - Mexico",Pop Adult
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ee7992271f393d2d9f709c.m3u8
@@ -416,14 +488,11 @@ https://fl7.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1  tvg-id="POP.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="DaddyLive USA",POP TV USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium653%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
+#EXTINF:-1  tvg-name="POP UP" tvg-id="664c953db18d700008fcc158" tvg-logo="https://images.pluto.tv/channels/664c953db18d700008fcc158/colorLogoPNG.png" tvg-chno="893" group-title="PlutoTV - United Kingdom",POP UP
+https://jmp2.uk/plu-664c953db18d700008fcc158.m3u8
+
 #EXTINF:-1  tvg-id="GBAJ400045P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400045P5_20250107T025757SQUARE.png" tvg-chno="4880" group-title="SamsungTVPlus - UK",Popflix (UK)
 https://jmp2.uk/stvp-GBAJ400045P5
-
-#EXTINF:-1  tvg-name="Popular Science" tvg-id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="PlexTV - Australia",Popular Science
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8
-
-#EXTINF:-1  tvg-name="Popular Science" tvg-id="647f8d22a2fc3fadb4721685-656fb850cb7e8e6a9bc3f36e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="PlexTV - Canada",Popular Science
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-656fb850cb7e8e6a9bc3f36e.m3u8
 
 #EXTINF:-1  tvg-name="Popular Science" tvg-id="608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="PlexTV - Mexico",Popular Science
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8
@@ -509,20 +578,20 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" group-title="Czech Republic",Retro Music Television Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
+#EXTINF:-1  tvg-name="Rock Channel" tvg-id="64a28c62d609b60008ca4933" tvg-logo="https://images.pluto.tv/channels/64a28c62d609b60008ca4933/colorLogoPNG_1758270375136.png" tvg-chno="700" group-title="PlutoTV - Canada",Rock Channel
+https://jmp2.uk/plu-64a28c62d609b60008ca4933.m3u8
+
 #EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-id="RockTV.mk" group-title="North Macedonia",Rock TV
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1  tvg-name="Smooth Jazz" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.smoothjazz.com/sites/default/files/station-logos/smooth-jazz-live-365_0.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz
 https://stream.revma.ihrhls.com/zc4242/hls.m3u8
 
-#EXTINF:-1  tvg-name="Smooth Jazz" tvg-id="5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="PlexTV - Australia",Smooth Jazz
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee784852f7d73061eec493.m3u8
-
-#EXTINF:-1  tvg-name="Smooth Jazz" tvg-id="647f8d22a2fc3fadb4721685-62ee784852f7d73061eec493" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="PlexTV - Canada",Smooth Jazz
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee784852f7d73061eec493.m3u8
-
 #EXTINF:-1  tvg-name="Smooth Jazz" tvg-id="608049aefa2b8ae93c2c3a63-62ee784852f7d73061eec493" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png" group-title="PlexTV - Mexico",Smooth Jazz
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ee784852f7d73061eec493.m3u8
+
+#EXTINF:-1  tvg-name="Smooth Jazz 88.9" tvg-id="Radio.105.Dummy.us" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KJLU.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz 88.9
+https://ice8.securenetsystems.net/KJLU
 
 #EXTINF:-1  tvg-name="Smooth Jazz Box" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-radiotime-logos.tunein.com/s206902g.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz Box
 https://streamingv2.shoutcast.com/SmoothJazzBox
@@ -539,71 +608,59 @@ http://server.webnetradio.net:5366/;
 #EXTINF:-1  tvg-name="Smooth Jazz Network" tvg-id="Radio.105.Dummy.us" tvg-logo="https://static.wixstatic.com/media/6c0566_901c482990f74f9aa9695c3295ac1cef~mv2.png/v1/crop/x_0,y_1060,w_5001,h_2827/fill/w_368,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Smooth%20Jazz_Light%20Blue_Registered-01.png" group-title="DrewFX - Jazz" radio="true",Smooth Jazz Network
 https://stream.revma.ihrhls.com/zc8170/hls.m3u8
 
-#EXTINF:-1  tvg-name="Stingray Classic Rock" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" tvg-chno="4476" group-title="PlutoTV - United States",Stingray Classic Rock
-https://jmp2.uk/stvp-USBD35000180U
-
 #EXTINF:-1  tvg-id="CABD1200036YT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200036YT_20250805T010219SQUARE.png" tvg-chno="4476" group-title="SamsungTVPlus - CA",Stingray Classic Rock (CA)
 https://jmp2.uk/stvp-CABD1200036YT
 
-#EXTINF:-1  tvg-name="Stingray DJAZZ" tvg-id="5e20b730f2f8d5003d739db7-62fc0150c67d52bddf74cc89" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png" group-title="PlexTV - Australia",Stingray DJAZZ
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62fc0150c67d52bddf74cc89.m3u8
-
-#EXTINF:-1  tvg-name="Stingray DJAZZ" tvg-id="647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png" group-title="PlexTV - Canada",Stingray DJAZZ
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89.m3u8
-
-#EXTINF:-1  tvg-name="Stingray DJAZZ" tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" tvg-chno="4456" group-title="PlutoTV - United States",Stingray DJAZZ
-https://jmp2.uk/stvp-USBD3500025GS
+#EXTINF:-1  tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" tvg-chno="4476" group-title="SamsungTVPlus - USA",Stingray Classic Rock (USA)
+https://jmp2.uk/stvp-USBD35000180U
 
 #EXTINF:-1  tvg-id="CA400002ZK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400002ZK_20250805T010227SQUARE.png" tvg-chno="4456" group-title="SamsungTVPlus - CA",Stingray DJAZZ (CA)
 https://jmp2.uk/stvp-CA400002ZK
 
-#EXTINF:-1  tvg-name="Stingray Euro Hits" tvg-id="US4700002UF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700002UF_20250630T232504SQUARE.png" tvg-chno="4468" group-title="PlutoTV - United States",Stingray Euro Hits
-https://jmp2.uk/stvp-US4700002UF
+#EXTINF:-1  tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" tvg-chno="4456" group-title="SamsungTVPlus - USA",Stingray DJAZZ (USA)
+https://jmp2.uk/stvp-USBD3500025GS
 
 #EXTINF:-1  tvg-id="CA4700001Z6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700001Z6_20250805T010230SQUARE.png" tvg-chno="4468" group-title="SamsungTVPlus - CA",Stingray Euro Hits (CA)
 https://jmp2.uk/stvp-CA4700001Z6
 
+#EXTINF:-1  tvg-id="US4700002UF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700002UF_20250630T232504SQUARE.png" tvg-chno="4468" group-title="SamsungTVPlus - USA",Stingray Euro Hits (USA)
+https://jmp2.uk/stvp-US4700002UF
+
 #EXTINF:-1  tvg-id="CA290001647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA290001647_20250812T003331SQUARE.png" tvg-chno="4498" group-title="SamsungTVPlus - CA",Stingray Franco Pop (CA)
 https://jmp2.uk/stvp-CA290001647
-
-#EXTINF:-1  tvg-name="Stingray Greatest Hits" tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/36481bd7-24cb-4058-826e-371026f353c2/Greatest_WHT_TXT.png" group-title="PlexTV - Australia",Stingray Greatest Hits
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8
-
-#EXTINF:-1  tvg-name="Stingray Greatest Hits" tvg-id="647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/36481bd7-24cb-4058-826e-371026f353c2/Greatest_WHT_TXT.png" group-title="PlexTV - Canada",Stingray Greatest Hits
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325.m3u8
 
 #EXTINF:-1  tvg-name="Stingray Greatest Hits" tvg-id="608049aefa2b8ae93c2c3a63-61aa97d4113e1e5137fd5325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/36481bd7-24cb-4058-826e-371026f353c2/Greatest_WHT_TXT.png" group-title="PlexTV - Mexico",Stingray Greatest Hits
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61aa97d4113e1e5137fd5325.m3u8
 
-#EXTINF:-1  tvg-name="Stingray Greatest Hits" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20250630T232436SQUARE.png" tvg-chno="4482" group-title="PlutoTV - United States",Stingray Greatest Hits
-https://jmp2.uk/stvp-USBD3500022DN
-
 #EXTINF:-1  tvg-id="CABD1200037BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200037BS_20250812T003337SQUARE.png" tvg-chno="4482" group-title="SamsungTVPlus - CA",Stingray Greatest Hits (CA)
 https://jmp2.uk/stvp-CABD1200037BS
 
-#EXTINF:-1  tvg-name="Stingray Smooth Jazz" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20250630T232447SQUARE.png" tvg-chno="4475" group-title="PlutoTV - United States",Stingray Smooth Jazz
-https://jmp2.uk/stvp-USBD35000128A
+#EXTINF:-1  tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20250630T232436SQUARE.png" tvg-chno="4482" group-title="SamsungTVPlus - USA",Stingray Greatest Hits (USA)
+https://jmp2.uk/stvp-USBD3500022DN
 
 #EXTINF:-1  tvg-id="CABD1200031NL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200031NL_20250630T232949SQUARE.png" tvg-chno="4475" group-title="SamsungTVPlus - CA",Stingray Smooth Jazz (CA)
 https://jmp2.uk/stvp-CABD1200031NL
 
-#EXTINF:-1  tvg-name="Stingray Soft Hits" tvg-id="US4700007GV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700007GV_20250630T232508SQUARE.png" tvg-chno="4472" group-title="PlutoTV - United States",Stingray Soft Hits
-https://jmp2.uk/stvp-US4700007GV
+#EXTINF:-1  tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20250630T232447SQUARE.png" tvg-chno="4475" group-title="SamsungTVPlus - USA",Stingray Smooth Jazz (USA)
+https://jmp2.uk/stvp-USBD35000128A
 
 #EXTINF:-1  tvg-id="CA4700006LN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700006LN_20250630T232952SQUARE.png" tvg-chno="4472" group-title="SamsungTVPlus - CA",Stingray Soft Hits (CA)
 https://jmp2.uk/stvp-CA4700006LN
 
-#EXTINF:-1  tvg-name="Stingray Today's K-Pop" tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20250630T232451SQUARE.png" tvg-chno="4454" group-title="PlutoTV - United States",Stingray Today's K-Pop
-https://jmp2.uk/stvp-USBD3500016NH
+#EXTINF:-1  tvg-id="US4700007GV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700007GV_20250630T232508SQUARE.png" tvg-chno="4472" group-title="SamsungTVPlus - USA",Stingray Soft Hits (USA)
+https://jmp2.uk/stvp-US4700007GV
 
 #EXTINF:-1  tvg-id="CABD1200034DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200034DU_20250805T010240SQUARE.png" tvg-chno="4454" group-title="SamsungTVPlus - CA",Stingray Today's K-Pop (CA)
 https://jmp2.uk/stvp-CABD1200034DU
 
-#EXTINF:-1  tvg-name="Stingray Today's Latin Pop" tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20250630T232530SQUARE.png" tvg-chno="4464" group-title="PlutoTV - United States",Stingray Today's Latin Pop
-https://jmp2.uk/stvp-USBD3500009Y3
+#EXTINF:-1  tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20250630T232451SQUARE.png" tvg-chno="4454" group-title="SamsungTVPlus - USA",Stingray Today's K-Pop (USA)
+https://jmp2.uk/stvp-USBD3500016NH
 
 #EXTINF:-1  tvg-id="CABD1200027JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200027JL_20250805T010243SQUARE.png" tvg-chno="4464" group-title="SamsungTVPlus - CA",Stingray Today's Latin Pop (CA)
 https://jmp2.uk/stvp-CABD1200027JL
+
+#EXTINF:-1  tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20250630T232530SQUARE.png" tvg-chno="4464" group-title="SamsungTVPlus - USA",Stingray Today's Latin Pop (USA)
+https://jmp2.uk/stvp-USBD3500009Y3
 
 #EXTINF:-1 tvg-name="Sundom TV Ⓨ" tvg-logo="https://i.imgur.com/WgwR7nJ.png" tvg-id="SundomTV.fi" group-title="Finland",Sundom TV Ⓨ
 https://www.youtube.com/@SundomTV/live
@@ -630,13 +687,22 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 https://www.twitch.tv/teleradiostereo
 
 #EXTINF:-1  tvg-name="The Adventures of Rocky and Bullwinkle and Friends" tvg-id="99951319" tvg-logo="https://image.xumo.com/v1/channels/channel/99951319/168x168.png?type=color_onBlack" group-title="Xumo Streams",The Adventures of Rocky and Bullwinkle and Friends
-https://live-content.xumo.com/4064/content/XM04OXBYEMOGUS/27446791/master.m3u8
+https://live-content.xumo.com/4064/content/XM0U7TNOPRW0ZJ/26533398/master.m3u8
+
+#EXTINF:-1  tvg-name="TikTok Radio" tvg-id="8e04e4c0e2cd5fe49b087a6ce5fd0d91" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e04e4c0e2cd5fe49b087a6ce5fd0d91/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1719497617582_11110_SM_TikTokRadio_Logo_260x147_V02.png" tvg-chno="1120" group-title="RokuTV",TikTok Radio
+https://aka-live491.delivery.roku.com/466146ab-c01d-4959-82dd-7978f7ceada7/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1  tvg-name="TikTok Radio en Español" tvg-id="63dac1b78795f300086d5ca6" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" tvg-chno="1515" group-title="PlutoTV - Mexico",TikTok Radio en Español
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 
 #EXTINF:-1  tvg-id="GBBD3200003T6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" tvg-chno="4771" group-title="SamsungTVPlus - UK",Tiny POP (UK)
 https://jmp2.uk/stvp-GBBD3200003T6
 
-#EXTINF:-1  tvg-name="Today's K-Pop" tvg-id="5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png" group-title="PlexTV - Australia",Today's K-Pop
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8
+#EXTINF:-1  tvg-name="Today's K-Pop" tvg-id="647f8d22a2fc3fadb4721685-62ee6eae271f393d2d9f7096" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png" group-title="PlexTV - Canada",Today's K-Pop
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee6eae271f393d2d9f7096.m3u8
+
+#EXTINF:-1  tvg-name="Today's K-Pop" tvg-id="608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png" group-title="PlexTV - Mexico",Today's K-Pop
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096.m3u8
 
 #EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="Italy",TRL Tele Radio Leo
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
@@ -644,101 +710,116 @@ https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="Italy",Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8
 
-#EXTINF:-1  tvg-name="Vevo '70s" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" tvg-chno="4640" group-title="PlutoTV - United Kingdom",Vevo '70s
+#EXTINF:-1  tvg-name="Vevo '70s" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" tvg-chno="4640" group-title="PlutoTV - United States",Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 
-#EXTINF:-1  tvg-name="Vevo '70s" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20250602T231526SQUARE.png" tvg-chno="4388" group-title="PlutoTV - United States",Vevo '70s
-https://jmp2.uk/stvp-USBD300011KQ
+#EXTINF:-1  tvg-name="Vevo '70s" tvg-id="e5dcad2b1c055d4d86a9f7bba9438da7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e5dcad2b1c055d4d86a9f7bba9438da7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112924287_Info_HUD_Logo_260X147_center_%252818%2529.png" tvg-chno="1180" group-title="RokuTV",Vevo '70s
+https://aka-live491.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1  tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" tvg-chno="4684" group-title="SamsungTVPlus - UK",Vevo '70s & '80s (UK)
 https://jmp2.uk/stvp-GBBD1900009UD
 
-#EXTINF:-1  tvg-name="Vevo '80s" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" tvg-chno="4650" group-title="PlutoTV - United Kingdom",Vevo '80s
+#EXTINF:-1  tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20250602T231526SQUARE.png" tvg-chno="4388" group-title="SamsungTVPlus - USA",Vevo '70s (USA)
+https://jmp2.uk/stvp-USBD300011KQ
+
+#EXTINF:-1  tvg-name="Vevo '80s" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" tvg-chno="4650" group-title="PlutoTV - United States",Vevo '80s
 https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
 
-#EXTINF:-1  tvg-name="Vevo '80s" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20241112T001815SQUARE.png" tvg-chno="4391" group-title="PlutoTV - United States",Vevo '80s
+#EXTINF:-1  tvg-name="Vevo '80s" tvg-id="fd8d765f98605129914b581147e7e8b2" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fd8d765f98605129914b581147e7e8b2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112947403_Info_HUD_Logo_260X147_center_%252817%2529.png" tvg-chno="1170" group-title="RokuTV",Vevo '80s
+https://aka-live491.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1  tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20241112T001815SQUARE.png" tvg-chno="4391" group-title="SamsungTVPlus - USA",Vevo '80s (USA)
 https://jmp2.uk/stvp-USBD300012YC
 
-#EXTINF:-1  tvg-name="Vevo '90s" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" tvg-chno="4660" group-title="PlutoTV - United Kingdom",Vevo '90s
+#EXTINF:-1  tvg-name="Vevo '90s" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" tvg-chno="4660" group-title="PlutoTV - United States",Vevo '90s
 https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 
-#EXTINF:-1  tvg-name="Vevo '90s" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png" tvg-chno="4394" group-title="PlutoTV - United States",Vevo '90s
+#EXTINF:-1  tvg-name="Vevo '90s" tvg-id="4c0772ef75e1565183843b37e91591f8" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4c0772ef75e1565183843b37e91591f8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113345580_Info_HUD_Logo_260X147_center_%252816%2529.png" tvg-chno="1164" group-title="RokuTV",Vevo '90s
+https://aka-live491.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1  tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png" tvg-chno="4394" group-title="SamsungTVPlus - USA",Vevo '90s (USA)
 https://jmp2.uk/stvp-USBD3000133M
 
-#EXTINF:-1  tvg-name="Vevo 2010s" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" tvg-chno="4400" group-title="PlutoTV - United States",Vevo 2010s
+#EXTINF:-1  tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20241112T001825SQUARE.png" tvg-chno="4400" group-title="SamsungTVPlus - USA",Vevo 2010s (USA)
 https://jmp2.uk/stvp-USBD120002431
 
-#EXTINF:-1  tvg-name="Vevo 2K" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" tvg-chno="4670" group-title="PlutoTV - United Kingdom",Vevo 2K
+#EXTINF:-1  tvg-name="Vevo 2K" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" tvg-chno="4670" group-title="PlutoTV - United States",Vevo 2K
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+
+#EXTINF:-1  tvg-name="Vevo 2K" tvg-id="94759dbd58a65682bcc573932f725f46" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" tvg-chno="1160" group-title="RokuTV",Vevo 2K
+https://aka-live491.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1  tvg-name="Vevo 2K (DrewLive)" tvg-id="USBB4400015F5" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" group-title="DrewLive Music Video Channels" radio="false",Vevo 2K (DrewLive)
 https://jmp2.uk/stvp-USBB4400015F5
 
-#EXTINF:-1  tvg-name="Vevo Country" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" tvg-chno="4700" group-title="PlutoTV - United Kingdom",Vevo Country
+#EXTINF:-1  tvg-name="Vevo Country" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" tvg-chno="4700" group-title="PlutoTV - United States",Vevo Country
 https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
-#EXTINF:-1  tvg-name="Vevo Country" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20250602T231516SQUARE.png" tvg-chno="4415" group-title="PlutoTV - United States",Vevo Country
-https://jmp2.uk/stvp-USBC3600001RQ
+#EXTINF:-1  tvg-name="Vevo Country" tvg-id="1db9c603bb4e5d87b015f9963da1093e" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1db9c603bb4e5d87b015f9963da1093e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113404058_Info_HUD_Logo_260X147_center_%25284%2529.png" tvg-chno="1148" group-title="RokuTV",Vevo Country
+https://aka-live491.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1  tvg-id="CABC52000165E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20250602T231618SQUARE.png" tvg-chno="4415" group-title="SamsungTVPlus - CA",Vevo Country (CA)
 https://jmp2.uk/stvp-CABC52000165E
 
+#EXTINF:-1  tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20250602T231516SQUARE.png" tvg-chno="4415" group-title="SamsungTVPlus - USA",Vevo Country (USA)
+https://jmp2.uk/stvp-USBC3600001RQ
+
 #EXTINF:-1  tvg-name="Vevo Hip Hop & R&B (DrewLive)" tvg-id="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="DrewLive Music Video Channels" radio="false",Vevo Hip Hop & R&B (DrewLive)
 https://jmp2.uk/stvp-GBBD2300001C0
+
+#EXTINF:-1  tvg-name="Vevo Hip-Hop" tvg-id="8dc44c8fdea45f039c68f75bda233850" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8dc44c8fdea45f039c68f75bda233850/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113465461_Info_HUD_Logo_260X147_center_%25283%2529.png" tvg-chno="1136" group-title="RokuTV",Vevo Hip-Hop
+https://aka-live491.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1  tvg-name="Vevo Hip-Hop (DrewLive)" tvg-id="USBC3600002EK" tvg-logo="https://indexedev.com/images/fall-of-vevo.jpg" group-title="DrewLive Music Video Channels" radio="false",Vevo Hip-Hop (DrewLive)
 https://jmp2.uk/stvp-USBC3600002EK
 
-#EXTINF:-1  tvg-name="Vevo Latino" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20250602T231519SQUARE.png" tvg-chno="4406" group-title="PlutoTV - United States",Vevo Latino
+#EXTINF:-1  tvg-name="Vevo Latino" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d5283959d3a59bf87411e7077fd9e58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113444761_Info_HUD_Logo_260X147_center_%252815%2529.png" tvg-chno="1103" group-title="RokuTV",Vevo Latino
+https://aka-live491.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1  tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20250602T231519SQUARE.png" tvg-chno="4406" group-title="SamsungTVPlus - USA",Vevo Latino (USA)
 https://jmp2.uk/stvp-USBC3600015GF
 
-#EXTINF:-1  tvg-name="Vevo Pop" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" tvg-chno="4760" group-title="PlutoTV - United Kingdom",Vevo Pop
+#EXTINF:-1  tvg-name="Vevo Pop" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" tvg-chno="4760" group-title="PlutoTV - United States",Vevo Pop
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 
-#EXTINF:-1  tvg-name="Vevo Pop" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20250812T003533SQUARE.png" tvg-chno="4418" group-title="PlutoTV - United States",Vevo Pop
-https://jmp2.uk/stvp-USBC3600008WY
+#EXTINF:-1  tvg-name="Vevo Pop" tvg-id="e50a8f06d3245c95a4e250dc5c33c2be" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e50a8f06d3245c95a4e250dc5c33c2be/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113520589_Info_HUD_Logo_260X147_center_%252814%2529.png" tvg-chno="1126" group-title="RokuTV",Vevo Pop
+https://aka-live491.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1  tvg-id="CABC52000180Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000180Z_20250812T003350SQUARE.png" tvg-chno="4418" group-title="SamsungTVPlus - CA",Vevo Pop (CA)
 https://jmp2.uk/stvp-CABC52000180Z
 
-#EXTINF:-1  tvg-name="Vevo R&B" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20250602T231523SQUARE.png" tvg-chno="4412" group-title="PlutoTV - United States",Vevo R&B
-https://jmp2.uk/stvp-USBC3900009K5
+#EXTINF:-1  tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20250812T003533SQUARE.png" tvg-chno="4418" group-title="SamsungTVPlus - USA",Vevo Pop (USA)
+https://jmp2.uk/stvp-USBC3600008WY
+
+#EXTINF:-1  tvg-name="Vevo R&B" tvg-id="6be3083b8ec2508495684e5087f8f86a" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6be3083b8ec2508495684e5087f8f86a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113546717_Info_HUD_Logo_260X147_center_%252813%2529.png" tvg-chno="1134" group-title="RokuTV",Vevo R&B
+https://aka-live491.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1  tvg-name="Vevo R&B (DrewLive) " tvg-id="USBC3900009K5" tvg-logo="https://i.ytimg.com/vi/kyxKSEOg2iQ/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCC8xrWK4rOzFX2ZcgCgVBfaV4Msw" group-title="DrewLive Music Video Channels" radio="false",Vevo R&B (DrewLive)
 https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 
-#EXTINF:-1  tvg-name="Vevo Regional Mexicano" tvg-id="64dab5fe35425100080e2991" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" tvg-chno="4580" group-title="PlutoTV - United Kingdom",Vevo Regional Mexicano
+#EXTINF:-1  tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20250602T231523SQUARE.png" tvg-chno="4412" group-title="SamsungTVPlus - USA",Vevo R&B (USA)
+https://jmp2.uk/stvp-USBC3900009K5
+
+#EXTINF:-1  tvg-name="Vevo Reggaeton & Trap" tvg-id="60db737695c95b599dad50d2c5595fe3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png" tvg-chno="1101" group-title="RokuTV",Vevo Reggaeton & Trap
+https://aka-live491.delivery.roku.com/3facddc6-460f-4902-861c-0949fca8e3b6/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1  tvg-name="Vevo Regional Mexicano" tvg-id="64dab5fe35425100080e2991" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" tvg-chno="4580" group-title="PlutoTV - United States",Vevo Regional Mexicano
 https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
 
 #EXTINF:-1  tvg-name="Vevo Rock" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png" group-title="DrewLive Music Video Channels" radio="false",Vevo Rock (DrewLive)
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
-#EXTINF:-1  tvg-name="Vevo Rock" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" tvg-chno="4403" group-title="PlutoTV - United States",Vevo Rock
+#EXTINF:-1  tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" tvg-chno="4403" group-title="SamsungTVPlus - USA",Vevo Rock (USA)
 https://jmp2.uk/stvp-USBD3000145P
 
 #EXTINF:-1  tvg-name="Vevo True School Hip-Hop (DrewLive)" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="DrewLive Music Video Channels" radio="false",Vevo True School Hip-Hop (DrewLive)
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
-#EXTINF:-1  tvg-name="Vevo Ãconos Latinos" tvg-id="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" tvg-chno="4590" group-title="PlutoTV - United Kingdom",Vevo Ãconos Latinos
-https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
-
 #EXTINF:-1  tvg-name="VH1" tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",VH1
 https://fl7.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1  tvg-name="VH1 Eastern Feed HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed HD
-https://tvpass.org/live/VH1East/hd
-
-#EXTINF:-1  tvg-name="VH1 Eastern Feed SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed SD
-https://tvpass.org/live/VH1East/sd
-
-#EXTINF:-1  tvg-name="VH1 HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 HD
-https://e3.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=gLa_Mm0qH5q7LkSH3jDciA&expires=1760305571&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
-
-#EXTINF:-1  tvg-name="VH1 Queens of Reality" tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-chno="1675" group-title="PlutoTV - United Kingdom",VH1 Queens of Reality
+#EXTINF:-1  tvg-name="VH1 Queens of Reality" tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-chno="1675" group-title="PlutoTV - United States",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
-
-#EXTINF:-1  tvg-name="VH1 SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 SD
-https://e1.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=iHjPiomiDDpBPPTP65lDlQ&expires=1760305562&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
 
 #EXTINF:-1  tvg-id="VH1.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH1.png" group-title="DaddyLive USA",VH1 USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium344%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -746,14 +827,11 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" group-title="Italy",Virgin Radio TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
-#EXTINF:-1  tvg-name="XITE Christian Hits" tvg-id="US46000072L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20250204T014323SQUARE.png" tvg-chno="4335" group-title="PlutoTV - United States",XITE Christian Hits
-https://jmp2.uk/stvp-US46000072L
-
 #EXTINF:-1  tvg-id="CA460001636" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA460001636_20250729T185451SQUARE.png" tvg-chno="4335" group-title="SamsungTVPlus - CA",XITE Christian Hits (CA)
 https://jmp2.uk/stvp-CA460001636
 
-#EXTINF:-1  tvg-name="XITE Hits" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" tvg-chno="4316" group-title="PlutoTV - United States",XITE Hits
-https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1  tvg-id="US46000072L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20250204T014323SQUARE.png" tvg-chno="4335" group-title="SamsungTVPlus - USA",XITE Christian Hits (USA)
+https://jmp2.uk/stvp-US46000072L
 
 #EXTINF:-1  tvg-name="XITE Hits (DrewLive)" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20250812T003400SQUARE.png" group-title="DrewLive Music Video Channels" radio="false",XITE Hits (DrewLive)
 https://jmp2.uk/stvp-CABD1200038NZ
@@ -761,14 +839,17 @@ https://jmp2.uk/stvp-CABD1200038NZ
 #EXTINF:-1  tvg-id="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20250107T025842SQUARE.png" tvg-chno="4704" group-title="SamsungTVPlus - UK",XITE Hits (UK)
 https://jmp2.uk/stvp-GBBB3800005QO
 
-#EXTINF:-1  tvg-name="XITE Rock x Metal" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" tvg-chno="4353" group-title="PlutoTV - United States",XITE Rock x Metal
-https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1  tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" tvg-chno="4316" group-title="SamsungTVPlus - USA",XITE Hits (USA)
+https://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:-1  tvg-id="CABB26000054K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000054K_20250729T184940SQUARE.png" tvg-chno="4353" group-title="SamsungTVPlus - CA",XITE Rock x Metal (CA)
 https://jmp2.uk/stvp-CABB26000054K
 
 #EXTINF:-1  tvg-name="XITE Rock x Metal (DrewLive)" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="DrewLive Music Video Channels" radio="false",XITE Rock x Metal (DrewLive)
 https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+
+#EXTINF:-1  tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" tvg-chno="4353" group-title="SamsungTVPlus - USA",XITE Rock x Metal (USA)
+https://jmp2.uk/stvp-USBB2300004KV
 
 #EXTINF:-1  tvg-name="Yo! MTV (DrewLive) " tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="DrewLive Music Video Channels" radio="false",Yo! MTV (DrewLive)
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8

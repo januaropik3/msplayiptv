@@ -1,69 +1,90 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-10-12 17:31:33 UTC
-# Total Channels: 56
+# Generated: 2025-10-13 17:34:40 UTC
+# Total Channels: 60
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== ENTERTAINMENT (56 channels) ======
+# ====== ENTERTAINMENT (60 channels) ======
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1517-LG-Logo-PNG-100x100_v1.png" group-title="LGTV AU",207 Autentic Travel
+#EXTINF:-1 tvg-logo="https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250404/channel_600x200_5f000154-f736-40ba-9ac6-7e33b9b95538.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1302 INFAST
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Japan",132 Travel On
+https://amg15905-k20-amg15905c3-lg-jp-5402.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgjp/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifa_type=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984007/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1433 The Real Housewives
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984007&ads.xumo_streamId=99984007&ads.channelId=99984007&ads.ad_tag_id=40082&ads.csid=lgchannels_uk_therealhousewives_ssai&ads.channelName=therealhousewives_uk&ads.xumo_contentName=therealhousewives&ads.xumo_contentId=3913&ads.xumo_providerName=therealhousewives&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=Reality%2520TV&ads.content_language=en&ads.content_rating=bbfc-15&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984009/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1438 Million Dollar Listing
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984009&ads.xumo_streamId=99984009&ads.channelId=99984009&ads.ad_tag_id=40085&ads.csid=lgchannels_uk_milliondollarlisting_ssai&ads.channelName=milliondollarlisting_uk&ads.xumo_contentName=milliondollarlisting&ads.xumo_contentId=3913&ads.xumo_providerName=milliondollarlisting&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=Reality%2520TV&ads.content_language=en&ads.content_rating=bbfc-15&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/fashiontvlogo.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1540 FashionTV
+https://amg01546-fashiontv-amg01546c1-lg-gb-9561.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984001/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1564 Go Wild
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984001&ads.xumo_streamId=99984001&ads.channelId=99984001&ads.ad_tag_id=16821&ads.csid=lgchannels_uk_indigeniusgowild_ssai&ads.channelName=indigeniusgowild_uk&ads.xumo_contentName=indigeniusgowild&ads.xumo_contentId=1103&ads.xumo_providerName=indigeniusgowild&ads.xumo_providerId=1103&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=bbfc-12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1517/lg/980216/LG-Logo-PNG-100x100_v2.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Australia",207 Autentic Travel
 https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticTravel/playlist.m3u8
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/Logo-INFAST.png" group-title="LGTV AU",221 InFast-Lifestyle HD
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/Logo-INFAST.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Australia",221 InFast-Lifestyle HD
 https://amg00861-terncloud-amg00861c8-lg-au-3101.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-infastlifestylehd-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/infast_logo.png" group-title="LGTV New Zealand",221 Infast-Lifestyle-HD
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/infast_logo.png" tvg-id="24.7.Dummy.us" group-title="LGTV - New Zealand",221 Infast-Lifestyle-HD
 https://amg00861-terncloud-amg00861c8-lg-nz-6844.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-infastlifestylehd-lgnz/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Get_TV/gettv_logo_800x200.png" group-title="LGTV USA",224 Get TV
-https://amg00374-gsn-amg00374c6-lg-us-5121.playouts.now.amagi.tv/playlist/amg00374-gameshownetworkfast-gettvmp-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Australia",251 TravelON
+https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png" group-title="LGTV AU",251 TravelON
-https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
-
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/475-LG-Logo-PNG-100x100_v3.png" group-title="LGTV USA",290 All Reality We TV
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/475/lg/bf914e/LG-Logo-PNG-100x100_v1.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",290 All Reality We TV
 https://b89ebaae7c9f4b9483553dbffd14c631.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG_AllReality/playlist.m3u8
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992135/600x200.png?type=white_cropped" group-title="LGTV Canada",449 Stingray Naturescape
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992259/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",376 Buen Viaje
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992259&ads.xumo_streamId=99992259&ads.channelId=99992259&ads.csid=lgchannels_mx_indigeniusbonviajespanish_ssai&ads.channelName=indigeniusbonviajespanish_mx&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_contentId=2459&ads.xumo_providerName=IndigeniusBonViajeSpanish&ads.xumo_providerId=2459&ads.content_category=IAB20&ads.content_genre=Travel%20%26%20Lifestyle&ads.content_language=es&ads.content_rating=tv-pg&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/fashiontvlogo.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",378 FashionTV
+https://amg01546-fashiontv-amg01546c1-lg-mx-9560.playouts.now.amagi.tv/playlist/amg01546-fashiontv-fashiontv-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992152/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",386 Naturaleza
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992152&ads.xumo_streamId=99992152&ads.channelId=99992152&ads.csid=lgchannels_mx_indigeniusnaturalezaspanish_ssai&ads.channelName=indigeniusnaturalezaspanish_mx&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_contentId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_providerId=2161&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992408/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",387 Stingray Naturescape
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992408&ads.xumo_streamId=99992408&ads.channelId=99992408&ads.ad_tag_id=15726&ads.csid=lgchannels_mx_stingraynaturescapelatam_ssai&ads.channelName=stingraynaturescape_mx&ads.xumo_contentName=StingrayNaturescapeLATAM&ads.xumo_contentId=3880&ads.xumo_providerName=StingrayNaturescapeLATAM&ads.xumo_providerId=3880&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992135/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",449 Stingray Naturescape
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992135&ads.csid=lgchannels_ca_stingraynaturescapeca_ssai&ads.ad_tag_id=9333&ads.xumo_contentName=StingrayNaturescapeCA&ads.xumo_contentId=3835&ads.content_language=en&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992137/600x200.png?type=white_cropped" group-title="LGTV Canada",450 NatureVision
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992137/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",450 NatureVision
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992137&ads.csid=lgchannels_us_naturevisiontv_ssai&ads.ad_tag_id=9320&ads.xumo_contentName=NatureVisionCA&ads.xumo_contentId=3840&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade-travel/Logo_TravelLogo_569x200px.png" group-title="LGTV USA",714 Tastemade Travel
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade-travel/Logo_TravelLogo_569x200px.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",714 Tastemade Travel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d21daa8enjs33a.cloudfront.net/Images/S3/Gotraveler_800x200.png" group-title="LGTV USA",715 GoTraveler
-https://amg09501-questar-amg09501c1-lg-us-2418.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:-1 tvg-logo="https://d21daa8enjs33a.cloudfront.net/Images/S3/Gotraveler_800x200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",715 GoTraveler
+https://amg09501-questar-amg09501c1-lg-us-2418.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992068/600x200.png?type=white_cropped" group-title="LGTV USA",755 Stingray Naturescape
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992068&ads.csid=lgchannels_br_stingraynaturescapelatam_ssai&ads.ad_tag_id=15726&ads.xumo_contentName=StingrayAmbiance&ads.xumo_contentId=188&ads.content_language=en&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992068/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",755 Stingray Naturescape
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992068&ads.xumo_streamId=99992068&ads.channelId=99992068&ads.ad_tag_id=9333&ads.csid=lgchannels_us_stingrayambiance_ssai&ads.channelName=stingraynaturescape_us&ads.xumo_contentName=StingrayAmbiance&ads.xumo_contentId=188&ads.xumo_providerName=StingrayAmbiance&ads.xumo_providerId=188&ads.content_category=IAB1-2&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992106/600x200.png?type=white_cropped" group-title="LGTV USA",756 NatureVision
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992106&ads.csid=lgchannels_ca_naturevisionca_ssai&ads.ad_tag_id=9320&ads.xumo_contentName=NatureVisionTV&ads.xumo_contentId=133&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992106/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",756 NatureVision
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992106&ads.xumo_streamId=99992106&ads.channelId=99992106&ads.ad_tag_id=9320&ads.csid=lgchannels_us_naturevision_ssai&ads.channelName=naturevision_us&ads.xumo_contentName=NatureVisionTV&ads.xumo_contentId=133&ads.xumo_providerName=NatureVisionTV&ads.xumo_providerId=133&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1  tvg-name="All Reality We TV" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png" group-title="PlexTV - United States",All Reality We TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec.m3u8
 
-#EXTINF:-1  tvg-name="All Reality WE tv" tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" tvg-chno="1810" group-title="PlutoTV - United Kingdom",All Reality WE tv
+#EXTINF:-1  tvg-name="All Reality WE tv" tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" tvg-chno="1810" group-title="PlutoTV - United States",All Reality WE tv
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 
-#EXTINF:-1  tvg-name="All Reality We TV" tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20241014T232207SQUARE.png" tvg-chno="1945" group-title="PlutoTV - United States",All Reality We TV
+#EXTINF:-1  tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20241014T232207SQUARE.png" tvg-chno="1945" group-title="SamsungTVPlus - USA",All Reality We TV (USA)
 https://jmp2.uk/stvp-USBD12000061R
 
-#EXTINF:-1  tvg-name="All-Out Reality" tvg-id="USBB4400016F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20250714T223122SQUARE.png" tvg-chno="1904" group-title="PlutoTV - United States",All-Out Reality
+#EXTINF:-1  tvg-id="USBB4400016F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20250714T223122SQUARE.png" tvg-chno="1904" group-title="SamsungTVPlus - USA",All-Out Reality (USA)
 https://jmp2.uk/stvp-USBB4400016F9
 
 #EXTINF:-1  tvg-name="COOKING" tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",COOKING
 https://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-
-#EXTINF:-1  tvg-name="Cooking Channel HD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TheTVApp",Cooking Channel HD
-https://v2.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=1br6ygDpXbyhgW86hnaurg&expires=1760303852&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
-
-#EXTINF:-1  tvg-name="Cooking Channel SD" tvg-id="the-cooking-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="TheTVApp",Cooking Channel SD
-https://v13.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8?token=oGoFC6WWlGNLTQAzEg9GtQ&expires=1760303843&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
 
 #EXTINF:-1  tvg-id="Cooking.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" group-title="DaddyLive USA",Cooking Channel USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium697%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -71,29 +92,17 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 #EXTINF:-1  tvg-id="FashionTV(src01).uk" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4d/Fashion_TV_%282007-.n.v.%29.png/revision/latest?cb=20191014124911" group-title="DaddyLive UK",Fashion TV
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium744%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
+#EXTINF:-1  tvg-name="FashionTV" tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Australia",FashionTV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
+
 #EXTINF:-1  tvg-name="FashionTV" tvg-id="647f8d22a2fc3fadb4721685-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Canada",FashionTV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6490c01f3b3ce9e1aaad95be.m3u8
-
-#EXTINF:-1  tvg-name="FashionTV" tvg-id="6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - France",FashionTV
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be.m3u8
 
 #EXTINF:-1  tvg-name="FashionTV" tvg-id="608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Mexico",FashionTV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be.m3u8
 
-#EXTINF:-1  tvg-name="FashionTV" tvg-id="643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="PlexTV - Spain",FashionTV
-https://jmp2.uk/plex-643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be.m3u8
-
-#EXTINF:-1  tvg-name="Game Show Central" tvg-id="647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/cms/production/690eb5a5-8a79-4f7a-8b6d-7ab2a01dc1d5/game-show-centralRDX.png" group-title="PlexTV - Canada",Game Show Central
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782.m3u8
-
-#EXTINF:-1  tvg-name="Game Show Central" tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/cms/production/690eb5a5-8a79-4f7a-8b6d-7ab2a01dc1d5/game-show-centralRDX.png" group-title="PlexTV - United States",Game Show Central
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782.m3u8
-
-#EXTINF:-1  tvg-name="Game Show Central" tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" tvg-chno="2370" group-title="PlutoTV - United Kingdom",Game Show Central
+#EXTINF:-1  tvg-name="Game Show Central" tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" tvg-chno="2370" group-title="PlutoTV - United States",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
-
-#EXTINF:-1  tvg-name="Game Show Central" tvg-id="USAJ3400012FA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20240924T010837SQUARE.png" tvg-chno="2810" group-title="PlutoTV - United States",Game Show Central
-https://jmp2.uk/stvp-USAJ3400012FA
 
 #EXTINF:-1  tvg-id="673411" tvg-logo="https://canvas-lb.tubitv.com/opts/RKa1amdHUHpnDw==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Game Show Central
 https://live-manifest.production-public.tubi.io/live/37d25c4d-ae6a-4182-a830-12e09479ad85/playlist.m3u8
@@ -101,17 +110,14 @@ https://live-manifest.production-public.tubi.io/live/37d25c4d-ae6a-4182-a830-12e
 #EXTINF:-1  tvg-id="CAAJ2700027GW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700027GW_20250729T184511SQUARE.png" tvg-chno="2810" group-title="SamsungTVPlus - CA",Game Show Central (CA)
 https://jmp2.uk/stvp-CAAJ2700027GW
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/game-show-network-us.png" group-title="AriaPlus - United States",Game Show Network
-https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1  tvg-id="USAJ3400012FA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20240924T010837SQUARE.png" tvg-chno="2810" group-title="SamsungTVPlus - USA",Game Show Central (USA)
+https://jmp2.uk/stvp-USAJ3400012FA
 
 #EXTINF:-1  tvg-id="Game.Show.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="DaddyLive USA",Game Show Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium319%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1  tvg-name="GoTraveler" tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25fe7ecc-9dce-41e3-baea-bb1d5cf49041/GoTraveler_logo_dark_background.png" group-title="PlexTV - United States",GoTraveler
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2.m3u8
-
 #EXTINF:-1  tvg-name="GoTraveler" tvg-id="99991383" tvg-logo="https://image.xumo.com/v1/channels/channel/99991383/168x168.png?type=color_onBlack" group-title="Xumo Streams",GoTraveler
-https://live-content.xumo.com/1101/content/XM0J28VT39OEHJ/25263593/master.m3u8
+https://live-content.xumo.com/1101/content/XM0XAOQVCYIYTL/26783799/master.m3u8
 
 #EXTINF:-1 tvg-name="il61" tvg-logo="https://i.imgur.com/1rUZsBv.png" group-title="Italy",il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
@@ -122,31 +128,40 @@ https://jmp2.uk/stvp-GB400003BM
 #EXTINF:-1  tvg-name="Luna Star Reality Kings" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Luna Star Reality Kings
 https://cdn.baddiehub.com/LunRK.mp4
 
-#EXTINF:-1  tvg-name="PBS Travel" tvg-id="647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6aa815f-b99d-4267-8482-7d16b83a9e78/PBS_Travel_Logo_Stacked_WhiteBlue_-_Danielle_HarrisonRDX.png" group-title="PlexTV - Canada",PBS Travel
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc.m3u8
-
 #EXTINF:-1  tvg-name="PBS Travel" tvg-id="5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6aa815f-b99d-4267-8482-7d16b83a9e78/PBS_Travel_Logo_Stacked_WhiteBlue_-_Danielle_HarrisonRDX.png" group-title="PlexTV - United States",PBS Travel
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-684c201a3496598cf4003fbc.m3u8
-
-#EXTINF:-1  tvg-name="PBS Travel" tvg-id="US1300005MK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300005MK_20250729T010504SQUARE.png" tvg-chno="2126" group-title="PlutoTV - United States",PBS Travel
-https://jmp2.uk/stvp-US1300005MK
 
 #EXTINF:-1  tvg-id="CA13000084U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA13000084U_20250805T010205SQUARE.png" tvg-chno="2126" group-title="SamsungTVPlus - CA",PBS Travel (CA)
 https://jmp2.uk/stvp-CA13000084U
 
-#EXTINF:-1  tvg-name="Pluto TV Game Shows" tvg-id="6036e7c385749f00075dbd3b" tvg-logo="https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png" tvg-chno="2350" group-title="PlutoTV - United Kingdom",Pluto TV Game Shows
+#EXTINF:-1  tvg-id="US1300005MK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300005MK_20250729T010504SQUARE.png" tvg-chno="2126" group-title="SamsungTVPlus - USA",PBS Travel (USA)
+https://jmp2.uk/stvp-US1300005MK
+
+#EXTINF:-1  tvg-name="Pluto TV Classic TV Variety" tvg-id="68d25c623175a2780d051d3a" tvg-logo="https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png" tvg-chno="200" group-title="PlutoTV - Canada",Pluto TV Classic TV Variety
+https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
+
+#EXTINF:-1  tvg-name="Pluto TV Game Shows" tvg-id="6036e7c385749f00075dbd3b" tvg-logo="https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png" tvg-chno="2350" group-title="PlutoTV - United States",Pluto TV Game Shows
 https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
 
-#EXTINF:-1  tvg-name="Pluto TV Reality" tvg-id="67922858b83355184c699699" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" tvg-chno="464" group-title="PlutoTV - Canada",Pluto TV Reality
+#EXTINF:-1  tvg-name="Pluto TV Reality" tvg-id="67922858b83355184c699699" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" tvg-chno="465" group-title="PlutoTV - Canada",Pluto TV Reality
 https://jmp2.uk/plu-67922858b83355184c699699.m3u8
 
-#EXTINF:-1  tvg-name="Pluto TV Reality" tvg-id="5d8bf0b06d2d855ee15115e3" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" tvg-chno="1450" group-title="PlutoTV - United Kingdom",Pluto TV Reality
+#EXTINF:-1  tvg-name="Pluto TV Reality" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" tvg-chno="380" group-title="PlutoTV - Mexico",Pluto TV Reality
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+
+#EXTINF:-1  tvg-name="Pluto TV Reality" tvg-id="5bd8186d53ed2c6334ea0855" tvg-logo="https://images.pluto.tv/channels/5bd8186d53ed2c6334ea0855/colorLogoPNG.png" tvg-chno="600" group-title="PlutoTV - United Kingdom",Pluto TV Reality
+https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
+
+#EXTINF:-1  tvg-name="Pluto TV Reality" tvg-id="5d8bf0b06d2d855ee15115e3" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" tvg-chno="1450" group-title="PlutoTV - United States",Pluto TV Reality
 https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
 
 #EXTINF:-1  tvg-id="GB2600021LP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20250107T031207SQUARE.png" tvg-chno="4086" group-title="SamsungTVPlus - UK",Reality - Rakuten TV (UK)
 https://jmp2.uk/stvp-GB2600021LP
 
-#EXTINF:-1  tvg-name="Tastemade Travel" tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png" tvg-chno="2130" group-title="PlutoTV - United States",Tastemade Travel
+#EXTINF:-1  tvg-name="Tastemade Travel" tvg-id="95a0b94ff13a4dc14fea6e9eb47ecf09" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/95a0b94ff13a4dc14fea6e9eb47ecf09/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402849683_260x147_TastemadeTravel_LogoInfoHUD_Roku.png" tvg-chno="492" group-title="RokuTV",Tastemade Travel
+https://aka-live491.delivery.roku.com/a3362adc-49f9-4c29-9a11-e08d19759d87/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1  tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png" tvg-chno="2130" group-title="SamsungTVPlus - USA",Tastemade Travel (USA)
 https://jmp2.uk/stvp-USBD700017WC
 
 #EXTINF:-1  tvg-id="400000068" tvg-logo="https://canvas-lb.tubitv.com/opts/CYTNzlV6patUNA==/d2ad86e1-c1b3-4758-abec-a75aabd439d0/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Travel + Adventure
@@ -158,20 +173,17 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 #EXTINF:-1  tvg-name="Travel Channel" tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="MoveOnJoy" radio="false",Travel Channel
 https://fl7.moveonjoy.com/Travel_Channel/index.m3u8
 
-#EXTINF:-1  tvg-name="Travel Channel HD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TheTVApp",Travel Channel HD
-https://v13.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=wLjL0m1wCcVUZy1M5oABHQ&expires=1760305458&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
+#EXTINF:-1  tvg-name="Travel Escapes" tvg-id="647f8d22a2fc3fadb4721685-64e437ba7ef2bf9f66b42615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3834bc-2b60-4394-b403-57b82868af86/travel_escapes_WHITE_Bryan_Mcdaid.png" group-title="PlexTV - Canada",Travel Escapes
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64e437ba7ef2bf9f66b42615.m3u8
 
-#EXTINF:-1  tvg-name="Travel Channel SD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TheTVApp",Travel Channel SD
-https://v1.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=gReqqc-iST4c3FUT9wVCIQ&expires=1760305448&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
-
-#EXTINF:-1  tvg-name="Travel Escapes" tvg-id="5e20b730f2f8d5003d739db7-64e437ba7ef2bf9f66b42615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3834bc-2b60-4394-b403-57b82868af86/travel_escapes_WHITE_Bryan_Mcdaid.png" group-title="PlexTV - Australia",Travel Escapes
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64e437ba7ef2bf9f66b42615.m3u8
+#EXTINF:-1  tvg-name="Travel US East SD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TVPass",Travel US East SD
+https://tvpass.org/live/TravelChannelEast/sd
 
 #EXTINF:-1  tvg-name="Veronica Leal - StepPOV" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Veronica Leal - StepPOV
 http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Veronica%20Leal%20-%20StepPOV/steppov.21.07.06.veronica.leal.old.fashioned.values.mp4
 
 #EXTINF:-1  tvg-name="Xumo Free Reality TV" tvg-id="99991364" tvg-logo="https://image.xumo.com/v1/channels/channel/99991364/168x168.png?type=color_onBlack" group-title="Xumo Streams",Xumo Free Reality TV
-https://live-content.xumo.com/2489/content/XM0GE60846NN26/25186331/master.m3u8
+https://live-content.xumo.com/4119/content/XM0P1U0O61VW10/27211363/master.m3u8
 
 #EXTINF:-1  tvg-name="Xumo Free Travel & Lifestyle TV" tvg-id="99991111" tvg-logo="https://image.xumo.com/v1/channels/channel/99991111/168x168.png?type=color_onBlack" group-title="Xumo Streams",Xumo Free Travel & Lifestyle TV
-https://live-content.xumo.com/3752/content/XM009ZUG8QHD41/25136442/master.m3u8
+https://live-content.xumo.com/3752/content/XM02QOMQGFRS4V/25136451/master.m3u8

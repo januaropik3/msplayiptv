@@ -1,50 +1,71 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-10-12 17:31:33 UTC
-# Total Channels: 89
+# Generated: 2025-10-13 17:34:40 UTC
+# Total Channels: 96
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== KIDS (89 channels) ======
+# ====== KIDS (96 channels) ======
 
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://d2gkisgxcgea87.cloudfront.net/FF_Classic_Logo_Whitx200.png" group-title="LGTV Canada",305 Family Feud Classics
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984024/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1801 Sonic The Hedgehog
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984024&ads.xumo_streamId=99984024&ads.channelId=99984024&ads.ad_tag_id=104567&ads.csid=lgchannels_uk_sonic_ssai&ads.channelName=sonic_uk&ads.xumo_contentName=Wildbrain&ads.xumo_contentId=1854&ads.xumo_providerName=Wildbrain&ads.xumo_providerId=1854&ads.content_category=IAB1-7&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=1&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984029/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1802 Super Mario Brothers
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984029&ads.xumo_streamId=99984029&ads.channelId=99984029&ads.ad_tag_id=104565&ads.csid=lgchannels_uk_supermariobrothers_ssai&ads.channelName=supermariobrothers_uk&ads.xumo_contentName=Wildbrain&ads.xumo_contentId=1854&ads.xumo_providerName=Wildbrain&ads.xumo_providerId=1854&ads.content_category=IAB1-7&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=1&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984026/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1803 Slugterra
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984026&ads.xumo_streamId=99984026&ads.channelId=99984026&ads.ad_tag_id=104563&ads.csid=lgchannels_uk_slugterra_ssai&ads.channelName=slugterra_uk&ads.xumo_contentName=Wildbrain&ads.xumo_contentId=1854&ads.xumo_providerName=Wildbrain&ads.xumo_providerId=1854&ads.content_category=IAB1-7&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=1&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984027/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1821 Rainbow Ruby
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984027&ads.xumo_streamId=99984027&ads.channelId=99984027&ads.ad_tag_id=104566&ads.csid=lgchannels_uk_rainbowruby_ssai&ads.channelName=rainbowruby_uk&ads.xumo_contentName=Wildbrain&ads.xumo_contentId=1854&ads.xumo_providerName=Wildbrain&ads.xumo_providerId=1854&ads.content_category=IAB1-7&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=1&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984028/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1825 Rev and Roll
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984028&ads.xumo_streamId=99984028&ads.channelId=99984028&ads.ad_tag_id=104564&ads.csid=lgchannels_uk_revandroll_ssai&ads.channelName=revandroll_uk&ads.xumo_contentName=Wildbrain&ads.xumo_contentId=1854&ads.xumo_providerName=Wildbrain&ads.xumo_providerId=1854&ads.content_category=IAB1-7&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=1&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984020/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1870 Teletubbies
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984020&ads.xumo_streamId=99984020&ads.channelId=99984020&ads.ad_tag_id=49508&ads.csid=lgchannels_uk_teletubbies_ssai&ads.channelName=teletubbies_uk&ads.xumo_contentName=Teletubbies&ads.xumo_contentId=1854&ads.xumo_providerName=Teletubbies&ads.xumo_providerId=1854&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-y&ads.coppa=1&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://d2gkisgxcgea87.cloudfront.net/FF_Classic_Logo_Whitx200.png" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",305 Family Feud Classics
 https://amg00145-amg00145c3-lg-ca-5664.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-familyfeud-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992517/600x200.png?type=white_cropped" group-title="LGTV Canada",593 Sonic The Hedgehog
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992128/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Mexico",442 Baby Einstein
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992128&ads.xumo_streamId=99992128&ads.channelId=99992128&ads.csid=lgchannels_mx_babyeinstein_ssai&ads.channelName=babyeinstein_mx&ads.xumo_contentName=BabyEinstein&ads.xumo_contentId=3517&ads.xumo_providerName=BabyEinstein&ads.xumo_providerId=3517&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-y&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992517/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",593 Sonic The Hedgehog
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992517&ads.csid=lgchannels_[COUNTRY]_Sonic_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-g&ads.xumo_contentName=Sonic&ads.xumo_contentId=1854&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992517&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992476/600x200.png?type=white_cropped" group-title="LGTV Canada",594 Bob The Builder
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992476/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",594 Bob The Builder
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992476&ads.csid=lgchannels_[COUNTRY]_BobtheBuilder_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-g&ads.xumo_contentName=BobtheBuilder&ads.xumo_contentId=1854&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992476&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992511/600x200.png?type=white_cropped" group-title="LGTV Canada",595 Fireman Sam
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992511/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",595 Fireman Sam
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992511&ads.csid=lgchannels_[COUNTRY]_FiremanSam_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-g&ads.xumo_contentName=FiremanSam&ads.xumo_contentId=1854&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992511&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992127/600x200.png?type=white_cropped" group-title="LGTV Canada",600 Baby Einstein
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992127/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - Canada",600 Baby Einstein
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992127&ads.csid=lgchannels_[COUNTRY]_BabyEinstein_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-y&ads.xumo_contentName=BabyEinstein&ads.xumo_contentId=3517&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992127&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992126/600x200.png?type=white_cropped" group-title="LGTV USA",606 Baby Einstein
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992126&ads.csid=lgchannels_[COUNTRY]_BabyEinstein_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-y&ads.xumo_contentName=BabyEinstein&ads.xumo_contentId=3517&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992126&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992126/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",606 Baby Einstein
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992126&ads.xumo_streamId=99992126&ads.channelId=99992126&ads.channelName=99992126&ads.csid=lgchannels_us_babyeinstein_ssai&ads.channelName=babyeinstein_us&ads.xumo_contentName=BabyEinstein&ads.xumo_contentId=3517&ads.xumo_providerName=BabyEinstein&ads.xumo_providerId=3517&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-y&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992516/600x200.png?type=white_cropped" group-title="LGTV USA",609 Sonic The Hedgehog
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992516&ads.csid=lgchannels_[COUNTRY]_Sonic_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-g&ads.xumo_contentName=Sonic&ads.xumo_contentId=1854&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992516&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992516/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",609 Sonic The Hedgehog
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992516&ads.xumo_streamId=99992516&ads.channelId=99992516&ads.csid=lgchannels_us_sonic_ssai&ads.channelName=sonic_us&ads.xumo_contentName=Sonic&ads.xumo_contentId=1854&ads.xumo_providerName=Sonic&ads.xumo_providerId=1854&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992512/600x200.png?type=white_cropped" group-title="LGTV USA",610 Bob The Builder
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992512&ads.csid=lgchannels_[COUNTRY]_BobtheBuilder_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-g&ads.xumo_contentName=BobtheBuilder&ads.xumo_contentId=1854&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992512&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992512/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",610 Bob The Builder
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992512&ads.xumo_streamId=99992512&ads.channelId=99992512&ads.csid=lgchannels_us_bobthebuilder_ssai&ads.channelName=bobthebuilder_us&ads.xumo_contentName=BobtheBuilder&ads.xumo_contentId=1854&ads.xumo_providerName=BobtheBuilder&ads.xumo_providerId=1854&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99992510/600x200.png?type=white_cropped" group-title="LGTV USA",611 Fireman Sam
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992510&ads.csid=lgchannels_[COUNTRY]_FiremanSam_ssai&ads.content_language=en&ads.content_category=IAB6&ads.content_genre=kids&ads.content_rating=tv-g&ads.xumo_contentName=FiremanSam&ads.xumo_contentId=1854&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=1&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992510&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992510/600x200.png?type=white_cropped" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",611 Rainbow Ruby
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992510&ads.xumo_streamId=99992510&ads.channelId=99992510&ads.csid=lgchannels_us_rainbowruby_ssai&ads.channelName=firemansam_us&ads.xumo_contentName=FiremanSam&ads.xumo_contentId=1854&ads.xumo_providerName=FiremanSam&ads.xumo_providerId=1854&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/841-LG-Logo-PNG-100x100_v11.png" group-title="LGTV USA",613 Toony Planet
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/841/lg/e58fec/LG-Logo-PNG-100x100_v2.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United States",613 Toony Planet
 https://0c7e298c6974417b8fb77e4486e0e3f9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG_KidsPangTV/playlist.m3u8
 
-#EXTINF:-1  tvg-name="90's Kids" tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" tvg-chno="3785" group-title="PlutoTV - United Kingdom",90's Kids
+#EXTINF:-1  tvg-name="90's Kids" tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" tvg-chno="3785" group-title="PlutoTV - United States",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
-#EXTINF:-1  tvg-name="90s Kids TV 2" tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" tvg-chno="3787" group-title="PlutoTV - United Kingdom",90s Kids TV 2
+#EXTINF:-1  tvg-name="90s Kids TV 2" tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" tvg-chno="3787" group-title="PlutoTV - United States",90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png" group-title="AriaPlus - Australia",ABC Family
@@ -56,29 +77,29 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1  tvg-name="Adult Swim Daily Animated" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg" group-title="DrewLive Adult Swim 24/7" radio="false",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 
+#EXTINF:-1  tvg-name="Arizona's Family" tvg-id="ec2faed50af3503e934f0c342a7952fe" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ec2faed50af3503e934f0c342a7952fe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557956357_KPHO_EPG_Hud_LogoKPHO_HUD_logo_260x147_Centered.png" tvg-chno="4151" group-title="RokuTV",Arizona's Family
+https://aka-live491.delivery.roku.com/ffe061a9-f306-41ad-82e0-b0b8daba9779/t2-origin/out/v1/live.m3u8
+
 #EXTINF:-1  tvg-name="At Home with Family Handyman" tvg-id="5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32fbd65b-0339-4652-989a-de219133f7ec/at-home-w-fhm_logo_dark_1500x1000.png" group-title="PlexTV - United States",At Home with Family Handyman
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1.m3u8
 
-#EXTINF:-1  tvg-name="At Home with Family Handyman" tvg-id="USBD25000138Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20240520T221410SQUARE.png" tvg-chno="2026" group-title="PlutoTV - United States",At Home with Family Handyman
+#EXTINF:-1  tvg-name="At Home With Family Handyman" tvg-id="58673c6e05455569978456bdc210f9d7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/58673c6e05455569978456bdc210f9d7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665788721370_HUD_Logo_At-Home-w-FHM_260x147.png" tvg-chno="467" group-title="RokuTV",At Home With Family Handyman
+https://aka-live491.delivery.roku.com/0b75d0b4-701c-4032-9237-424c7b1c65a2/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1  tvg-id="USBD25000138Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20240520T221410SQUARE.png" tvg-chno="2026" group-title="SamsungTVPlus - USA",At Home with Family Handyman (USA)
 https://jmp2.uk/stvp-USBD25000138Y
+
+#EXTINF:-1  tvg-name="Black Family Sitcoms" tvg-id="686d61503484d6073283059d" tvg-logo="https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png" tvg-chno="327" group-title="PlutoTV - United States",Black Family Sitcoms
+https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png" group-title="AriaPlus - Canada",Boomerang
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112907.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-network-us.png" group-title="AriaPlus - United States",Boomerang
-https://tvpass.org/live/Boomerang/hd
 
 #EXTINF:-1  tvg-id="Boomerang.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="DaddyLive USA",Boomerang
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium648%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",Boomerang
 https://fl7.moveonjoy.com/BOOMERANG/index.m3u8
-
-#EXTINF:-1  tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang HD
-https://v1.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=K4Ih5enVRuR6BrAesCwU4g&expires=1760303682&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
-
-#EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang SD
-https://v12.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=yfUQoif8Tl392iqv5fmjvA&expires=1760303673&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
 
 #EXTINF:-1  tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="DaddyLive USA",Discovery Family
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium657%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -88,9 +109,6 @@ https://tvpass.org/live/DiscoveryFamily/hd
 
 #EXTINF:-1  tvg-name="DISCOVERY FAMILY CHANNEL" tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",DISCOVERY FAMILY CHANNEL
 https://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-
-#EXTINF:-1  tvg-name="Discovery Family Channel HD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TheTVApp",Discovery Family Channel HD
-https://e1.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=jHKZFIwn6kFnlxrPXs2-Tg&expires=1760303966&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
 
 #EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" group-title="Korea",EBS 1 Ⓢ
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -123,7 +141,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/505940.ts
 https://jmp2.uk/stvp-GB2600017PX
 
 #EXTINF:-1  tvg-name="Family Affair Channel" tvg-id="99951146" tvg-logo="https://image.xumo.com/v1/channels/channel/99951146/168x168.png?type=color_onBlack" group-title="Xumo Streams",Family Affair Channel
-https://live-content.xumo.com/3769/content/XM0PP71OMIXGVY/24100447/master.m3u8
+https://live-content.xumo.com/3769/content/XM0HGC30FQS6GU/24099466/master.m3u8
 
 #EXTINF:-1 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png" group-title="AriaPlus - Canada",Family Channel
 http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
@@ -131,14 +149,11 @@ http://38.143.48.212:9981/stream/channelid/653225259?profile=pass
 #EXTINF:-1  tvg-id="715941" tvg-logo="https://canvas-lb.tubitv.com/opts/97xH-Xj-ZVtn1A==/d989c21f-9244-4791-84c5-14af3db5758a/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Family Faves
 https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab8676f0981/playlist.m3u8
 
-#EXTINF:-1  tvg-name="Family Feud" tvg-id="5e20b730f2f8d5003d739db7-66a2d1390b91165254efdb3e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b3983fb-0a5d-4c5a-a7b7-bc9943847393/channel_logo_1500x1000_light.png__1_.png" group-title="PlexTV - United States",Family Feud
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2d1390b91165254efdb3e.m3u8
-
-#EXTINF:-1  tvg-name="Family Feud" tvg-id="672e4d915534bb0008c50168" tvg-logo="https://images.pluto.tv/channels/672e4d915534bb0008c50168/colorLogoPNG_1732662454856.png" tvg-chno="2290" group-title="PlutoTV - United Kingdom",Family Feud
+#EXTINF:-1  tvg-name="Family Feud" tvg-id="672e4d915534bb0008c50168" tvg-logo="https://images.pluto.tv/channels/672e4d915534bb0008c50168/colorLogoPNG_1732662454856.png" tvg-chno="2290" group-title="PlutoTV - United States",Family Feud
 https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
 
 #EXTINF:-1  tvg-name="Family Feud" tvg-id="99991232" tvg-logo="https://image.xumo.com/v1/channels/channel/99991232/168x168.png?type=color_onBlack" group-title="Xumo Streams",Family Feud
-https://live-content.xumo.com/170/content/XM0S4NTFS68HVA/28107349/master.m3u8
+https://live-content.xumo.com/170/content/XM0MM8Y8ZYP1UA/28340097/master.m3u8
 
 #EXTINF:-1  tvg-id="GB500007VM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500007VM_20250513T005729SQUARE.png" tvg-chno="4122" group-title="SamsungTVPlus - UK",Family Feud (UK)
 https://jmp2.uk/stvp-GB500007VM
@@ -149,28 +164,25 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a.m3u8
 #EXTINF:-1  tvg-name="Family Feud Classic" tvg-id="64c2222fb0cf5c0008288c4f" tvg-logo="https://images.pluto.tv/channels/64c2222fb0cf5c0008288c4f/colorLogoPNG.png" tvg-chno="502" group-title="PlutoTV - Canada",Family Feud Classic
 https://jmp2.uk/plu-64c2222fb0cf5c0008288c4f.m3u8
 
-#EXTINF:-1  tvg-name="Family Feud Classic" tvg-id="643f03b9d8436e0008edf021" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" tvg-chno="2300" group-title="PlutoTV - United Kingdom",Family Feud Classic
+#EXTINF:-1  tvg-name="Family Feud Classic" tvg-id="643f03b9d8436e0008edf021" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" tvg-chno="2300" group-title="PlutoTV - United States",Family Feud Classic
 https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
 
 #EXTINF:-1 group-title="JapanTV" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
 https://ca01.utako.moe/familygeki/index.m3u8
 
-#EXTINF:-1  tvg-name="Family Hour TV" tvg-id="US4100024YU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100024YU_20250311T003453SQUARE.png" tvg-chno="1618" group-title="PlutoTV - United States",Family Hour TV
-https://jmp2.uk/stvp-US4100024YU
+#EXTINF:-1  tvg-name="Family Ties" tvg-id="620bb260821a860007b2d3df" tvg-logo="https://images.pluto.tv/channels/620bb260821a860007b2d3df/colorLogoPNG.png" tvg-chno="10" group-title="PlutoTV - United Kingdom",Family Ties
+https://jmp2.uk/plu-620bb260821a860007b2d3df.m3u8
 
-#EXTINF:-1  tvg-name="Family Ties" tvg-id="5f77939a630f530007dde654" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" tvg-chno="600" group-title="PlutoTV - United Kingdom",Family Ties
+#EXTINF:-1  tvg-name="Family Ties" tvg-id="5f77939a630f530007dde654" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" tvg-chno="315" group-title="PlutoTV - United States",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
-#EXTINF:-1  tvg-name="Family Ties" tvg-id="USBB3500003D6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" tvg-chno="2675" group-title="PlutoTV - United States",Family Ties
+#EXTINF:-1  tvg-id="USBB3500003D6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" tvg-chno="2675" group-title="SamsungTVPlus - USA",Family Ties (USA)
 https://jmp2.uk/stvp-USBB3500003D6
-
-#EXTINF:-1  tvg-name="Family Unscripted" tvg-id="5e20b730f2f8d5003d739db7-66a2b6ebf7180d8d2ca77f5e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0bfd35b-7713-4aa1-b1bc-622920924e77/FamilyUnscripted_Logo_Dark_1500x1000.png" group-title="PlexTV - United States",Family Unscripted
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2b6ebf7180d8d2ca77f5e.m3u8
 
 #EXTINF:-1  tvg-id="715948" tvg-logo="https://canvas-lb.tubitv.com/opts/fScebgMxe5tv5Q==/6ea6276d-0cdb-4348-a68f-5b6cc575c8cb/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Family Unscripted
 https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8
 
-#EXTINF:-1  tvg-name="Forever Kids" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" tvg-chno="3900" group-title="PlutoTV - United Kingdom",Forever Kids
+#EXTINF:-1  tvg-name="Forever Kids" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" tvg-chno="3900" group-title="PlutoTV - United States",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
 #EXTINF:-1  tvg-name="Great American Family" tvg-id="Great.American.Family.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/great-american-family-us.png?raw=true" group-title="MoveOnJoy" radio="false",Great American Family
@@ -179,29 +191,29 @@ https://fl7.moveonjoy.com/Great_American_Country/index.m3u8
 #EXTINF:-1  tvg-name="Hailey Rose - FamilyStrokes" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Hailey Rose - FamilyStrokes
 http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Hailey%20Rose%20-%20FamilyStrokes/familystrokes.24.07.04.hailey.rose.sindependence.day.mp4
 
-#EXTINF:-1  tvg-name="HappyKids" tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png" tvg-chno="3654" group-title="PlutoTV - United States",HappyKids
-https://jmp2.uk/stvp-USBC44000072I
-
 #EXTINF:-1  tvg-id="CABC2300017XX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20250729T185159SQUARE.png" tvg-chno="3654" group-title="SamsungTVPlus - CA",HappyKids (CA)
 https://jmp2.uk/stvp-CABC2300017XX
+
+#EXTINF:-1  tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png" tvg-chno="3654" group-title="SamsungTVPlus - USA",HappyKids (USA)
+https://jmp2.uk/stvp-USBC44000072I
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" tvg-id="7fdfaa99feaa68521a276c81832cda90" group-title="AriaPlus - South Korea",KBS Kids
 http://121.143.97.131:9981/stream/channelid/430628735?profile=pass
 
-#EXTINF:-1  tvg-name="Kids Anime" tvg-id="6812948d5a1ac24c25fac322" tvg-logo="https://images.pluto.tv/channels/6812948d5a1ac24c25fac322/colorLogoPNG_1747069932836.png" tvg-chno="3808" group-title="PlutoTV - United Kingdom",Kids Anime
+#EXTINF:-1  tvg-name="Kids Anime" tvg-id="6812948d5a1ac24c25fac322" tvg-logo="https://images.pluto.tv/channels/6812948d5a1ac24c25fac322/colorLogoPNG_1747069932836.png" tvg-chno="3808" group-title="PlutoTV - United States",Kids Anime
 https://jmp2.uk/plu-6812948d5a1ac24c25fac322.m3u8
 
 #EXTINF:-1  tvg-id="KR700007M0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700007M0_20250730T003358SQUARE.png" tvg-chno="712" group-title="SamsungTVPlus - South Korea",Kids time
 https://jmp2.uk/stvp-KR700007M0
 
-#EXTINF:-1  tvg-name="KidsFlix" tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="PlexTV - United States",KidsFlix
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797.m3u8
-
-#EXTINF:-1  tvg-name="LEGO Kids TV" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" tvg-chno="3830" group-title="PlutoTV - United Kingdom",LEGO Kids TV
+#EXTINF:-1  tvg-name="LEGO Kids TV" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" tvg-chno="3830" group-title="PlutoTV - United States",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
 #EXTINF:-1  tvg-id="GB430000144" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB430000144_20250107T031148SQUARE.png" tvg-chno="4772" group-title="SamsungTVPlus - UK",LooLoo Kids (UK)
 https://jmp2.uk/stvp-GB430000144
+
+#EXTINF:-1  tvg-name="Moonbug Kids" tvg-id="b5cde121f98257329346020e2a60295a" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b5cde121f98257329346020e2a60295a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684954939211_MOONBUG_ROKU_LOGO_EPG_2023MONO.png" tvg-chno="428" group-title="RokuTV",Moonbug Kids
+https://aka-live491.delivery.roku.com/48958701-bf5d-40f4-a630-573ac35b7a5f/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1  tvg-id="GB900003KR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" tvg-chno="4823" group-title="SamsungTVPlus - UK",Mr Bean Animated (UK)
 https://jmp2.uk/stvp-GB900003KR
@@ -209,50 +221,44 @@ https://jmp2.uk/stvp-GB900003KR
 #EXTINF:-1  tvg-id="Nick.Jr.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="DaddyLive USA",NICK JR
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium329%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="AriaPlus - United States",Nick Jr.
-https://tvpass.org/live/NickJrEast/hd
+#EXTINF:-1  tvg-name="Nick Jr. Club" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" tvg-chno="1402" group-title="PlutoTV - Mexico",Nick Jr. Club
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 
 #EXTINF:-1  tvg-name="Nick Jr. FHD" tvg-id="Nick.Jr.HD.us2" tvg-logo="https://i.imgur.com/cHN8fE8.png" group-title="A1xmedia US Channels" radio="false",Nick Jr. FHD
 https://a1xs.vip/300033
 
-#EXTINF:-1  tvg-name="Nick Jr. HD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TheTVApp",Nick Jr. HD
-https://v12.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=XBjRyDhK-3R7zj5OTWhDrg&expires=1760304985&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
-
-#EXTINF:-1  tvg-name="Nick Jr. Pluto TV" tvg-id="62bdb75c3afd1200079146a6" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" tvg-chno="600" group-title="PlutoTV - Canada",Nick Jr. Pluto TV
+#EXTINF:-1  tvg-name="Nick Jr. Pluto TV" tvg-id="62bdb75c3afd1200079146a6" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" tvg-chno="601" group-title="PlutoTV - Canada",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 
-#EXTINF:-1  tvg-name="Nick Jr. Pluto TV" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" tvg-chno="3700" group-title="PlutoTV - United Kingdom",Nick Jr. Pluto TV
+#EXTINF:-1  tvg-name="Nick Jr. Pluto TV" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" tvg-chno="3700" group-title="PlutoTV - United States",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-
-#EXTINF:-1  tvg-name="Nick Jr. SD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TheTVApp",Nick Jr. SD
-https://v2.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=6Uis9Vq5dcbhMGB2pLvS2g&expires=1760304976&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="AriaPlus - United States",Nickelodeon
-https://tvpass.org/live/NickelodeonEast/hd
 
 #EXTINF:-1  tvg-name="Nickelodeon" tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",Nickelodeon
 https://fl7.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1  tvg-name="Nickelodeon East SD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="TheTVApp",Nickelodeon East SD
-https://v18.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=ii8zMpV5vHsAazbSn2_qdg&expires=1760304995&user_id=aENuRkthblpEaTlGZnFXVmZlaXdGR1ZXQ3BqcFRiZjJobTV0V1NXUQ==
+#EXTINF:-1  tvg-name="Nickelodeon Clásico" tvg-id="6824cda00101510f9eeaa011" tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png" tvg-chno="1440" group-title="PlutoTV - Mexico",Nickelodeon Clásico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 
-#EXTINF:-1  tvg-name="Nickelodeon en espaÃ±ol" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-chno="3780" group-title="PlutoTV - United Kingdom",Nickelodeon en espaÃ±ol
+#EXTINF:-1  tvg-name="Nickelodeon en español" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-chno="3780" group-title="PlutoTV - United States",Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
 #EXTINF:-1  tvg-name="Nickelodeon FHD" tvg-id="Nickelodeon.HD.us2" tvg-logo="https://i.imgur.com/jE2YHz0.png" group-title="A1xmedia US Channels" radio="false",Nickelodeon FHD
 https://a1xs.vip/300030
 
-#EXTINF:-1  tvg-name="Nickelodeon Pluto TV" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="3770" group-title="PlutoTV - United Kingdom",Nickelodeon Pluto TV
+#EXTINF:-1  tvg-name="Nickelodeon iCarly" tvg-id="620ff0a01f9e8700076c6f9d" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" tvg-chno="1360" group-title="PlutoTV - Mexico",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+
+#EXTINF:-1  tvg-name="Nickelodeon Pluto TV" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="3770" group-title="PlutoTV - United States",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1  tvg-name="Nickelodeon Teen" tvg-id="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-chno="1352" group-title="PlutoTV - Mexico",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 
 #EXTINF:-1  tvg-name="Nickelodeon UK FHD" tvg-id="NickelodeonHD.uk" tvg-logo="https://pixvid.org/images/2025/02/27/Nickelodeon.png" group-title="A1xmedia UK Channels" radio="false",Nickelodeon UK FHD
 https://a1xs.vip/1000051
 
 #EXTINF:-1  tvg-name="NickJr" tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",NickJr
 https://fl7.moveonjoy.com/NICK_JR/index.m3u8
-
-#EXTINF:-1  tvg-name="PBS Kids" tvg-id="USBC3600013PC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600013PC_20241112T001723SQUARE.png" tvg-chno="3615" group-title="PlutoTV - United States",PBS Kids
-https://jmp2.uk/stvp-USBC3600013PC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png" group-title="AriaPlus - United States",PBS Kids (Eastern Feed)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
@@ -263,14 +269,29 @@ https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 #EXTINF:-1  tvg-name="PBS Kids (KET)" tvg-id="PBS.KIDS.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dot-icon-us.png?raw=true" group-title="MoveOnJoy" radio="false",PBS Kids (KET)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1  tvg-name="TG Junior" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" tvg-chno="3666" group-title="PlutoTV - United States",TG Junior
+#EXTINF:-1  tvg-name="Pluto TV Junior" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" tvg-chno="1420" group-title="PlutoTV - Mexico",Pluto TV Junior
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+
+#EXTINF:-1  tvg-name="Pluto TV Kids" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" tvg-chno="1480" group-title="PlutoTV - Mexico",Pluto TV Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+
+#EXTINF:-1  tvg-name="Pluto TV Kids" tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" tvg-chno="885" group-title="PlutoTV - United Kingdom",Pluto TV Kids
+https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+
+#EXTINF:-1  tvg-name="Pluto TV Kids Halloween" tvg-id="6874adbb3ffa5e0c917f721e" tvg-logo="https://images.pluto.tv/channels/6874adbb3ffa5e0c917f721e/colorLogoPNG_1752477271118.png" tvg-chno="600" group-title="PlutoTV - Canada",Pluto TV Kids Halloween
+https://jmp2.uk/plu-6874adbb3ffa5e0c917f721e.m3u8
+
+#EXTINF:-1  tvg-name="Pluto TV Kids Halloween" tvg-id="66ba1ef5fe11e50008814383" tvg-logo="https://images.pluto.tv/channels/66ba1ef5fe11e50008814383/colorLogoPNG.png" tvg-chno="63" group-title="PlutoTV - United Kingdom",Pluto TV Kids Halloween
+https://jmp2.uk/plu-66ba1ef5fe11e50008814383.m3u8
+
+#EXTINF:-1  tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" tvg-chno="3666" group-title="SamsungTVPlus - USA",TG Junior (USA)
 https://jmp2.uk/stvp-USBB3600001R6
 
-#EXTINF:-1  tvg-name="The Addams Family" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" tvg-chno="560" group-title="PlutoTV - United Kingdom",The Addams Family
+#EXTINF:-1  tvg-name="The Addams Family" tvg-id="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae901652-7714-41cd-8ff7-cb31fb07f6df/AddamsFamily_logo_Attribution_-_Carl_HoffelderRDX.png" group-title="PlexTV - United States",The Addams Family
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c.m3u8
+
+#EXTINF:-1  tvg-name="The Addams Family" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" tvg-chno="560" group-title="PlutoTV - United States",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 
-#EXTINF:-1  tvg-name="The Kids in the Hall" tvg-id="5e20b730f2f8d5003d739db7-670858335b42d01c9391e325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png" group-title="PlexTV - Australia",The Kids in the Hall
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-670858335b42d01c9391e325.m3u8
-
 #EXTINF:-1  tvg-name="Xumo Free Kids TV" tvg-id="99991107" tvg-logo="https://image.xumo.com/v1/channels/channel/99991107/168x168.png?type=color_onBlack" group-title="Xumo Streams",Xumo Free Kids TV
-https://live-content.xumo.com/197/content/XM09TOJ791I10W/26649188/master.m3u8
+https://live-content.xumo.com/4235/content/XM0FGY15PW3IY6/27951845/master.m3u8
