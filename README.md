@@ -1,6 +1,6 @@
 # MSPlay IPTV
 
-![Channels](https://img.shields.io/badge/Channels-8,421-brightgreen): Automatic scraping and validation
+![Channels](https://img.shields.io/badge/Channels-8,424-brightgreen): Automatic scraping and validation
 - **⚡ Real-time**: GitHub Actions updates all playlists
 - **🔄 Always Fresh**: Latest channels automatically added/removed
 - **✅ Validated**: Only working channels included
@@ -17,7 +17,7 @@
 If you want to update immediately, visit the [Actions](https://github.com/januaropik3/msplayiptv/actions) page and click "Run workflow"
 
 **No maintenance required!** The system handles everything automatically.img.shields.io/badge/Channels-6,159-brightgreen)
-![Updated](https://img.shields.io/badge/Updated-2025-10-24-blue)
+![Updated](https://img.shields.io/badge/Updated-2025-10-25-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Format](https://img.shields.io/badge/Format-M3U-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -56,12 +56,23 @@ Simply copy any URL above and paste it into your IPTV player:
 
 | Metric | Value |
 |--------|-------|
-| 📺 Total Channels | 8,421 |
+| 📺 Total Channels | 8,424 |
 | 🏷️ Categories | 8 |
 | 🌍 Sources | 2 |
-| 🕐 Last Updated | 2025-10-24 17:34:53 |
+| 🕐 Last Updated | 2025-10-25 17:32:15 |
 
 ### 📁 Categories
+
+| Category | Channels |
+|----------|----------|
+| Documentary | 99 |
+| Entertainment | 63 |
+| General | 4,054 |
+| Kids | 101 |
+| Movies | 886 |
+| Music | 288 |
+| News | 1,577 |
+| Sports | 1,356 |### 📁 Categories
 
 | Category | Channels |
 |----------|----------|
