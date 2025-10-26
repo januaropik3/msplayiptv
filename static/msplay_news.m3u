@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-10-25 17:32:15 UTC
-# Total Channels: 1,577
+# Generated: 2025-10-26 17:33:46 UTC
+# Total Channels: 1,451
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (1577 channels) ======
+# ====== NEWS (1451 channels) ======
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Euronews_LG_Logo.png" tvg-id="24.7.Dummy.us" group-title="LGTV - New Zealand",107 Euro news
 https://amg00882-amg00882c2-lg-nz-6872.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgnz/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]
@@ -887,6 +887,9 @@ https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-a
 #EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" group-title="Albania",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Aba League: Kk Partizan Nis Belgrade vs Kk Borac Cacak 20:00 (oct-26-2025 08:00 Pm Uk / Oct-26-2025 02:00 Pm Mdt / Oct-26-2025 04:00 Pm Edt)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium134%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="AriaPlus - Australia",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
@@ -938,38 +941,17 @@ https://jmp2.uk/stvp-GBBC900015D3
 #EXTINF:-1 tvg-name="Affare Fatto – Pluto TV" tvg-logo="https://i.imgur.com/BuGkGsL.png" group-title="VOD Italy",Affare Fatto – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" group-title="DaddyLive - Aussie Rules Football",Afl Women: North Melbourne Kangaroos w vs St Kilda w 02:00 (oct-25-2025 02:00 Am Uk / Oct-24-2025 07:00 Pm Mdt / Oct-24-2025 09:00 Pm Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium34%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" group-title="DaddyLive - Aussie Rules Football",Afl Women: North Melbourne Kangaroos w vs St Kilda w 02:00 (oct-25-2025 02:00 Am Uk / Oct-24-2025 07:00 Pm Mdt / Oct-24-2025 09:00 Pm Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium587%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" group-title="DaddyLive - Aussie Rules Football",Afl Women: North Melbourne Kangaroos w vs St Kilda w 02:00 (oct-25-2025 02:00 Am Uk / Oct-24-2025 07:00 Pm Mdt / Oct-24-2025 09:00 Pm Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium756%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
 #EXTINF:-1 tvg-name="Africanews Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="France",Africanews Ⓨ
 https://www.youtube.com/c/Africanewsfr/live
 
 #EXTINF:-1 tvg-name="Africanews Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="News",Africanews Ⓨ
 https://www.youtube.com/africanews/live
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Akron Zips @ Buffalo Bulls - 10/25/25, 5:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Akron Zips @ Buffalo Bulls - 10/25/25 - 5:00:00 PM UTC HD
-https://v8.thetvapp.to/hls/NCAAF02/tracks-v1a1/mono.m3u8?token=a-pF92ACGagc2Hw8MqQhYg&expires=1761429211&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Akron Zips @ Buffalo Bulls - 10/25/25, 5:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Akron Zips @ Buffalo Bulls - 10/25/25 - 5:00:00 PM UTC SD
-https://v8.thetvapp.to/hls/NCAAF02/tracks-v1a1/mono.m3u8?token=D1wQR5oiQmhvoRZsx-ol6Q&expires=1761429206&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1 tvg-name="Al-Alam News Network Ⓢ" tvg-logo="https://i.imgur.com/UbD0Ndr.png" tvg-id="AlalamNewsChannel.ir" group-title="Iran",Al-Alam News Network Ⓢ
 https://live2.alalam.ir/alalam.m3u8
 
 #EXTINF:-1 tvg-name="Al-Sharqiya News" tvg-logo="https://i.imgur.com/P6p17ZY.jpg" tvg-id="AlSharqiyaNews.iq" group-title="Iraq",Al-Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Alabama Crimson Tide @ South Carolina Gamecocks - 10/25/25, 7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Alabama Crimson Tide @ South Carolina Gamecocks - 10/25/25 - 7:30:00 PM UTC HD
-https://v3.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=--OvKwIQ2t4bkryQWJ--rg&expires=1761429375&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Alabama Crimson Tide @ South Carolina Gamecocks - 10/25/25, 7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Alabama Crimson Tide @ South Carolina Gamecocks - 10/25/25 - 7:30:00 PM UTC SD
-https://v18.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=1vEQop4x3fm5JugPCcrPGg&expires=1761429370&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
 
 #EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-id="AlbKanaleMusicTV.al" group-title="Albania",AlbKanale Music TV Ⓢ
 https://albportal.net/albkanalemusic.m3u8
@@ -1022,12 +1004,6 @@ https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 #EXTINF:-1  tvg-id="GB2700016H5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700016H5_20250107T031056SQUARE.png" tvg-chno="4071" group-title="SamsungTVPlus - UK",Artist of the Year (UK)
 https://jmp2.uk/stvp-GB2700016H5
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Auburn Tigers @ Arkansas Razorbacks - 10/25/25, 4:45:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Auburn Tigers @ Arkansas Razorbacks - 10/25/25 - 4:45:00 PM UTC HD
-https://v15.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=mC6RDpFjmo9eJKW50wPCag&expires=1761429201&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Auburn Tigers @ Arkansas Razorbacks - 10/25/25, 4:45:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Auburn Tigers @ Arkansas Razorbacks - 10/25/25 - 4:45:00 PM UTC SD
-https://v16.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=OT-Z2x4ieSFScIUkkDkwjw&expires=1761429195&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1 tvg-name="Aurora Arte" tvg-logo="https://i.imgur.com/BoLZ5wG.png" tvg-id="AuroraArte.it" group-title="Italy",Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 
@@ -1055,11 +1031,17 @@ http://185.99.136.50:9981/stream/channelid/631212963?profile=pass
 #EXTINF:-1  tvg-id="BBC.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="DaddyLive USA",BBC America (BBCA)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium305%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
+#EXTINF:-1  tvg-name="BBC America East HD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TVPass",BBC America East HD
+https://tvpass.org/live/BBCAmericaEast/hd
+
+#EXTINF:-1  tvg-name="BBC America East SD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TVPass",BBC America East SD
+https://tvpass.org/live/BBCAmericaEast/sd
+
 #EXTINF:-1  tvg-name="BBC America HD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TheTVApp",BBC America HD
-https://e2.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=-Zli7kN6D4gkKtKZSHyJKw&expires=1761426866&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v12.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=sDf54F4IQxXHJCxu3fSR6Q&expires=1761513247&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="BBC America SD" tvg-id="bbc-america-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="TheTVApp",BBC America SD
-https://e3.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=ceLk_fmn-Gi1FFsHjcVnXw&expires=1761426856&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v17.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8?token=ZQLx2xSuXtTx9Aig7QrFjw&expires=1761513238&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="BBC Comedy" tvg-id="647f8d22a2fc3fadb4721685-65622fb65dbccec83a87b643" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="PlexTV - Canada",BBC Comedy
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65622fb65dbccec83a87b643.m3u8
@@ -1175,11 +1157,14 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd.m3u8
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="AriaPlus - United Kingdom",BBC Two
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 
+#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="DaddyLive UK",BBC Two UK
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium357%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="BBC World News HD HD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TheTVApp",BBC World News HD HD
-https://v18.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=qwQWSU9T5wN2K72Gkb5D3Q&expires=1761426885&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://e1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=RXDbJJ-Sd3flToecpq7NDw&expires=1761513266&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="BBC World News HD SD" tvg-id="bbc-news-north-america-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" group-title="TheTVApp",BBC World News HD SD
-https://v14.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=xcrUYnNBEQoPujInZhwYtA&expires=1761426875&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v12.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8?token=tSDMkGBVK_ZKWlupsn1pxg&expires=1761513257&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" tvg-id="BBCRadioWorldService.uk" group-title="UK",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
@@ -1290,10 +1275,13 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516.m3u8
 
 #EXTINF:-1  tvg-name="Bloomberg TV HD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TheTVApp",Bloomberg TV HD
-https://v8.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=nrAjOLfAlhCwSKpaZhFiJg&expires=1761426960&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v2.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=FGVrBNPleT5srCDTJNvTZQ&expires=1761513342&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="Bloomberg TV SD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TheTVApp",Bloomberg TV SD
-https://v18.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=pofqWEQC_ap0HiIPppzO9Q&expires=1761426951&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v5.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8?token=93wz3Qu0Id3TYxbywLlzWg&expires=1761513332&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
+
+#EXTINF:-1  tvg-name="Bloomberg TV USA HD" tvg-id="bloomberg-tv-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="TVPass",Bloomberg TV USA HD
+https://tvpass.org/live/BloombergTV/hd
 
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -1303,9 +1291,6 @@ https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
 
 #EXTINF:-1  tvg-name="Bloomberg TV+" tvg-id="61559552dd585f0007321eca" tvg-logo="https://images.pluto.tv/channels/61559552dd585f0007321eca/colorLogoPNG.png" tvg-chno="842" group-title="PlutoTV - United Kingdom",Bloomberg TV+
 https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8
-
-#EXTINF:-1  tvg-name="Bloomberg TV+" tvg-id="54ff7ba69222cb1c2624c584" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png" tvg-chno="2640" group-title="PlutoTV - United States",Bloomberg TV+
-https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 
 #EXTINF:-1  tvg-id="555124" tvg-logo="https://canvas-lb.tubitv.com/opts/Y-vFFHuAXASLSg==/fde25048-c7d2-4bfb-b744-06755f42d915/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Bloomberg TV+
 https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
@@ -1325,29 +1310,11 @@ https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-id="bnn.bloomberg.ca" tvg-logo="https://media.starlite.best/bnn.bloomberg.ca.png" group-title="AriaPlus - Canada",BNN Bloomberg
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40768.ts
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Boston College Eagles @ Louisville Cardinals - 10/25/25, 11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Boston College Eagles @ Louisville Cardinals - 10/25/25 - 11:30:00 PM UTC HD
-https://v16.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=spT5YAnVHM5ZWDHLzdy32g&expires=1761429484&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Boston College Eagles @ Louisville Cardinals - 10/25/25, 11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Boston College Eagles @ Louisville Cardinals - 10/25/25 - 11:30:00 PM UTC SD
-https://v2.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=aHq4c_e4TPoTeyqkdGEhQw&expires=1761429479&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Bowling Green Falcons @ Kent State Golden Flashes - 10/25/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Bowling Green Falcons @ Kent State Golden Flashes - 10/25/25 - 4:00:00 PM UTC HD
-https://e1.thetvapp.to/hls/NCAAF01/tracks-v1a1/mono.m3u8?token=GbbGGl8ZPPHWlaxxs0P-sQ&expires=1761429146&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Bowling Green Falcons @ Kent State Golden Flashes - 10/25/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Bowling Green Falcons @ Kent State Golden Flashes - 10/25/25 - 4:00:00 PM UTC SD
-https://v2.thetvapp.to/hls/NCAAF01/tracks-v1a1/mono.m3u8?token=CzyvqrRooIhYqAix0zM21w&expires=1761429140&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1 tvg-id="bravo.canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="AriaPlus - Canada",Bravo
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40642.ts
 
 #EXTINF:-1  tvg-name="BritBox Mysteries" tvg-id="99951213" tvg-logo="https://image.xumo.com/v1/channels/channel/99951213/168x168.png?type=color_onBlack" group-title="Xumo Streams",BritBox Mysteries
 https://dbrb49pjoymg4.cloudfront.net/10001/99951213/hls/playlist.m3u8?ads.xumo_channelId=99951213&ads._fw_ifa_type=&ads._fw_did=09aff57b-40cd-456f-9b37-97ceede92758&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCBritBoxMysteries&ads.csid=xumo_web_BBCBritBoxMysteries_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3877&ads.xumo_contentName=BBCBritBoxMysteries&ads.xumo_providerId=3877&ads.xumo_providerName=BBCBritBoxMysteries&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951213&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="BYU Cougars @ Iowa State Cyclones - 10/25/25, 7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",BYU Cougars @ Iowa State Cyclones - 10/25/25 - 7:30:00 PM UTC HD
-https://v14.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=dh7KYBgRci395eaxr3AKLg&expires=1761429364&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="BYU Cougars @ Iowa State Cyclones - 10/25/25, 7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",BYU Cougars @ Iowa State Cyclones - 10/25/25 - 7:30:00 PM UTC SD
-https://v14.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=BXD_QJATRHTUlzOFfRCj-Q&expires=1761429359&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
 
 #EXTINF:-1  tvg-name="C4 en Alerta" tvg-id="5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="PlexTV - Australia",C4 en Alerta
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8
@@ -1385,9 +1352,6 @@ https://fl30.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs25
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="AriaPlus - United States",Cartoon Network / Adult Swim
-https://tvpass.org/live/CartoonNetworkEast/hd
-
 #EXTINF:-1 tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" tvg-id="CartoonNetworkArabic.ae" group-title="United Arab Emirates",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
@@ -1395,13 +1359,13 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://a1xs.vip/300032
 
 #EXTINF:-1  tvg-name="Cartoon Network HD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="TheTVApp",Cartoon Network HD
-https://v2.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=4fRbsdAgKVTEU04PI1TKpg&expires=1761427017&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v15.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=4ZcT8taMrXY9eayUG2Um9Q&expires=1761513399&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1 group-title="JapanTV" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
 https://ca01.utako.moe/cartoon_network/index.m3u8
 
 #EXTINF:-1  tvg-name="Cartoon Network SD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="TheTVApp",Cartoon Network SD
-https://v17.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=TKJxk2KTtuuZ_1aP968ckA&expires=1761427008&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v15.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=0XQgD5ibSqQUkGbEa-gEDQ&expires=1761513389&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="Cartoon Network UK FHD" tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cartoon-network-ca.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Cartoon Network UK FHD
 https://a1xs.vip/1000050
@@ -1502,9 +1466,6 @@ https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1  tvg-name="CBS News 24/7" tvg-id="6231eb3865be650007f59595" tvg-logo="https://images.pluto.tv/channels/6231eb3865be650007f59595/colorLogoPNG.png" tvg-chno="840" group-title="PlutoTV - United Kingdom",CBS News 24/7
 https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
 
-#EXTINF:-1  tvg-name="CBS News 24/7" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="2530" group-title="PlutoTV - United States",CBS News 24/7
-https://jmp2.uk/plu-5a6b92f6e22a617379789618.m3u8
-
 #EXTINF:-1  tvg-name="CBS News 24/7" tvg-id="99991158" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" group-title="Xumo Streams",CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 
@@ -1567,9 +1528,6 @@ https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 
 #EXTINF:-1  tvg-name="CBS News Pittsburgh" tvg-id="5eb1b17aa5277e00083f6521" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" tvg-chno="5220" group-title="PlutoTV - United States",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
-
-#EXTINF:-1  tvg-name="CBS News Sacramento" tvg-id="60cb6df2b2ad610008cd5bea" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" tvg-chno="5230" group-title="PlutoTV - United States",CBS News Sacramento
-https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
 
 #EXTINF:-1  tvg-name="CBS News Texas" tvg-id="5eceb0d4065c240007688ec6" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" tvg-chno="5250" group-title="PlutoTV - United States",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
@@ -1653,7 +1611,7 @@ https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlis
 https://a1xs.vip/300009
 
 #EXTINF:-1  tvg-name="CNBC HD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" group-title="TheTVApp",CNBC HD
-https://v8.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=XgzfCsyOmXCNPfyn3xZu3w&expires=1761427093&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v16.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=6EpBcoPnzQG0z4cU7SqQWw&expires=1761513474&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://imgur.com/ie2zSTY" tvg-id="CNBCIndonesia.am" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -1662,7 +1620,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1  tvg-name="CNBC SD" tvg-id="cnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-shark-tank-us.png?raw=true" group-title="TheTVApp",CNBC SD
-https://v14.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=hEqBcQH7tA7DW4kwExZGRQ&expires=1761427083&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v5.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8?token=bfEb0pWBxKq3coPXO7cfKQ&expires=1761513465&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-id="CNBC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-us.png?raw=true" group-title="DaddyLive USA",CNBC USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium309%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -1683,7 +1641,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 https://jmp2.uk/stvp-GBBD8000016N
 
 #EXTINF:-1  tvg-name="CNN HD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TheTVApp",CNN HD
-https://e2.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=-TUx-wV8_Mes7wJfMlkR5w&expires=1761427112&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v4.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=a-xxySUQ-7MfAk6D0lISbg&expires=1761513493&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="CNN Headlines" tvg-id="66c45c274f25dd00092739ee" tvg-logo="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/colorLogoPNG_1745400015230.png" tvg-chno="545" group-title="PlutoTV - Canada",CNN Headlines
 https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8
@@ -1711,9 +1669,6 @@ https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
 
 #EXTINF:-1  tvg-name="CNN Originals" tvg-id="99951387" tvg-logo="https://image.xumo.com/v1/channels/channel/99951387/168x168.png?type=color_onBlack" group-title="Xumo Streams",CNN Originals
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=e65cdaef-bffb-4c42-9ba3-9c06c5f341cb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1  tvg-name="CNN SD" tvg-id="cnn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="TheTVApp",CNN SD
-https://v18.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8?token=oESjfPZ2PNsQBGII-SBw6w&expires=1761427102&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
 
 #EXTINF:-1  tvg-id="CNN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="DaddyLive USA",CNN USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium345%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -1753,9 +1708,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E02b - Dr. Le Quack Amnesia Specialist" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E02b - Dr. Le Quack Amnesia Specialist
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x04%20-%20Dr.%20Le%20Quack%2C%20Amnesia%20Specialist.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E03a - Courage Meets Bigfoot" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E03a - Courage Meets Bigfoot
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x05%20-%20Courage%20Meets%20Bigfoot.mp4
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E03b - Hothead" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E03b - Hothead
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x06%20-%20Hothead.mp4
@@ -1802,17 +1754,8 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E10b - The Precious.. Wonderful.. Adorable.. Loveable Duckling" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E10b - The Precious.. Wonderful.. Adorable.. Loveable Duckling
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x20%20-%20The%20Precious%2C%20Wonderful%2C%20Adorable%2C%20Loveable%20Duckling.mp4
 
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E11a - Heads of Beef" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E11a - Heads of Beef
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x21%20-%20Heads%20of%20Beef.mp4
-
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E11b - Klub Katz" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E11b - Klub Katz
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x22%20-%20Klub%20Katz.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E12a - Revenge of the Chicken from Outer Space" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E12a - Revenge of the Chicken from Outer Space
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x23%20-%20Revenge%20of%20the%20Chicken%20from%20Outer%20Space.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E12b - Journey to the Center of Nowhere" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E12b - Journey to the Center of Nowhere
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x24%20-%20Journey%20to%20the%20Center%20of%20Nowhere.mp4
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S01E13a - Little Muriel" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/2Oo0XHp7MRFkdEBE84tkTxwf1VX.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S01E13a - Little Muriel
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%201/Courage%20the%20Cowardly%20Dog%20-%2001x25%20-%20Little%20Muriel.mp4
@@ -1823,32 +1766,14 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E01 - The Magic Tree of Nowhere - Robot Randy" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E01 - The Magic Tree of Nowhere - Robot Randy
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E01.mp4
 
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E02 - The Curse of Shirley - Courage in the Big Stinkin' City" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E02 - The Curse of Shirley - Courage in the Big Stinkin' City
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E02.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E03 - Family Business - 1000 Years of Courage" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E03 - Family Business - 1000 Years of Courage
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E03.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E04 - Courage Meets the Mummy - Invisible Muriel" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E04 - Courage Meets the Mummy - Invisible Muriel
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E04.mp4
-
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E05 - Human Habitrail - Mission to the Sun" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E05 - Human Habitrail - Mission to the Sun
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E05.mp4
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E06 - Katz Kandy - Courage the Fly" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E06 - Katz Kandy - Courage the Fly
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E06.mp4
 
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E07 - Nowhere TV - Mega Muriel the Magnificent" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E07 - Nowhere TV - Mega Muriel the Magnificent
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E07.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E08 - Bad Hair Day - Forbidden Hat of Gold" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E08 - Bad Hair Day - Forbidden Hat of Gold
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E08.mp4
-
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E09 - Serpent of Evil River - The Transplant" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E09 - Serpent of Evil River - The Transplant
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E09.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E10 - Car Broke.. Phone Yes - Cowboy Courage" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E10 - Car Broke.. Phone Yes - Cowboy Courage
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E10.mp4
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S02E11 - Evil Weevil - McPhearson Phantom" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/iIOLkmd8A3YNVQIOFgUwG3LbTpw.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S02E11 - Evil Weevil - McPhearson Phantom
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%202/Courage%20the%20Cowardly%20Dog%20-%20S02E11.mp4
@@ -1865,17 +1790,8 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E02 - Campsite of Terror - Record Deal" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E02 - Campsite of Terror - Record Deal
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E02.mp4
 
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E03 - Stormy Weather - The Sandman Sleeps" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E03 - Stormy Weather - The Sandman Sleeps
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E03.mp4
-
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E04 - Hard Drive Courage - The Ride of the Valkyries" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E04 - Hard Drive Courage - The Ride of the Valkyries
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E04.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E05 - Scuba Scuba Doo - Klub Katz" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E05 - Scuba Scuba Doo - Klub Katz
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E05.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E06 - The Quilt Club - Swindlin' Wind" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E06 - The Quilt Club - Swindlin' Wind
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E06.mp4
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E07 - King of Flan - Courage Under the Volcano" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E07 - King of Flan - Courage Under the Volcano
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E07.mp4
@@ -1892,12 +1808,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E11 - Conway the Contaminationist - Katz Under the Sea" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E11 - Conway the Contaminationist - Katz Under the Sea
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E11.mp4
 
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E12 - The Norwegian Omelette - The Son of the Chicken from Outer Space" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E12 - The Norwegian Omelette - The Son of the Chicken from Outer Space
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E12.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S03E13 - Curtain of Cruelty - Feast of the Bullfrogs" tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBh3t1vepxqsTGb1fJf1XltAh-yulYs_BnA&s" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S03E13 - Curtain of Cruelty - Feast of the Bullfrogs
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%203/Courage%20the%20Cowardly%20Dog%20-%20S03E13.mp4
-
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S04E01 - A Beaver's Tale - The Nutcracker" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/xmzNYL3CFXYwfImBUHMaNLtmyeH.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S04E01 - A Beaver's Tale - The Nutcracker
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%204/Courage%20the%20Cowardly%20Dog%20-%20S04E01.mp4
 
@@ -1906,9 +1816,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S04E03 - Le Quack's Amnesia - Perfect" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/xmzNYL3CFXYwfImBUHMaNLtmyeH.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S04E03 - Le Quack's Amnesia - Perfect
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%204/Courage%20the%20Cowardly%20Dog%20-%20S04E03.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S04E04 - Conway the Contaminationist - Katz Under the Sea" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/xmzNYL3CFXYwfImBUHMaNLtmyeH.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S04E04 - Conway the Contaminationist - Katz Under the Sea
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%204/Courage%20the%20Cowardly%20Dog%20-%20S04E04.mp4
 
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S04E05 - The Norwegian Omelette - The Son of the Chicken from Outer Space" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/xmzNYL3CFXYwfImBUHMaNLtmyeH.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S04E05 - The Norwegian Omelette - The Son of the Chicken from Outer Space
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%204/Courage%20the%20Cowardly%20Dog%20-%20S04E05.mp4
@@ -1931,12 +1838,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Courage the Cowardly Dog - S04E11 - The Mask" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/xmzNYL3CFXYwfImBUHMaNLtmyeH.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S04E11 - The Mask
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%204/Courage%20the%20Cowardly%20Dog%20-%20S04E11.mp4
 
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S04E12 - Squatting Tiger.. Hidden Dog - Muted Muriel" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/xmzNYL3CFXYwfImBUHMaNLtmyeH.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S04E12 - Squatting Tiger.. Hidden Dog - Muted Muriel
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%204/Courage%20the%20Cowardly%20Dog%20-%20S04E12.mp4
-
-#EXTINF:-1  tvg-name="Courage the Cowardly Dog - S04E13 - Aqua Farmer - Food of the Dragon" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/xmzNYL3CFXYwfImBUHMaNLtmyeH.jpg" group-title="DrewLive Cartoons - Courage the Cowardly Dog" radio="false",Courage the Cowardly Dog - S04E13 - Aqua Farmer - Food of the Dragon
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Courage%20The%20Cowardly%20Dog%20(1999)/Season%204/Courage%20the%20Cowardly%20Dog%20-%20S04E13.mp4
-
 #EXTINF:-1  tvg-name="Court TV" tvg-id="5dae0b4841a7d0000938ddbd" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" tvg-chno="1320" group-title="PlutoTV - United States",Court TV
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 
@@ -1954,6 +1855,9 @@ https://jmp2.uk/stvp-USBA34000049Z
 
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="AriaPlus - United States",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1  tvg-name="Court TV Legendary Trials" tvg-id="586bd3d19f6e4b7a5cf3458722984b82" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/586bd3d19f6e4b7a5cf3458722984b82/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1753726975635_25-CTV-1681835828-Court-TV-Legendary-Trials---OTT-CTV---Legendary-Trials-Logos---Roku-Channel-Launch_CourtTVLT_Roku_HUD1.png" tvg-chno="544" group-title="RokuTV",Court TV Legendary Trials
+https://jmp2.uk/rok-586bd3d19f6e4b7a5cf3458722984b82.m3u8
 
 #EXTINF:-1  tvg-name="Court TV Legendary Trials" tvg-id="99951233" tvg-logo="https://image.xumo.com/v1/channels/channel/99951233/168x168.png?type=color_onBlack" group-title="Xumo Streams",Court TV Legendary Trials
 https://dbrb49pjoymg4.cloudfront.net/10001/99951233/hls/playlist.m3u8?ads.xumo_channelId=99951233&ads._fw_ifa_type=&ads._fw_did=d4be225b-9804-4517-9d27-88a624205501&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsCourtTVLegendaryTrials&ads.csid=xumo_web_ScrippsCourtTVLegendaryTrials_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3924&ads.xumo_contentName=ScrippsCourtTVLegendaryTrials&ads.xumo_providerId=3924&ads.xumo_providerName=ScrippsCourtTVLegendaryTrials&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951233&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -1978,9 +1882,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951437/hls/8-9-8117.m3u8?ads.xumo_c
 
 #EXTINF:-1 tvg-name="Crime – Pluto TV" tvg-logo="https://i.imgur.com/WRMGIdb.png" tvg-id="PlutoTVCrimeItaly.it" group-title="VOD Italy",Crime – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1  tvg-name="CSPAN HD" tvg-id="cspan" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="TheTVApp",CSPAN HD
-https://v12.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8?token=1-OXh1dWyj4amQSuYzddjA&expires=1761427187&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
 
 #EXTINF:-1  tvg-name="CTV News" tvg-id="CTV.News.Channel.ca" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/tAHqKVn.png" group-title="A1xmedia CA Channels" radio="false",CTV News
 https://a1xs.vip/610002
@@ -2023,9 +1924,6 @@ https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DION" tvg-logo="https://i.imgur.com/13MverN.png" tvg-id="DionTV.gr" group-title="Greece",DION
 https://rtmp.win:3650/live/diontvlive.m3u8
-
-#EXTINF:-1  tvg-name="Discovery HD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TheTVApp",Discovery HD
-https://e4.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=DWfaQC6UtQppEDAYxJ3zAg&expires=1761427244&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
 
 #EXTINF:-1  tvg-name="Divorce Court" tvg-id="99991346" tvg-logo="https://image.xumo.com/v1/channels/channel/99991346/168x168.png?type=color_onBlack" group-title="Xumo Streams",Divorce Court
 https://live-content.xumo.com/281/content/XM00G4BZC5TW1L/23029479/master.m3u8
@@ -2900,17 +2798,20 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951418/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1  tvg-name="FOX Business Network" tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="MoveOnJoy" radio="false",FOX Business Network
 https://fl30.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1  tvg-name="Fox Business Network HD" tvg-id="fox-business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TheTVApp",Fox Business Network HD
-https://e3.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=09bXp49ShexIbqu8BPrQvQ&expires=1761427471&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
-
 #EXTINF:-1  tvg-name="Fox Business Network SD" tvg-id="fox-business" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TheTVApp",Fox Business Network SD
-https://v13.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=0K1rr_Dc0M62MBZaQJ_QuA&expires=1761427461&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://e2.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=lLxdTE-DxBpbLo20q01MLw&expires=1761513842&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="FOX Deportes" tvg-id="63d0269d60bc8f000890facc" tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" tvg-chno="4550" group-title="PlutoTV - United States",FOX Deportes
 https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
 
+#EXTINF:-1  tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-deportes-flat-us.png?raw=true" group-title="DaddyLive USA",FOX Deportes USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium643%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
 #EXTINF:-1  tvg-name="Fox News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/m22eA9B.png" group-title="A1xmedia US Channels" radio="false",Fox News
 https://a1xs.vip/300011
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-channel-us.png" group-title="AriaPlus - United States",Fox News
+https://tvpass.org/live/FoxNewsChannel/hd
 
 #EXTINF:-1  tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="DaddyLive USA",Fox News
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium347%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
@@ -2918,8 +2819,8 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTINF:-1  tvg-name="FOX News Channel" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",FOX News Channel
 https://fl30.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTINF:-1  tvg-name="FOX News Channel HD" tvg-id="fox-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TheTVApp",FOX News Channel HD
-https://v8.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=M25NGc3TUmWhYX5KA_80mw&expires=1761427490&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+#EXTINF:-1  tvg-name="FOX News Channel SD" tvg-id="fox-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TheTVApp",FOX News Channel SD
+https://v2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=NzFE31RMD_uyafTlFqQT6w&expires=1761513861&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="AriaPlus - United States",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -3059,6 +2960,9 @@ https://jmp2.uk/stvp-GB5100001EW
 #EXTINF:-1  tvg-id="USBB2900003O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20250610T001034SQUARE.png" tvg-chno="1580" group-title="SamsungTVPlus - USA",Heartland (USA)
 https://jmp2.uk/stvp-USBB2900003O3
 
+#EXTINF:-1  tvg-name="HGTV HD" tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" group-title="TheTVApp",HGTV HD
+https://v18.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8?token=t-DqqwA7LPR4dWxqSyeW4Q&expires=1761514230&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
+
 #EXTINF:-1  tvg-name="Hi-Yah!" tvg-id="99991302" tvg-logo="https://image.xumo.com/v1/channels/channel/99991302/168x168.png?type=color_onBlack" group-title="Xumo Streams",Hi-Yah!
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=7500215b-526e-4e2f-91ec-a0ab38c04666&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
@@ -3067,9 +2971,6 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40694.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" group-title="AriaPlus - United States",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",Hockey - Boys High School Chicago Wolves Local Showcase: Chicago North vs New Trier Blue 17:00 (oct-25-2025 05:00 Pm Uk / Oct-25-2025 10:00 Am Mdt / Oct-25-2025 12:00 Pm Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium770%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-id="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20250819T032600SQUARE.png" tvg-chno="4067" group-title="SamsungTVPlus - UK",Homes Under the Hammer (UK)
 https://jmp2.uk/stvp-GBBC900013K9
@@ -3110,12 +3011,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a0
 #EXTINF:-1 tvg-name="Il Testimone – Pluto TV" tvg-logo="https://i.imgur.com/9NXL9kY.png" group-title="VOD Italy",Il Testimone – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Illinois Fighting Illini @ Washington Huskies - 10/25/25, 7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Illinois Fighting Illini @ Washington Huskies - 10/25/25 - 7:30:00 PM UTC HD
-https://v17.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8?token=Jw5sV4aaSTSnhJBBjHFodQ&expires=1761429244&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Illinois Fighting Illini @ Washington Huskies - 10/25/25, 7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Illinois Fighting Illini @ Washington Huskies - 10/25/25 - 7:30:00 PM UTC SD
-https://v17.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8?token=8XhWXfMqbUXjDT2joMj6Ew&expires=1761429239&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1  tvg-name="Impossible – Quiz Show" tvg-id="99991781" tvg-logo="https://image.xumo.com/v1/channels/channel/99991781/168x168.png?type=color_onBlack" group-title="Xumo Streams",Impossible – Quiz Show
 https://dbrb49pjoymg4.cloudfront.net/10001/99991781/hls/playlist.m3u8?ads.xumo_channelId=99991781&ads._fw_ifa_type=&ads._fw_did=24ccac7f-950e-4d3f-9dc4-09c33a383d01&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCImpossible&ads.csid=xumo_web_BBCImpossible_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2645&ads.xumo_contentName=BBCImpossible&ads.xumo_providerId=2645&ads.xumo_providerName=BBCImpossible&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991781&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
@@ -3131,8 +3026,8 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Brazil",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
-#EXTINF:-1  tvg-name="ITV Deportes" tvg-id="647f8d22a2fc3fadb4721685-688d3402a6fe30698ab42007" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="PlexTV - Canada",ITV Deportes
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-688d3402a6fe30698ab42007.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Italy Serie a: Virtus Bologna vs Dinamo Sassari 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium628%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 #EXTINF:-1  tvg-name="ITV Deportes" tvg-id="608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="PlexTV - Mexico",ITV Deportes
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007.m3u8
@@ -3151,12 +3046,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c9
 
 #EXTINF:-1  tvg-name="Kali Roses - Blacked" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Kali Roses - Blacked
 http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Kali%20Roses%20-%20Blacked/BlackedRaw.18.07.21.Kali.Roses.Call.You.Tomorrow.XXX.1080p.HEVC.x265.PRT.mkv
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Kansas State Wildcats @ Kansas Jayhawks - 10/25/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kansas State Wildcats @ Kansas Jayhawks - 10/25/25 - 4:00:00 PM UTC HD
-https://v2.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=Z5pEMEmnPQ8YC5yMH9JVcA&expires=1761429135&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Kansas State Wildcats @ Kansas Jayhawks - 10/25/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Kansas State Wildcats @ Kansas Jayhawks - 10/25/25 - 4:00:00 PM UTC SD
-https://v16.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8?token=7LXTuBWTjpIwTRBnOwedXA&expires=1761429130&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
 
 #EXTINF:-1  tvg-name="Kartoon Channel!" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="PlutoTV - United States",Kartoon Channel!
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
@@ -3206,12 +3095,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8
 #EXTINF:-1 tvg-name="Le vite degli altri – Pluto TV" tvg-logo="https://i.imgur.com/nngMFi5.png" group-title="VOD Italy",Le vite degli altri – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Lega a: Tortona vs Trapani 18:30 (oct-25-2025 06:30 Pm Uk / Oct-25-2025 11:30 Am Mdt / Oct-25-2025 01:30 Pm Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium581%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Lega a: Tortona vs Trapani 18:30 (oct-25-2025 06:30 Pm Uk / Oct-25-2025 11:30 Am Mdt / Oct-25-2025 01:30 Pm Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium630%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
 #EXTINF:-1 tvg-name="Libertas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" tvg-id="LibertasTV.hr" group-title="Croatia",Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
@@ -3226,12 +3109,6 @@ https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8?show_vt
 
 #EXTINF:-1  tvg-name="Lofi Hip-Hop Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/580fbaac440243d8731ffc57/46cb49b3-63d7-40e1-9cd0-540fbecdc39c/Lofi+Girl+16x9.jpeg" group-title="DrewLive Fan Made TV" radio="false",Lofi Hip-Hop Radio
 https://rumble.com/live-hls/1essrt/playlist.m3u8?
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays - 10/26/25, 12:01:00 AM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Los Angeles Dodgers @ Toronto Blue Jays - 10/26/25 - 12:01:00 AM UTC HD
-https://v4.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=xZRdTZWtY-MpqPo-cTj3pg&expires=1761429057&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays - 10/26/25, 12:01:00 AM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="TheTVApp - MLB",Los Angeles Dodgers @ Toronto Blue Jays - 10/26/25 - 12:01:00 AM UTC SD
-https://v1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=Y3RevQUgh0uHNI9k38kp9w&expires=1761429051&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
 
 #EXTINF:-1  tvg-name="Los Padrinos Mágicos" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" tvg-chno="1465" group-title="PlutoTV - Mexico",Los Padrinos Mágicos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
@@ -3257,12 +3134,6 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40683.ts
 #EXTINF:-1 tvg-name="Mega News" tvg-logo="https://i.imgur.com/Z3k7iA0.png" tvg-id="MegaChannel.gr" group-title="Greece",Mega News
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Minnesota Golden Gophers @ Iowa Hawkeyes - 10/25/25, 7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Minnesota Golden Gophers @ Iowa Hawkeyes - 10/25/25 - 7:30:00 PM UTC HD
-https://v2.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=aaV_0iFlNTVPxDRc990fYw&expires=1761429386&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Minnesota Golden Gophers @ Iowa Hawkeyes - 10/25/25, 7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Minnesota Golden Gophers @ Iowa Hawkeyes - 10/25/25 - 7:30:00 PM UTC SD
-https://e4.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=RjIDeM_SPiBKOeNbPWuOvQ&expires=1761429381&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik0rUt8A8pfM5PLHOw-La3mLukPvJv89DF6F7RBTpVY1M.png" group-title="AriaPlus - Canada",Miracle
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40681.ts
 
@@ -3284,20 +3155,17 @@ https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8
 #EXTINF:-1  tvg-id="MSNBC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true" group-title="DaddyLive USA",MSNBC
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium327%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-us.png" group-title="AriaPlus - United States",MSNBC (Soon to be MSNOW)
+https://tvpass.org/live/MSNBC/hd
+
 #EXTINF:-1  tvg-name="MSNBC FHD" tvg-id="MSNBC.HD.us2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/hYkqMdI.png" group-title="A1xmedia US Channels" radio="false",MSNBC
 https://a1xs.vip/300008
 
-#EXTINF:-1  tvg-name="MSNBC SD" tvg-id="msnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="TheTVApp",MSNBC SD
-https://v16.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8?token=xxhsiB9U_1eLINggcq_bkQ&expires=1761428104&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
-
-#EXTINF:-1  tvg-name="MSNBC USA SD" tvg-id="msnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="TVPass",MSNBC USA SD
-https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1  tvg-name="MSNBC HD" tvg-id="msnbc-usa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="TheTVApp",MSNBC HD
+https://v14.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8?token=1uK08nZP7I295QmhdswbMg&expires=1761514494&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1 tvg-id="National.Geographic.Canada.ca" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40674.ts
-
-#EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://i.ibb.co/N28fsF0z/National-Geographic-Wild-logo-svg.png" group-title="AriaPlus - Canada",National Geographic Wild
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48380.ts
 
 #EXTINF:-1 tvg-name="Natura – Pluto TV" tvg-logo="https://i.imgur.com/Pc4gx12.png" tvg-id="PlutoTVNaturaItaly.it" group-title="VOD Italy",Natura – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -3335,9 +3203,6 @@ https://jmp2.uk/plu-65790cda6e4f6a0008768764.m3u8
 #EXTINF:-1  tvg-name="NBC News NOW" tvg-id="plex.tv.NBC.News.NOW.plex" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zRGFEyD.png" group-title="A1xmedia US Channels" radio="false",NBC News NOW
 https://a1xs.vip/300013
 
-#EXTINF:-1  tvg-name="NBC News NOW" tvg-id="647f8d22a2fc3fadb4721685-5fc70600dd53a6002d8f93ca" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="PlexTV - Canada",NBC News NOW
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fc70600dd53a6002d8f93ca.m3u8
-
 #EXTINF:-1  tvg-name="NBC News NOW" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" tvg-chno="2531" group-title="PlutoTV - United States",NBC News NOW
 https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
 
@@ -3355,21 +3220,6 @@ https://jmp2.uk/stvp-GBBB1500004LG
 
 #EXTINF:-1  tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" tvg-chno="1114" group-title="SamsungTVPlus - USA",NBC News NOW (USA)
 https://jmp2.uk/stvp-USBB2200014DK
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Nbl: Perth vs Illawarra Hawks 08:55 (oct-25-2025 08:55 Am Uk / Oct-25-2025 01:55 Am Mdt / Oct-25-2025 03:55 Am Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium145%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="NC State Wolfpack @ Pittsburgh Panthers - 10/25/25, 7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",NC State Wolfpack @ Pittsburgh Panthers - 10/25/25 - 7:30:00 PM UTC HD
-https://v18.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=E_9JZCgVT-EcsfDZIKyQOw&expires=1761429288&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="NC State Wolfpack @ Pittsburgh Panthers - 10/25/25, 7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",NC State Wolfpack @ Pittsburgh Panthers - 10/25/25 - 7:30:00 PM UTC SD
-https://v3.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=tMDl8L2BH7g8jzjvYT5ONQ&expires=1761429282&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="DaddyLive - NCAA Football",NCAAF: Northwestern At Nebraska 16:00 (oct-25-2025 04:00 Pm Uk / Oct-25-2025 09:00 Am Mdt / Oct-25-2025 11:00 Am Edt)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium39%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="News 12 New York" tvg-id="647f8d22a2fc3fadb4721685-5fc6f3a62b6f7b002e77ffaa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07ef54b2-5faf-49d0-a39f-df2775769839/news12ny_logo_dark.png" group-title="PlexTV - Canada",News 12 New York
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fc6f3a62b6f7b002e77ffaa.m3u8
 
 #EXTINF:-1  tvg-name="News 12 New York" tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" tvg-chno="5190" group-title="PlutoTV - United States",News 12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
@@ -3390,16 +3240,13 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 https://a1xs.vip/300012
 
 #EXTINF:-1  tvg-name="Newsmax TV HD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="TheTVApp",Newsmax TV HD
-https://v5.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=994NpOfUilZO-Bq8hXyqNg&expires=1761428208&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://e3.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=NVLYjvujcEyc3r9iGhHXUQ&expires=1761514588&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="Newsmax TV SD" tvg-id="newsmax-tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="TheTVApp",Newsmax TV SD
-https://v18.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=sDXkZKFb_LvxeMtNJFOGFQ&expires=1761428199&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
+https://v17.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8?token=Djtw5mLCsJYOWEIgY2vyAQ&expires=1761514579&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-id="Newsmax.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" group-title="DaddyLive USA",Newsmax USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium613%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="Newsmax2" tvg-id="647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="PlexTV - Canada",Newsmax2
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335.m3u8
 
 #EXTINF:-1  tvg-name="Newsmax2" tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" tvg-chno="2670" group-title="PlutoTV - United States",Newsmax2
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
@@ -3425,12 +3272,6 @@ https://jmp2.uk/stvp-GBBC900003B2
 #EXTINF:-1 tvg-name="När-TV Ⓢ" tvg-logo="https://i.imgur.com/Ht5yePq.png" tvg-id="NarTV.fi" group-title="Finland",När-TV Ⓢ
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ole Miss Rebels @ Oklahoma Sooners - 10/25/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Ole Miss Rebels @ Oklahoma Sooners - 10/25/25 - 4:00:00 PM UTC HD
-https://v18.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=11cN_k_JbXe-KTikiFPYMQ&expires=1761429102&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Ole Miss Rebels @ Oklahoma Sooners - 10/25/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Ole Miss Rebels @ Oklahoma Sooners - 10/25/25 - 4:00:00 PM UTC SD
-https://v17.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=gKjQYQXX4hEaHJKNq_0NZQ&expires=1761429097&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1  tvg-name="One Worldwide Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://www.radio.net/300/oneworldradio.png?version=5e057726c634db79edab2931efc0fab5" group-title="DrewFX - House" radio="true",One Worldwide Radio
 https://listen.radioking.com/radio/316403/stream/363812
 
@@ -3443,11 +3284,8 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="VOD Movies (EN)",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-name="Partenope Tv" tvg-logo="https://i.imgur.com/FtuWkj1.png" group-title="Italy",Partenope Tv
-https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
-
-#EXTINF:-1  tvg-name="party tyme karaoke" tvg-id="647f8d22a2fc3fadb4721685-5eea605674085f0040ddc7ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="PlexTV - Canada",party tyme karaoke
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea605674085f0040ddc7ac.m3u8
+#EXTINF:-1  tvg-name="party tyme karaoke" tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="PlexTV - Australia",party tyme karaoke
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac.m3u8
 
 #EXTINF:-1  tvg-name="Paternity Court" tvg-id="ce8a61a75e94b71f52ad51ed92b1ec65" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ce8a61a75e94b71f52ad51ed92b1ec65/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749753178405_PaternityCourt_HUDLogo_Centered_260x147.png" tvg-chno="635" group-title="RokuTV",Paternity Court
 https://jmp2.uk/rok-ce8a61a75e94b71f52ad51ed92b1ec65.m3u8
@@ -3596,6 +3434,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1  tvg-name="Rick and Morty" tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rick%26Morty.png" group-title="DrewLive Adult Swim 24/7" radio="false",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - El Clasico (Laliga)
+https://slvt.gptinfra.in/deportes.m3u8
+
 #EXTINF:-1 tvg-name="RT Documentary English Ⓖ" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries (EN)",RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
@@ -3704,9 +3545,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Rutgers Scarlet Knights @ Purdue Boilermakers - 10/25/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Rutgers Scarlet Knights @ Purdue Boilermakers - 10/25/25 - 4:00:00 PM UTC SD
-https://e2.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8?token=IQ2T0JKwH9pnkCE3Zsezcg&expires=1761429086&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1  tvg-name="Ruth Lee" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Ruth Lee
 https://cdn.baddiehub.com/RthL20.mp4
 
@@ -3745,9 +3583,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991148/hls/playlist.m3u8?ads.xumo_c
 
 #EXTINF:-1  tvg-id="USBD3000073N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png" tvg-chno="1119" group-title="SamsungTVPlus - USA",Scripps News (USA)
 https://jmp2.uk/stvp-USBD3000073N
-
-#EXTINF:-1  tvg-name="SEC Network SD" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" group-title="TheTVApp",SEC Network SD
-https://e4.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=y8LeSQRtT4xO-wL0yS7uVQ&expires=1761428445&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
 
 #EXTINF:-1 tvg-name="Serie – Pluto TV" tvg-logo="https://i.imgur.com/CHBhRZr.png" tvg-id="PlutoTVSerieItaly.it" group-title="VOD Italy",Serie – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -3797,12 +3632,6 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTINF:-1 tvg-id="slice.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/slice-ca.png" group-title="AriaPlus - Canada",Slice
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40622.ts
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="SMU Mustangs @ Wake Forest Demon Deacons - 10/25/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",SMU Mustangs @ Wake Forest Demon Deacons - 10/25/25 - 4:00:00 PM UTC HD
-https://v15.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=imsHbXY-8ti3GqNSVnVVMA&expires=1761429069&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="SMU Mustangs @ Wake Forest Demon Deacons - 10/25/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",SMU Mustangs @ Wake Forest Demon Deacons - 10/25/25 - 4:00:00 PM UTC SD
-https://v8.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=dG0lKrMIDekrasKfRg08NA&expires=1761429064&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1 tvg-name="South Park – Pluto TV" tvg-logo="https://i.imgur.com/06wIdRV.png" group-title="VOD Italy",South Park – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -3830,8 +3659,14 @@ http://108.14.66.42:5004/auto/v2.2
 #EXTINF:-1  tvg-name="Start TV" tvg-id="Start.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" group-title="MoveOnJoy" radio="false",Start TV
 https://fl30.moveonjoy.com/Start_Tv/index.m3u8
 
+#EXTINF:-1  tvg-name="Startalk TV" tvg-id="5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="PlexTV - Australia",Startalk TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c.m3u8
+
 #EXTINF:-1  tvg-name="Startalk TV" tvg-id="647f8d22a2fc3fadb4721685-664292a80e0ec7b4ce5eb28c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="PlexTV - Canada",Startalk TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-664292a80e0ec7b4ce5eb28c.m3u8
+
+#EXTINF:-1  tvg-name="Startalk TV" tvg-id="608049aefa2b8ae93c2c3a63-664292a80e0ec7b4ce5eb28c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="PlexTV - Mexico",Startalk TV
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-664292a80e0ec7b4ce5eb28c.m3u8
 
 #EXTINF:-1 tvg-id="STARZ1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/starz-1-ca.png" group-title="AriaPlus - Canada",STARZ
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40718.ts
@@ -3865,9 +3700,6 @@ https://jmp2.uk/stvp-GBBC90001089
 
 #EXTINF:-1 tvg-id="Super.Channel.Heart.and.Home.ca" tvg-logo="https://media.starlite.best/super.channel.heart.home.ca.png" group-title="AriaPlus - Canada",Super Channel Heart & Home
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112834.ts
-
-#EXTINF:-1  tvg-name="Super Channel Hearties" tvg-id="6729d651c7626f0008b5dacf" tvg-logo="https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/colorLogoPNG_1731836415501.png" tvg-chno="307" group-title="PlutoTV - Canada",Super Channel Hearties
-https://jmp2.uk/plu-6729d651c7626f0008b5dacf.m3u8
 
 #EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/super-ecran-1-ca.png" group-title="AriaPlus - Canada",Super Ecran 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40612.ts
@@ -3914,6 +3746,9 @@ https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" group-title="Italy",Supertv
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
+#EXTINF:-1 group-title="JapanTV" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
+
 #EXTINF:-1 tvg-name="Teen Mom – Pluto TV" tvg-logo="https://i.imgur.com/LdiTgeW.png" group-title="VOD Italy",Teen Mom – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -3935,200 +3770,26 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951225/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1  tvg-name="Telemundo Noticias Noreste" tvg-id="99951228" tvg-logo="https://image.xumo.com/v1/channels/channel/99951228/168x168.png?type=color_onBlack" group-title="Xumo Streams",Telemundo Noticias Noreste
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951228/hls/playlist.m3u8?ads.xumo_channelId=99951228&ads.asnw=169843&ads.afid=367536432&ads.sfid=18547008&ads.caid=tlmdnortheast_linear&ads.csid=xumo_web_TelemundoNoticiasNoreste_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=4eda19b4-f67c-45ff-811e-bf4813472b56&ads._fw_vcid2=512116:4eda19b4-f67c-45ff-811e-bf4813472b56&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.channelId=99951228&ads._fw_ifa_type=
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Tennessee Volunteers @ Kentucky Wildcats - 10/25/25, 11:45:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Tennessee Volunteers @ Kentucky Wildcats - 10/25/25 - 11:45:00 PM UTC HD
-https://v17.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=uQ33--2x_8s4MYVsC4-DIw&expires=1761429528&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Tennessee Volunteers @ Kentucky Wildcats - 10/25/25, 11:45:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Tennessee Volunteers @ Kentucky Wildcats - 10/25/25 - 11:45:00 PM UTC SD
-https://v15.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=sPdhUf9csJTB_6BzbBXCRA&expires=1761429522&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1  tvg-name="Tessa Thomas - DirtyAuditions" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Tessa Thomas - DirtyAuditions
 http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Tessa%20Thomas%20-%20DirtyAuditions/Tessa.Thomas.Try.and.See.How.More.You.Can.Gape.It.1080.mp4
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Texas A&M Aggies @ LSU Tigers - 10/25/25, 11:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas A&M Aggies @ LSU Tigers - 10/25/25 - 11:30:00 PM UTC HD
-https://e3.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=U7lQAZOgNhpTK6lD27VdhQ&expires=1761429506&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Texas A&M Aggies @ LSU Tigers - 10/25/25, 11:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas A&M Aggies @ LSU Tigers - 10/25/25 - 11:30:00 PM UTC SD
-https://e2.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8?token=rgvGk7nrYW6zrR_LfBJQ9g&expires=1761429501&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Texas Longhorns @ Mississippi State Bulldogs - 10/25/25, 8:15:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas Longhorns @ Mississippi State Bulldogs - 10/25/25 - 8:15:00 PM UTC HD
-https://e5.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=-0-lmPNUKQ1VUXfpCq8wxw&expires=1761429419&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Texas Longhorns @ Mississippi State Bulldogs - 10/25/25, 8:15:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Texas Longhorns @ Mississippi State Bulldogs - 10/25/25 - 8:15:00 PM UTC SD
-https://e5.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8?token=Maeudh_x2MLBq2VbQulHiw&expires=1761429413&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
 
 #EXTINF:-1 tvg-name="The Asylum – Pluto TV" tvg-logo="https://i.imgur.com/S2jlaiJ.png" group-title="VOD Italy",The Asylum – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d5369e48940007fc1dc1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1  tvg-name="The Boondocks - S01E01 - The Garden Party" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E01 - The Garden Party
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E01%20-%20The%20Garden%20Party.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E02 - The Trial Of R Kelly" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E02 - The Trial Of R Kelly
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E02%20-%20The%20Trial%20Of%20R%20Kelly.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E03 - Guess Hoes Coming To Dinner" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E03 - Guess Hoes Coming To Dinner
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E03%20-%20Guess%20Hoes%20Coming%20To%20Dinner.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E04 - Granddads Fight" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E04 - Granddads Fight
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E04%20-%20Granddads%20Fight.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E05 - A Date With The Health Inspector" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E05 - A Date With The Health Inspector
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E05%20-%20A%20Date%20With%20The%20Health%20Inspector.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E06 - The Story Of Gangstalicious" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E06 - The Story Of Gangstalicious
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E06%20-%20The%20Story%20Of%20Gangstalicious.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E07 - A Huey Freeman Christmas" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E07 - A Huey Freeman Christmas
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E07%20-%20A%20Huey%20Freeman%20Christmas.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E08 - The Real" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E08 - The Real
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E08%20-%20The%20Real.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E09 - Return Of The King" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E09 - Return Of The King
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E09%20-%20Return%20Of%20The%20King.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E10 - The Itis" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E10 - The Itis
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E10%20-%20The%20Itis.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E11 - Let's Nab Oprah" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E11 - Let's Nab Oprah
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E11%20-%20Let%E2%80%99S%20Nab%20Oprah.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E12 - Riley Wuz Here" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E12 - Riley Wuz Here
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E12%20-%20Riley%20Wuz%20Here.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E13 - Wingmen" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E13 - Wingmen
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E13%20-%20Wingmen.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E14 - The Block Is Hot" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E14 - The Block Is Hot
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E14%20-%20The%20Block%20Is%20Hot.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S01E15 - The Passion Of Reverend Ruckus" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Boondocks_season_1_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S01E15 - The Passion Of Reverend Ruckus
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%201/The%20Boondocks%20-%20S01E15%20-%20The%20Passion%20Of%20Reverend%20Ruckus.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E01 - …Or Die Trying" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E01 - …Or Die Trying
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E01%20-%20%E2%80%A6Or%20Die%20Trying.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E02 - Tom.. Sarah And Usher" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E02 - Tom.. Sarah And Usher
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E02%20-%20Tom%2C%20Sarah%20And%20Usher.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E03 - Thank You For Not Snitching" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E03 - Thank You For Not Snitching
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E03%20-%20Thank%20You%20For%20Not%20Snitching.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E04 - Stinkmeaner Strikes Back" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E04 - Stinkmeaner Strikes Back
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E04%20-%20Stinkmeaner%20Strikes%20Back.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E05 - The Story Of Thugnificent" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E05 - The Story Of Thugnificent
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E05%20-%20The%20Story%20Of%20Thugnificent.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E06 - Attack Of The Killer Kung-Fu Wolf Bitch" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E06 - Attack Of The Killer Kung-Fu Wolf Bitch
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E06%20-%20Attack%20Of%20The%20Killer%20Kung-Fu%20Wolf%20Bitch.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E07 - Shinin'" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E07 - Shinin'
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E07%20-%20Shinin%27.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E08 - Ballin'" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E08 - Ballin'
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E08%20-%20Ballin%27.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E09 - The Invasion Of The Katrinians" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E09 - The Invasion Of The Katrinians
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E09%20-%20The%20Invasion%20Of%20The%20Katrinians.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E10 - Home Alone" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E10 - Home Alone
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E10%20-%20Home%20Alone.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E11 - The S-Word" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E11 - The S-Word
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E11%20-%20The%20S-Word.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E12 - The Story Of Catcher Freeman" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E12 - The Story Of Catcher Freeman
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E12%20-%20The%20Story%20Of%20Catcher%20Freeman.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E13 - The Story Of Gangstalicious Part 2" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E13 - The Story Of Gangstalicious Part 2
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E13%20-%20The%20Story%20Of%20Gangstalicious%20Part%202.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E14 - The Hunger Strike" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E14 - The Hunger Strike
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E14%20-%20The%20Hunger%20Strike.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S02E15 - Uncle Ruckus Reality Show" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Boondocks_season_2_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S02E15 - Uncle Ruckus Reality Show
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%202/The%20Boondocks%20-%20S02E15%20-%20Uncle%20Ruckus%20Reality%20Show.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E01 - It's A Black President.. Huey Freeman" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E01 - It's A Black President.. Huey Freeman
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E01%20-%20It%27s%20A%20Black%20President%2C%20Huey%20Freeman.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E02 - Bitches To Rags" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E02 - Bitches To Rags
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E02%20-%20Bitches%20To%20Rags.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E03 - The Red Ball" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E03 - The Red Ball
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E03%20-%20The%20Red%20Ball.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E04 - The Story Of Jimmy Rebel" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E04 - The Story Of Jimmy Rebel
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E04%20-%20The%20Story%20Of%20Jimmy%20Rebel.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E05 - Stinkmeaner 3 The Hateocracy" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E05 - Stinkmeaner 3 The Hateocracy
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E05%20-%20Stinkmeaner%203%20The%20Hateocracy.mkv
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E06 - Smokin' With Cigarettes" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E06 - Smokin' With Cigarettes
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E06%20-%20Smokin%27%20With%20Cigarettes.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E07 - The Fundraiser" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E07 - The Fundraiser
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E07%20-%20The%20Fundraiser.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E08 - A Date With The Booty Warrior" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E08 - A Date With The Booty Warrior
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E08%20-%20A%20Date%20With%20The%20Booty%20Warrior.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E09 - The Story Of Lando Freeman" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E09 - The Story Of Lando Freeman
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E09%20-%20The%20Story%20Of%20Lando%20Freeman.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E10 - Pause" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E10 - Pause
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E10%20-%20Pause.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E11 - Lovely Ebony Brown" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E11 - Lovely Ebony Brown
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E11%20-%20Lovely%20Ebony%20Brown.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E12 - Mr. Medicinal" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E12 - Mr. Medicinal
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E12%20-%20Mr.%20Medicinal.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E13 - The Fried Chicken Flu" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E13 - The Fried Chicken Flu
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E13%20-%20The%20Fried%20Chicken%20Flu.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E14 - The Color Ruckus" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E14 - The Color Ruckus
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E14%20-%20The%20Color%20Ruckus.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S03E15 - It's Goin' Down" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Boondocks_season_3_DVD.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S03E15 - It's Goin' Down
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%203/The%20Boondocks%20-%20S03E15%20-%20It%27s%20Goin%27%20Down.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S04E01 - Pretty Boy Flizzy" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E01 - Pretty Boy Flizzy
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E01%20-%20Pretty%20Boy%20Flizzy.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S04E02 - Good Times" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E02 - Good Times
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E02%20-%20Good%20Times.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S04E03 - Breaking Grandad" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E03 - Breaking Grandad
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E03%20-%20Breaking%20Grandad.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S04E04 - Early Bird Special" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E04 - Early Bird Special
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E04%20-%20Early%20Bird%20Special.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S04E05 - Freedom Ride Or Die" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E05 - Freedom Ride Or Die
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E05%20-%20Freedom%20Ride%20Or%20Die.mp4
-
 #EXTINF:-1  tvg-name="The Boondocks - S04E06 - Granddad Dates A Kardashian" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E06 - Granddad Dates A Kardashian
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E06%20-%20Granddad%20Dates%20A%20Kardashian.mp4
 
-#EXTINF:-1  tvg-name="The Boondocks - S04E07 - Freedomland" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E07 - Freedomland
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E07%20-%20Freedomland.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S04E08 - I Dream Of Siri" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E08 - I Dream Of Siri
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E08%20-%20I%20Dream%20Of%20Siri.mp4
-
 #EXTINF:-1  tvg-name="The Boondocks - S04E09 - Stinkmeaner- Begun The Clone War" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E09 - Stinkmeaner- Begun The Clone War
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E09%20-%20Stinkmeaner-%20Begun%20The%20Clone%20War.mp4
-
-#EXTINF:-1  tvg-name="The Boondocks - S04E10 - The New Black" tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Boondocks_season_4.png" group-title="DrewLive Cartoons - The Boondocks" radio="false",The Boondocks - S04E10 - The New Black
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Boondocks/Season%204/The%20Boondocks%20-%20S04E10%20-%20The%20New%20Black.mp4
 
 #EXTINF:-1  tvg-id="400000155" tvg-logo="https://canvas-lb.tubitv.com/opts/aJMiL7C9b6KOFA==/fa2f8c60-0492-4a50-a92d-4a034e9f89f3/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",The Breakfast Club on iHeartRadio
 https://live-manifest.production-public.tubi.io/live/01eff731-e659-4011-9c28-bc1e7b0d8151/playlist.m3u8
 
 #EXTINF:-1  tvg-name="The Carol Burnett Show" tvg-id="99951380" tvg-logo="https://image.xumo.com/v1/channels/channel/99951380/168x168.png?type=color_onBlack" group-title="Xumo Streams",The Carol Burnett Show
 https://dbrb49pjoymg4.cloudfront.net/10001/99951380/hls/playlist.m3u8?ads.xumo_channelId=99951380&ads._fw_ifa_type=&ads._fw_did=18c8b548-cb82-42c5-9b25-73303bbc3dae&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ShoutFactoryTheCarolBurnettShow&ads.csid=xumo_web_ShoutFactoryTheCarolBurnettShow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4181&ads.xumo_contentName=ShoutFactoryTheCarolBurnettShow&ads.xumo_providerId=4181&ads.xumo_providerName=ShoutFactoryTheCarolBurnettShow&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951380&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-name="The CW (WPIX New York) HD" tvg-id="wpix-new-york-superstation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" group-title="TheTVApp",The CW (WPIX New York) HD
+https://e2.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=U4XuRg7qEX2C8eBbcd_meQ&expires=1761515041&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
 
 #EXTINF:-1  tvg-name="The Graham Norton Show" tvg-id="66166ce7aec96800080f6bd3" tvg-logo="https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/colorLogoPNG.png" tvg-chno="515" group-title="PlutoTV - Canada",The Graham Norton Show
 https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8
@@ -4151,11 +3812,20 @@ https://jmp2.uk/stvp-GBBC4000002H3
 #EXTINF:-1  tvg-id="GBBC4300005AL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300005AL_20250107T025817SQUARE.png" tvg-chno="4802" group-title="SamsungTVPlus - UK",The LEGO Channel (UK)
 https://jmp2.uk/stvp-GBBC4300005AL
 
+#EXTINF:-1  tvg-name="The Martha Stewart Channel" tvg-id="5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2426b3e1-57b3-4f1c-84a8-df9a49d95414/MSChannel_Logo_Light_-_Kimberly_Dumer.png" group-title="PlexTV - Australia",The Martha Stewart Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-672948f0297d4ea7584a2e13.m3u8
+
 #EXTINF:-1  tvg-name="The Martha Stewart Channel" tvg-id="647f8d22a2fc3fadb4721685-672948f0297d4ea7584a2e13" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2426b3e1-57b3-4f1c-84a8-df9a49d95414/MSChannel_Logo_Light_-_Kimberly_Dumer.png" group-title="PlexTV - Canada",The Martha Stewart Channel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-672948f0297d4ea7584a2e13.m3u8
 
+#EXTINF:-1  tvg-name="The Martha Stewart Channel" tvg-id="608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2426b3e1-57b3-4f1c-84a8-df9a49d95414/MSChannel_Logo_Light_-_Kimberly_Dumer.png" group-title="PlexTV - Mexico",The Martha Stewart Channel
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13.m3u8
+
 #EXTINF:-1  tvg-name="The Martha Stewart Channel" tvg-id="67b4b8b47d8025b1610a0a57" tvg-logo="https://images.pluto.tv/channels/67b4b8b47d8025b1610a0a57/colorLogoPNG.png" tvg-chno="581" group-title="PlutoTV - Canada",The Martha Stewart Channel
 https://jmp2.uk/plu-67b4b8b47d8025b1610a0a57.m3u8
+
+#EXTINF:-1  tvg-name="The Martha Stewart Channel" tvg-id="67c62ac2095aea2ec805eb34" tvg-logo="https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/colorLogoPNG.png" tvg-chno="3300" group-title="PlutoTV - United States",The Martha Stewart Channel
+https://jmp2.uk/plu-67c62ac2095aea2ec805eb34.m3u8
 
 #EXTINF:-1  tvg-id="CA4500001CL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4500001CL_20250805T010251SQUARE.png" tvg-chno="2107" group-title="SamsungTVPlus - CA",The Martha Stewart Channel (CA)
 https://jmp2.uk/stvp-CA4500001CL
@@ -4169,8 +3839,14 @@ https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1  tvg-name="The Powerpuff Girls Movie (2002)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMxMDVkYzMtY2IyNS00NmIyLTkzYmEtNzhmOTBlM2NhNjUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="DrewLive - VOD" radio="false",The Powerpuff Girls Movie (2002)
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/The%20Powerpuff%20Girls/Movies/The%20Powerpuff%20Girls%20Movie.mp4
 
+#EXTINF:-1  tvg-name="The Reuters 60" tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="PlexTV - Australia",The Reuters 60
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
+
 #EXTINF:-1  tvg-name="The Reuters 60" tvg-id="647f8d22a2fc3fadb4721685-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="PlexTV - Canada",The Reuters 60
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea71d65252710041e0ccbc.m3u8
+
+#EXTINF:-1  tvg-name="The Reuters 60" tvg-id="608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="PlexTV - Mexico",The Reuters 60
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8
 
 #EXTINF:-1  tvg-id="GBBC900004G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900004G9_20250107T025820SQUARE.png" tvg-chno="4352" group-title="SamsungTVPlus - UK",The Wicked Tuna Channel (UK)
 https://jmp2.uk/stvp-GBBC900004G9
@@ -4180,12 +3856,6 @@ https://jmp2.uk/rok-ccfcc3307fa908684a95bf9643b1b935.m3u8
 
 #EXTINF:-1  tvg-name="Tiffany & HMR" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Tiffany & HMR
 https://cdn.baddiehub.com/HMRTiffn.mp4
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Toledo Rockets @ Washington State Cougars - 10/25/25, 7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Toledo Rockets @ Washington State Cougars - 10/25/25 - 7:30:00 PM UTC HD
-https://v14.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=XCPbJOI12DQCNT5P-Zcf7A&expires=1761429255&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Toledo Rockets @ Washington State Cougars - 10/25/25, 7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Toledo Rockets @ Washington State Cougars - 10/25/25 - 7:30:00 PM UTC SD
-https://v2.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=KXMwpw7bS8sZdhwAfNaJNA&expires=1761429250&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
 
 #EXTINF:-1  tvg-name="Top Gear" tvg-id="99951249" tvg-logo="https://image.xumo.com/v1/channels/channel/99951249/168x168.png?type=color_onBlack" group-title="Xumo Streams",Top Gear
 https://dbrb49pjoymg4.cloudfront.net/10001/99951249/hls/playlist.m3u8?ads.xumo_channelId=99951249&ads._fw_ifa_type=&ads._fw_did=e176fa06-1607-42fc-84a7-f54e029a8073&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BBCTopGear&ads.csid=xumo_web_BBCTopGear_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3953&ads.xumo_contentName=BBCTopGear&ads.xumo_providerId=3953&ads.xumo_providerName=BBCTopGear&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951249&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -4213,6 +3883,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f988
 
 #EXTINF:-1  tvg-id="GBBC900001SC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20250107T025823SQUARE.png" tvg-chno="4717" group-title="SamsungTVPlus - UK",Trace Urban (UK)
 https://jmp2.uk/stvp-GBBC900001SC
+
+#EXTINF:-1  tvg-name="Travel Channel HD" tvg-id="travel-us-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="TheTVApp",Travel Channel HD
+https://v3.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8?token=5J8BWQDt2hPr7PrHtXsRTw&expires=1761515135&user_id=YVZMME94NEx6eGpCdFRoYlBua3k5NU9UWXFMaklGd0ZibkNlN2ZDbw==
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" group-title="Turkey",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" group-title="Turkey",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -4259,26 +3935,11 @@ https://www.youtube.com/tvcnewsnigeria/live
 #EXTINF:-1 tvg-id="tltoon.franais.ca" tvg-logo="https://media.starlite.best/tltoon.franais.ca.png" group-title="AriaPlus - Canada",Télétoon
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40604.ts
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="UCLA Bruins @ Indiana Hoosiers - 10/25/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UCLA Bruins @ Indiana Hoosiers - 10/25/25 - 4:00:00 PM UTC HD
-https://v12.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=WysEH99H4UfAi9j5sS_m7Q&expires=1761429179&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="UCLA Bruins @ Indiana Hoosiers - 10/25/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",UCLA Bruins @ Indiana Hoosiers - 10/25/25 - 4:00:00 PM UTC SD
-https://v12.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=8UblLfF802HCkiCGEgJyoA&expires=1761429173&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1  tvg-name="Universal Kids HD" tvg-id="universal-kids" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/universal-kids-us.png?raw=true" group-title="TheTVApp",Universal Kids HD
-https://e3.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8?token=ks_XDwOr4Fh7lg3a8lJSDQ&expires=1761428814&user_id=dzJ2cEJoTTVjQlVGTWhaRVRhRk5MWDBEdVVveUZvU1ZvaWVXNmpTWQ==
-
 #EXTINF:-1  tvg-name="Universal Movies" tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Xumo Streams",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=17dbaf09-7652-4d8d-be7a-fad8d2c2791b&ads._fw_vcid2=512116:17dbaf09-7652-4d8d-be7a-fad8d2c2791b&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 
 #EXTINF:-1  tvg-name="Unusual Art" tvg-id="24.7.Dummy.us" tvg-logo="https://stream.unusualart.net/logo" group-title="DrewLive Fan Made TV" radio="false",Unusual Art
 https://stream.unusualart.net/hls/0/stream.m3u8?cachebust=a4240d
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Utah State Aggies @ New Mexico Lobos - 10/25/25, 7:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Utah State Aggies @ New Mexico Lobos - 10/25/25 - 7:00:00 PM UTC HD
-https://e5.thetvapp.to/hls/NCAAF03/tracks-v1a1/mono.m3u8?token=-Sr5LKDYJN8UqxDvISOunQ&expires=1761429222&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Utah State Aggies @ New Mexico Lobos - 10/25/25, 7:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Utah State Aggies @ New Mexico Lobos - 10/25/25 - 7:00:00 PM UTC SD
-https://e5.thetvapp.to/hls/NCAAF03/tracks-v1a1/mono.m3u8?token=Y21ZNqAXIstQM8LX2YWmXw&expires=1761429217&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
 
 #EXTINF:-1  tvg-name="Vevo '90s & '00s (DrewLive)" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="DrewLive Music Video Channels" radio="false",Vevo '90s & '00s (DrewLive)
 https://jmp2.uk/stvp-GBBC2100002HP
@@ -4316,12 +3977,6 @@ http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20AsiansExploi
 #EXTINF:-1  tvg-name="Vina Sky - Tushy" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Vina Sky - Tushy
 http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20Tushy/TushyRaw.19.03.11.Vina.Sky.Circling.The.Rim.XXX.1080p.HEVC.x265.PRT.mkv
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Virginia Cavaliers @ North Carolina Tar Heels - 10/25/25, 4:00:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Virginia Cavaliers @ North Carolina Tar Heels - 10/25/25 - 4:00:00 PM UTC HD
-https://e4.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=JOEMOtOOTH3pzR5277MaVA&expires=1761429113&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Virginia Cavaliers @ North Carolina Tar Heels - 10/25/25, 4:00:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Virginia Cavaliers @ North Carolina Tar Heels - 10/25/25 - 4:00:00 PM UTC SD
-https://v18.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8?token=vHHcPGrpDBVIS36GJ2kg0w&expires=1761429108&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1  tvg-id="GBBC300003UQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20250107T025835SQUARE.png" tvg-chno="4502" group-title="SamsungTVPlus - UK",WaterBear (UK)
 https://jmp2.uk/stvp-GBBC300003UQ
 
@@ -4340,12 +3995,6 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40658.ts
 #EXTINF:-1  tvg-name="WeatherNation Los Angeles" tvg-id="61e9af6bfbbcc6000700119b" tvg-logo="https://images.pluto.tv/channels/61e9af6bfbbcc6000700119b/colorLogoPNG.png" tvg-chno="2620" group-title="PlutoTV - United States",WeatherNation Los Angeles
 https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
 
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Western Michigan Broncos @ Miami (OH) RedHawks - 10/25/25, 7:30:00 PM UTC HD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Western Michigan Broncos @ Miami (OH) RedHawks - 10/25/25 - 7:30:00 PM UTC HD
-https://v14.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=yHbpywz4GZy7ADMlVGKwBA&expires=1761429310&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
-#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-name="Western Michigan Broncos @ Miami (OH) RedHawks - 10/25/25, 7:30:00 PM UTC SD" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB.png" group-title="TheTVApp - NCAAF",Western Michigan Broncos @ Miami (OH) RedHawks - 10/25/25 - 7:30:00 PM UTC SD
-https://v14.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=7eYh25g3tuC1-o2sWVmI7A&expires=1761429304&user_id=eG5KZGE5TThHTDh3ZHhoTzBDRTBkbUVkMmJobUdLdW9aQVRuNjNzYw==
-
 #EXTINF:-1 tvg-name="Western – Pluto TV" tvg-logo="https://i.imgur.com/6vmgQBl.png" group-title="VOD Italy",Western – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -4357,6 +4006,15 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40667.ts
 
 #EXTINF:-1  tvg-name="Wild West TV" tvg-id="99951356" tvg-logo="https://image.xumo.com/v1/channels/channel/99951356/168x168.png?type=color_onBlack" group-title="Xumo Streams",Wild West TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?ads.xumo_channelId=99951356&ads._fw_ifa_type=&ads._fw_did=78c37097-7e02-4c24-aab8-725ef955690b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ShoutFactoryWildWestTV&ads.csid=xumo_web_ShoutFactoryWildWestTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4118&ads.xumo_contentName=ShoutFactoryWildWestTV&ads.xumo_providerId=4118&ads.xumo_providerName=ShoutFactoryWildWestTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951356&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="PlexTV - Australia",WildEarth
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
+
+#EXTINF:-1  tvg-name="WildEarth" tvg-id="647f8d22a2fc3fadb4721685-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="PlexTV - Canada",WildEarth
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4edddb2fdec002c141135.m3u8
+
+#EXTINF:-1  tvg-name="WildEarth" tvg-id="608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="PlexTV - Mexico",WildEarth
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135.m3u8
 
 #EXTINF:-1  tvg-name="WildEarth" tvg-id="7b9a45d26315568a98a2b136972bde8d" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b9a45d26315568a98a2b136972bde8d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666307358347_WildEarth_HUD_logo_260x147_Center_aligned.png" tvg-chno="478" group-title="RokuTV",WildEarth
 https://jmp2.uk/rok-7b9a45d26315568a98a2b136972bde8d.m3u8
@@ -4421,14 +4079,8 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S01E11 - Hard Fought Conclusion" tvg-id="24.7.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/5RUW0bKBnDHAJeNpD0s5MXuhyRz.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S01E11 - Hard Fought Conclusion
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2001%20-%20Spirit%20Detective%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20011.mp4
 
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S01E12 - Rando Rises.. Kuwabara Falls" tvg-id="24.7.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/5RUW0bKBnDHAJeNpD0s5MXuhyRz.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S01E12 - Rando Rises.. Kuwabara Falls
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2001%20-%20Spirit%20Detective%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20012.mp4
-
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S01E13 - Yusuke vs. Rando: 99 Attacks" tvg-id="24.7.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/5RUW0bKBnDHAJeNpD0s5MXuhyRz.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S01E13 - Yusuke vs. Rando: 99 Attacks
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2001%20-%20Spirit%20Detective%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20013.mp4
-
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S01E14 - The Beasts of Maze Castle" tvg-id="24.7.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/5RUW0bKBnDHAJeNpD0s5MXuhyRz.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S01E14 - The Beasts of Maze Castle
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2001%20-%20Spirit%20Detective%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20014.mp4
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S01E15 - Genbu.. the Stone Beast" tvg-id="24.7.Dummy.us" tvg-logo="https://image.tmdb.org/t/p/original/5RUW0bKBnDHAJeNpD0s5MXuhyRz.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S01E15 - Genbu.. the Stone Beast
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2001%20-%20Spirit%20Detective%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20015.mp4
@@ -4480,9 +4132,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S02E06 - Stumbling Warrior" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/1b6XdvdyRJ8YCDSFe9g5IhDELSo.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S02E06 - Stumbling Warrior
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2002%20-%20Dark%20Tournament%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20031.mp4
-
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S02E07 - Knife Edge Death-Match" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/1b6XdvdyRJ8YCDSFe9g5IhDELSo.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S02E07 - Knife Edge Death-Match
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2002%20-%20Dark%20Tournament%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20032.mp4
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S02E08 - The Challenge" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/1b6XdvdyRJ8YCDSFe9g5IhDELSo.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S02E08 - The Challenge
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2002%20-%20Dark%20Tournament%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20033.mp4
@@ -4610,9 +4259,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E08 - If You Could Play Forever" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E08 - If You Could Play Forever
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20074.mp4
 
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E09 - The Power of Taboo" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E09 - The Power of Taboo
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20075.mp4
-
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E10 - The Shadow Player" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E10 - The Shadow Player
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20076.mp4
 
@@ -4652,17 +4298,8 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E22 - A Matter of Character" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E22 - A Matter of Character
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20088.mp4
 
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E23 - A Change in Heart" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E23 - A Change in Heart
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20089.mp4
-
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E24 - The Ties That Bind" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E24 - The Ties That Bind
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20090.mp4
-
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E25 - The Makai's Gate" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E25 - The Makai's Gate
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20091.mp4
-
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E26 - An Old Friend" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E26 - An Old Friend
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20092.mp4
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S03E27 - A Light in the Darkness" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/7vCaHwz9pGeQr7PaM2lMpyCqPs5.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S03E27 - A Light in the Darkness
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2003%20-%20Chapter%20Black%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20093.mp4
@@ -4676,9 +4313,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E02 - Three Strangers.. Three Kings" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E02 - Three Strangers.. Three Kings
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20096.mp4
 
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E03 - A Class Apart" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E03 - A Class Apart
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20097.mp4
-
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E04 - The Secret of the Father" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E04 - The Secret of the Father
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20098.mp4
 
@@ -4687,9 +4321,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E06 - The Secret of the Jagan" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E06 - The Secret of the Jagan
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20100.mp4
-
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E07 - The Makai Tournament" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E07 - The Makai Tournament
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20101.mp4
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E08 - The Grieving Son" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E08 - The Grieving Son
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20102.mp4
@@ -4703,9 +4334,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E11 - Sibling Rivalry" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E11 - Sibling Rivalry
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20105.mp4
 
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E12 - Hiei's Proposal" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E12 - Hiei's Proposal
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20106.mp4
-
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E13 - A New Leader" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E13 - A New Leader
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20107.mp4
 
@@ -4717,12 +4345,6 @@ http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Net
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E16 - Raizen's Last Stand" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E16 - Raizen's Last Stand
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20110.mp4
-
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E17 - To the Future" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E17 - To the Future
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20111.mp4
-
-#EXTINF:-1  tvg-name="Yu Yu Hakusho - S04E18 - Forever Yu Yu Hakusho" tvg-id="24.7.Dummy.us" tvg-logo="https://media.themoviedb.org/t/p/w500/hmyi4aVfWcw5tTvaWDKkVqlpNFI.jpg" group-title="DrewLive Anime - Yu Yu Hakusho" radio="false",Yu Yu Hakusho - S04E18 - Forever Yu Yu Hakusho
-http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Season%2004%20-%20Three%20Kings%20Saga/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20112.mp4
 
 #EXTINF:-1  tvg-name="Yu Yu Hakusho The Movie: Poltergeist Report (1994)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/I/51arnVtq9KL._AC_UF894,1000_QL80_.jpg" group-title="DrewLive - VOD" radio="false",Yu Yu Hakusho The Movie: Poltergeist Report (1994)
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Movies/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20Poltergeist%20Report.mp4
