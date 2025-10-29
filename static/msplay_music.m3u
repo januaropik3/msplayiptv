@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-10-28 17:38:36 UTC
-# Total Channels: 284
+# Generated: 2025-10-29 17:39:36 UTC
+# Total Channels: 293
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (284 channels) ======
+# ====== MUSIC (293 channels) ======
 
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1068/lg/831dd8/LG-Logo-PNG-100x100_v1.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1112 Popflix
 https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
@@ -248,17 +248,14 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:-1  tvg-name="Dilema Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://dilemaradio.com/wp-content/uploads/2020/06/dilemaradio-logo-mobile.webp" group-title="DrewFX - Hip Hop & R&B" radio="true",Dilema Radio
 https://dilemaradiolive.radioca.st/stream
 
-#EXTINF:-1  tvg-name="Euro Hits" tvg-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - Australia",Euro Hits
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
-
-#EXTINF:-1  tvg-name="Euro Hits" tvg-id="647f8d22a2fc3fadb4721685-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - Canada",Euro Hits
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee74af52f7d73061eec491.m3u8
-
 #EXTINF:-1  tvg-name="Euro Hits" tvg-id="608049aefa2b8ae93c2c3a63-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="PlexTV - Mexico",Euro Hits
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ee74af52f7d73061eec491.m3u8
 
 #EXTINF:-1  tvg-name="FreeTV Hits" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV - Mexico",FreeTV Hits
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284191.m3u8
+
+#EXTINF:-1  tvg-name="FreeTV Hits" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="PlexTV - United States",FreeTV Hits
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
 
 #EXTINF:-1  tvg-name="Gangstaville Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s135290/images/logod.png?t=636225822429870000" group-title="DrewFX - Hip Hop & R&B" radio="true",Gangstaville Radio
 https://stream.radio.co/s1cffd7347/listen
@@ -274,6 +271,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZAAC.aa
 
 #EXTINF:-1  tvg-name="House Monkeys by Scoutlounge" tvg-id="Radio.105.Dummy.us" tvg-logo="https://cdn-radiotime-logos.tunein.com/s277644g.png" group-title="DrewFX - House" radio="true",House Monkeys by Scoutlounge
 http://kiyi.radioca.st:8118/stream2
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="Pixelsports - NBA",Houston Rockets at Toronto Raptors - 06:30 PM ET - 10/29/2025
+https://locked.pixelpanel.online/hdstream/embed/467.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="Pixelsports - NBA",Houston Rockets at Toronto Raptors - 06:30 PM ET - 10/29/2025
+https://locked.pixelpanel.online/hdstream/embed/468.m3u8
 
 #EXTINF:-1  tvg-name="Indie SF Radio" tvg-id="Radio.105.Dummy.us" tvg-logo="https://insomniaradio.net/wp-content/uploads/2008/02/sf.jpg" group-title="DrewFX - Indie" radio="true",Indie SF Radio
 http://359.cloudrad.io:8618/;
@@ -307,6 +310,9 @@ https://ca01.utako.moe/kayopops/index.m3u8
 
 #EXTINF:-1  tvg-name="KPOP+" tvg-id="5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="PlexTV - Australia",KPOP+
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66.m3u8
+
+#EXTINF:-1  tvg-name="KPOP+" tvg-id="647f8d22a2fc3fadb4721685-682e09a8dfc9c452b8f9bd66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="PlexTV - Canada",KPOP+
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-682e09a8dfc9c452b8f9bd66.m3u8
 
 #EXTINF:-1  tvg-name="KPOP+" tvg-id="608049aefa2b8ae93c2c3a63-682e09a8dfc9c452b8f9bd66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1801862d-36c1-4450-b084-fe7309f94502/KPOP__logo_dark_-_Jason_Hwang_WHT_LETTERS.png" group-title="PlexTV - Mexico",KPOP+
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-682e09a8dfc9c452b8f9bd66.m3u8
@@ -362,6 +368,9 @@ https://jmp2.uk/plu-638693db857364000781b471.m3u8
 #EXTINF:-1  tvg-name="MTV Dating" tvg-id="64f8a0c230ab3300084369b8" tvg-logo="https://images.pluto.tv/channels/64f8a0c230ab3300084369b8/colorLogoPNG.png" tvg-chno="451" group-title="PlutoTV - Canada",MTV Dating
 https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
 
+#EXTINF:-1  tvg-name="MTV Dating" tvg-id="6851b909954170e0128bc71d" tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1750686878183.png" tvg-chno="388" group-title="PlutoTV - Mexico",MTV Dating
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+
 #EXTINF:-1  tvg-name="MTV Drag" tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" tvg-chno="383" group-title="PlutoTV - Mexico",MTV Drag
 https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 
@@ -385,9 +394,6 @@ https://jmp2.uk/plu-68485d6fe99efeef64428f98.m3u8
 
 #EXTINF:-1  tvg-name="MTV Halloween" tvg-id="686f7fa794a8f8fdc6db806a" tvg-logo="https://images.pluto.tv/channels/686f7fa794a8f8fdc6db806a/colorLogoPNG_1756974300590.png" tvg-chno="61" group-title="PlutoTV - United Kingdom",MTV Halloween
 https://jmp2.uk/plu-686f7fa794a8f8fdc6db806a.m3u8
-
-#EXTINF:-1  tvg-name="MTV HD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV HD
-https://v3.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=QSM_T18jy_b90PV4ecVxLg&expires=1761687526&user_id=WEtnektGbERvRm53dlpTRmlXVVJ0TmE4Y3RhZnhCbVdRS2NaSFZ2cA==
 
 #EXTINF:-1  tvg-name="MTV Kay" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",MTV Kay
 https://cdn.baddiehub.com/MTV.mp4
@@ -429,7 +435,7 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
 
 #EXTINF:-1  tvg-name="MTV SD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV SD
-https://v14.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=bvX2EqX59nG_jSCTN-SpKg&expires=1761687516&user_id=WEtnektGbERvRm53dlpTRmlXVVJ0TmE4Y3RhZnhCbVdRS2NaSFZ2cA==
+https://e5.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=Q5oHAwOqn9ToDILIu556YA&expires=1761773927&user_id=eTM5c1NZdVR3bmN2R2QyNkVhUG9xU1JjUlN4WDhJOFV5Z3k1dVQwRQ==
 
 #EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="PlutoTV - United States",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
@@ -458,6 +464,15 @@ http://media.boni-records.com/index.m3u8
 #EXTINF:-1  tvg-name="Music Legends" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="PlexTV - Australia",Music Legends
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8
 
+#EXTINF:-1  tvg-name="Music Legends" tvg-id="647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="PlexTV - Canada",Music Legends
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615.m3u8
+
+#EXTINF:-1  tvg-name="NEW K-POP" tvg-id="647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="PlexTV - Canada",NEW K-POP
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d.m3u8
+
+#EXTINF:-1  tvg-name="NEW K-POP" tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="PlexTV - United States",NEW K-POP
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d.m3u8
+
 #EXTINF:-1  tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20250325T020236SQUARE.png" tvg-chno="4451" group-title="SamsungTVPlus - USA",NEW KPOP (USA)
 https://jmp2.uk/stvp-USAJ3000013FJ
 
@@ -479,11 +494,11 @@ http://www.ophanim.net:8400/;
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" group-title="Hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
-#EXTINF:-1  tvg-name="POP" tvg-id="664c94e80120f40008b860f0" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" tvg-chno="892" group-title="PlutoTV - United Kingdom",POP
-https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
-
 #EXTINF:-1  tvg-name="Pop Adult" tvg-id="5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="PlexTV - Australia",Pop Adult
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8
+
+#EXTINF:-1  tvg-name="Pop Adult" tvg-id="647f8d22a2fc3fadb4721685-62ee7992271f393d2d9f709c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png" group-title="PlexTV - Canada",Pop Adult
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee7992271f393d2d9f709c.m3u8
 
 #EXTINF:-1  tvg-name="Pop TV" tvg-id="POP.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="MoveOnJoy" radio="false",Pop TV
 https://fl30.moveonjoy.com/Pop_TV/index.m3u8
@@ -499,6 +514,9 @@ https://jmp2.uk/stvp-GBAJ400045P5
 
 #EXTINF:-1  tvg-name="Popular Science" tvg-id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="PlexTV - Australia",Popular Science
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8
+
+#EXTINF:-1  tvg-name="Popular Science" tvg-id="647f8d22a2fc3fadb4721685-656fb850cb7e8e6a9bc3f36e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="PlexTV - Canada",Popular Science
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-656fb850cb7e8e6a9bc3f36e.m3u8
 
 #EXTINF:-1 tvg-name="Radio 105 TV Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Italy",Radio 105 TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
@@ -614,6 +632,12 @@ https://jmp2.uk/stvp-CABD1200036YT
 #EXTINF:-1  tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" tvg-chno="4476" group-title="SamsungTVPlus - USA",Stingray Classic Rock (USA)
 https://jmp2.uk/stvp-USBD35000180U
 
+#EXTINF:-1  tvg-name="Stingray DJAZZ" tvg-id="5e20b730f2f8d5003d739db7-62fc0150c67d52bddf74cc89" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png" group-title="PlexTV - Australia",Stingray DJAZZ
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62fc0150c67d52bddf74cc89.m3u8
+
+#EXTINF:-1  tvg-name="Stingray DJAZZ" tvg-id="647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png" group-title="PlexTV - Canada",Stingray DJAZZ
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89.m3u8
+
 #EXTINF:-1  tvg-id="CA400002ZK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400002ZK_20250805T010227SQUARE.png" tvg-chno="4456" group-title="SamsungTVPlus - CA",Stingray DJAZZ (CA)
 https://jmp2.uk/stvp-CA400002ZK
 
@@ -698,8 +722,17 @@ https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 #EXTINF:-1  tvg-id="GBBD3200003T6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png" tvg-chno="4771" group-title="SamsungTVPlus - UK",Tiny POP (UK)
 https://jmp2.uk/stvp-GBBD3200003T6
 
+#EXTINF:-1  tvg-name="Today's K-Pop" tvg-id="5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png" group-title="PlexTV - Australia",Today's K-Pop
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8
+
+#EXTINF:-1  tvg-name="Today's K-Pop" tvg-id="608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png" group-title="PlexTV - Mexico",Today's K-Pop
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096.m3u8
+
 #EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="Italy",TRL Tele Radio Leo
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="Italy",Tv Yes
+https://stream1.aswifi.it/radioyes/live/index.m3u8
 
 #EXTINF:-1  tvg-name="Vevo '70s" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" tvg-chno="4640" group-title="PlutoTV - United States",Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
@@ -812,20 +845,14 @@ https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 #EXTINF:-1  tvg-name="VH1" tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",VH1
 https://fl30.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1  tvg-name="VH1 Eastern Feed HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed HD
-https://tvpass.org/live/VH1East/hd
-
-#EXTINF:-1  tvg-name="VH1 Eastern Feed SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TVPass",VH1 Eastern Feed SD
-https://tvpass.org/live/VH1East/sd
-
 #EXTINF:-1  tvg-name="VH1 HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 HD
-https://e4.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=dVChqoKNgCyhU_fXhWwEaA&expires=1761688267&user_id=WEtnektGbERvRm53dlpTRmlXVVJ0TmE4Y3RhZnhCbVdRS2NaSFZ2cA==
+https://e5.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=DjyV7gftu4SjSWro2N387g&expires=1761774674&user_id=eTM5c1NZdVR3bmN2R2QyNkVhUG9xU1JjUlN4WDhJOFV5Z3k1dVQwRQ==
 
 #EXTINF:-1  tvg-name="VH1 Queens of Reality" tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-chno="1675" group-title="PlutoTV - United States",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 
 #EXTINF:-1  tvg-name="VH1 SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 SD
-https://v13.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=qkqRb7oK9DqHTlrjD-nvZQ&expires=1761688257&user_id=WEtnektGbERvRm53dlpTRmlXVVJ0TmE4Y3RhZnhCbVdRS2NaSFZ2cA==
+https://v12.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=Kdp5dyTJ42tAw0yXIwHg0w&expires=1761774665&user_id=eTM5c1NZdVR3bmN2R2QyNkVhUG9xU1JjUlN4WDhJOFV5Z3k1dVQwRQ==
 
 #EXTINF:-1  tvg-id="VH1.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH1.png" group-title="DaddyLive USA",VH1 USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium344%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
