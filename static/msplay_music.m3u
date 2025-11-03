@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-11-02 17:33:25 UTC
+# Generated: 2025-11-03 17:36:44 UTC
 # Total Channels: 288
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -236,6 +236,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR.a
 #EXTINF:-1  tvg-name="Classic Rock WCSX" tvg-id="Radio.105.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/WCSXFM_1137091_config_station_logo_image_1415221612.jpg" group-title="DrewFX - Classic Rock" radio="true",Classic Rock WCSX
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFMAACIHR.aac
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png" group-title="Pixelsports - NBA",Dallas Mavericks at Houston Rockets
+https://locked.pixelpanel.online/hdstream/embed/462.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png" group-title="Pixelsports - NBA",Dallas Mavericks at Houston Rockets
+https://locked.pixelpanel.online/hdstream/embed/468.m3u8
+
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
@@ -332,6 +338,9 @@ https://tvpass.org/live/MTVEast/hd
 #EXTINF:-1  tvg-name="MTV" tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",MTV
 https://fl30.moveonjoy.com/MTV/index.m3u8
 
+#EXTINF:-1  tvg-name="MTV 2 East HD" tvg-id="mtv-2-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="TVPass",MTV 2 East HD
+https://tvpass.org/live/mtv-2-east/hd
+
 #EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="PlutoTV - Mexico",MTV Biggest Pop
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
 
@@ -374,23 +383,11 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1  tvg-name="MTV FHD" tvg-id="MTV.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/CeKvKIu.png" group-title="A1xmedia UK Channels" radio="false",MTV FHD
 https://a1xs.vip/1000037
 
-#EXTINF:-1  tvg-name="MTV Flow Latino" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="PlutoTV - Mexico",MTV Flow Latino
-https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-
 #EXTINF:-1  tvg-name="MTV Flow Latino" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" tvg-chno="4790" group-title="PlutoTV - United States",MTV Flow Latino
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 
-#EXTINF:-1  tvg-name="MTV Halloween" tvg-id="6874aec6fd6704e9d3b9b45d" tvg-logo="https://images.pluto.tv/channels/6874aec6fd6704e9d3b9b45d/colorLogoPNG_1756818752434.png" tvg-chno="11" group-title="PlutoTV - Canada",MTV Halloween
-https://jmp2.uk/plu-6874aec6fd6704e9d3b9b45d.m3u8
-
-#EXTINF:-1  tvg-name="MTV Halloween" tvg-id="68485d6fe99efeef64428f98" tvg-logo="https://images.pluto.tv/channels/68485d6fe99efeef64428f98/colorLogoPNG_1756779909311.png" tvg-chno="198" group-title="PlutoTV - Mexico",MTV Halloween
-https://jmp2.uk/plu-68485d6fe99efeef64428f98.m3u8
-
-#EXTINF:-1  tvg-name="MTV Halloween" tvg-id="686f7fa794a8f8fdc6db806a" tvg-logo="https://images.pluto.tv/channels/686f7fa794a8f8fdc6db806a/colorLogoPNG_1756974300590.png" tvg-chno="61" group-title="PlutoTV - United Kingdom",MTV Halloween
-https://jmp2.uk/plu-686f7fa794a8f8fdc6db806a.m3u8
-
 #EXTINF:-1  tvg-name="MTV HD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV HD
-https://v14.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=_SBGjv4DjpwmBRUMUNUpHg&expires=1762119304&user_id=Vml6V0ZHUDU0VDBDNE56SmU4R0VvQ1NkRFZqV2k4cDJ3UTlCUVRkQQ==
+https://v8.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=vrHTpCw34U3zkC3NTGUDqA&expires=1762205973&user_id=THZ1bDVkd1RpMXJ0aldTQjRHUVlqSmRiS1NwVGd6S3Q2Y2EzY0lRSQ==
 
 #EXTINF:-1  tvg-name="MTV Kay" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",MTV Kay
 https://cdn.baddiehub.com/MTV.mp4
@@ -419,6 +416,9 @@ https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1  tvg-name="MTV Reality" tvg-id="625eb3e245f5bc0007810046" tvg-logo="https://images.pluto.tv/channels/625eb3e245f5bc0007810046/colorLogoPNG.png" tvg-chno="604" group-title="PlutoTV - United Kingdom",MTV Reality
 https://jmp2.uk/plu-625eb3e245f5bc0007810046.m3u8
 
+#EXTINF:-1  tvg-name="MTV Ridiculousness" tvg-id="5e98a911c881310007d7aae2" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" tvg-chno="393" group-title="PlutoTV - Mexico",MTV Ridiculousness
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+
 #EXTINF:-1  tvg-name="MTV Rocks" tvg-id="66bb895acd0d31000871e31c" tvg-logo="https://images.pluto.tv/channels/66bb895acd0d31000871e31c/colorLogoPNG.png" tvg-chno="757" group-title="PlutoTV - Canada",MTV Rocks
 https://jmp2.uk/plu-66bb895acd0d31000871e31c.m3u8
 
@@ -429,7 +429,7 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
 
 #EXTINF:-1  tvg-name="MTV SD" tvg-id="mtv-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="TheTVApp",MTV SD
-https://v15.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=bLMf6FLeW1Xk3HUdbEzXvQ&expires=1762119294&user_id=Vml6V0ZHUDU0VDBDNE56SmU4R0VvQ1NkRFZqV2k4cDJ3UTlCUVRkQQ==
+https://v5.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8?token=g7HtZw0h_lGVFeNnKMw2SA&expires=1762205963&user_id=THZ1bDVkd1RpMXJ0aldTQjRHUVlqSmRiS1NwVGd6S3Q2Y2EzY0lRSQ==
 
 #EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="PlutoTV - United States",MTV Spankin' New
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
@@ -505,6 +505,9 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8
 
 #EXTINF:-1 tvg-name="Radio 105 TV Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Italy",Radio 105 TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio 3M InBlu" tvg-logo="https://i.imgur.com/d7O7Uqa.png" group-title="Italy",Radio 3M InBlu
+https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio 51 Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radio51.png" group-title="Italy",Radio 51 Tv
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
@@ -713,11 +716,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee6eae271f393d2d9f7096.m3u8
 #EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="Italy",Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" group-title="Pixelsports - NBA",Utah Jazz at Charlotte Hornets
-https://locked.pixelpanel.online/hdstream/embed/455.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" group-title="Pixelsports - NBA",Utah Jazz at Charlotte Hornets
-https://locked.pixelpanel.online/hdstream/embed/472.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png" group-title="Pixelsports - NBA",Utah Jazz at Boston Celtics
+https://locked.pixelpanel.online/hdstream/embed/450.m3u8
 
 #EXTINF:-1  tvg-name="Vevo '70s" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" tvg-chno="4640" group-title="PlutoTV - United States",Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
@@ -831,13 +831,13 @@ https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 https://fl30.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1  tvg-name="VH1 HD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 HD
-https://e1.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=6nfgECuyqwkIk4oOPc_LYw&expires=1762120043&user_id=Vml6V0ZHUDU0VDBDNE56SmU4R0VvQ1NkRFZqV2k4cDJ3UTlCUVRkQQ==
+https://v2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=rFqDfad61nsB43Y4qRYvrw&expires=1762206713&user_id=THZ1bDVkd1RpMXJ0aldTQjRHUVlqSmRiS1NwVGd6S3Q2Y2EzY0lRSQ==
 
 #EXTINF:-1  tvg-name="VH1 Queens of Reality" tvg-id="66abefe5d2d50d00082c7d12" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-chno="1675" group-title="PlutoTV - United States",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 
 #EXTINF:-1  tvg-name="VH1 SD" tvg-id="vh1-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vh1-us.png?raw=true" group-title="TheTVApp",VH1 SD
-https://e3.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=lIyXIidI9CiovNhr9uy2iA&expires=1762120033&user_id=Vml6V0ZHUDU0VDBDNE56SmU4R0VvQ1NkRFZqV2k4cDJ3UTlCUVRkQQ==
+https://v2.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=foAspdugDDoH4CiyTYIz2w&expires=1762206704&user_id=THZ1bDVkd1RpMXJ0aldTQjRHUVlqSmRiS1NwVGd6S3Q2Y2EzY0lRSQ==
 
 #EXTINF:-1  tvg-id="VH1.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH1.png" group-title="DaddyLive USA",VH1 USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium344%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
