@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-11-04 17:33:59 UTC
-# Total Channels: 102
+# Generated: 2025-11-05 17:37:23 UTC
+# Total Channels: 101
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== DOCUMENTARY (102 channels) ======
+# ====== DOCUMENTARY (101 channels) ======
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/HistoryHunters_Channel_Logo.png" tvg-id="24.7.Dummy.us" group-title="LGTV - United Kingdom",1581 History Hunters
 https://amg00841-aeemea-amg00841c7-lg-gb-3890.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
@@ -53,9 +53,6 @@ https://jmp2.uk/stvp-USBD27000156I
 #EXTINF:-1  tvg-id="USBD3500041ZF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20250526T230401SQUARE.png" tvg-chno="2729" group-title="SamsungTVPlus - USA",American Pickers by History (USA)
 https://jmp2.uk/stvp-USBD3500041ZF
 
-#EXTINF:-1  tvg-name="Ax Men by History" tvg-id="5e20b730f2f8d5003d739db7-63c1ec0e0aa23f984207af82" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7b641c90-6955-4fcd-9c0d-5ca04dfa18d8/Ax_Men_4Color_Logo_RDX.png" group-title="PlexTV - United States",Ax Men by History
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c1ec0e0aa23f984207af82.m3u8
-
 #EXTINF:-1  tvg-name="Beyond History" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" tvg-chno="522" group-title="PlutoTV - Canada",Beyond History
 https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
 
@@ -66,10 +63,13 @@ https://jmp2.uk/stvp-US26000201N
 https://jmp2.uk/rok-f862a66d14ccfdde7ba6a14ef412d033.m3u8
 
 #EXTINF:-1  tvg-name="Crime & Investigation HD HD" tvg-id="crime-investigation-network-usa-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="TheTVApp",Crime & Investigation HD HD
-https://v15.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=RrA8rAnaANuTJ3QhdEaByg&expires=1762291382&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v14.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=CmthYoeMDuXbesfMvWpZ-A&expires=1762374094&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-name="Crime & Investigation HD SD" tvg-id="crime-investigation-network-usa-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="TheTVApp",Crime & Investigation HD SD
-https://v15.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=GgRB38YOQn9NRIwS5ZrGbg&expires=1762291372&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v12.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8?token=lVQT1DL5IiwaK3QcN24v-g&expires=1762374085&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
+
+#EXTINF:-1  tvg-name="Crime & Investigation Network USA HD SD" tvg-id="crime-investigation-network-usa-hd" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="TVPass",Crime & Investigation Network USA HD SD
+https://tvpass.org/live/CrimePlusInvestigation/sd
 
 #EXTINF:-1  tvg-name="Crime + Investigation" tvg-id="Crime.Plus.Investigation.SD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crime-and-investigation-ca.png" group-title="AriaPlus - Canada",Crime + Investigation
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112731.ts
@@ -78,16 +78,13 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112731.ts
 https://jmp2.uk/plu-5ea18cd42ee5410007e349dc.m3u8
 
 #EXTINF:-1  tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="DaddyLive USA",Crime+ Investigation USA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium669%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium669%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="CSI: Crime Scene Investigation" tvg-id="6304f8d5ffb61000071ab478" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" tvg-chno="201" group-title="PlutoTV - United Kingdom",CSI: Crime Scene Investigation
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
 
 #EXTINF:-1  tvg-name="CTV Nature" tvg-id="CTV.Nature.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png" group-title="AriaPlus - Canada",CTV Nature
 http://38.143.48.212:9981/stream/channelid/1405285984?profile=pass
-
-#EXTINF:-1  tvg-name="Deal Zone Presented By History" tvg-id="5e20b730f2f8d5003d739db7-63c9724c5feb7b9655cb1950" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a3961e6-acb1-410e-89ea-9e37226e231f/Deal_Zone_by_HISTORY_STACKED_COLOR_RDX2.png" group-title="PlexTV - United States",Deal Zone Presented By History
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c9724c5feb7b9655cb1950.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-id="DiscoveryChannel.it" group-title="Italy",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
@@ -96,7 +93,7 @@ https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://38.143.48.212:9981/stream/channelid/686709663?profile=pass
 
 #EXTINF:-1  tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-3-us.png?raw=true" group-title="DaddyLive USA",Discovery Channel
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium313%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium313%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="MoveOnJoy" radio="false",Discovery Channel
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/176620
@@ -104,32 +101,35 @@ http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/176620
 #EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed HD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed HD
 https://tvpass.org/live/DiscoveryChannelEast/hd
 
+#EXTINF:-1  tvg-name="Discovery Channel (US) Eastern Feed SD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TVPass",Discovery Channel (US) Eastern Feed SD
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
 #EXTINF:-1  tvg-name="Discovery Channel (US) FHD" tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/1eM0KX8.png" group-title="A1xmedia US Channels" radio="false",Discovery Channel FHD
 https://a1xs.vip/300034
 
 #EXTINF:-1  tvg-name="Discovery Channel FHD" tvg-id="Discovery.HD.uk" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/1eM0KX8.png" group-title="A1xmedia UK Channels" radio="false",Discovery Channel FHD
 https://a1xs.vip/1000033
 
-#EXTINF:-1  tvg-name="Discovery HD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TheTVApp",Discovery HD
-https://e2.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=7SKsyKfhPn0BrIWPO2j53A&expires=1762291458&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
-
 #EXTINF:-1  tvg-id="Discovery.Life.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="DaddyLive USA",Discovery Life Channel
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium311%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium311%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="TVPass",Discovery Life Channel HD
 https://tvpass.org/live/DiscoveryLife/hd
 
+#EXTINF:-1  tvg-name="Discovery Life Channel SD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="TVPass",Discovery Life Channel SD
+https://tvpass.org/live/DiscoveryLife/sd
+
 #EXTINF:-1  tvg-name="Discovery Life HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="TheTVApp",Discovery Life HD
-https://e5.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=Re6QNnAN1cb24WENe-kACg&expires=1762291496&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://e4.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=2up7pXuMdH9CL1lGGo8Lrw&expires=1762374208&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-name="Discovery Life SD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="TheTVApp",Discovery Life SD
-https://v14.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=p7VKhgzV75JdMo9qeYukVQ&expires=1762291486&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v16.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8?token=onOuTWcydLoWvOyAIxNLoA&expires=1762374198&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-name="Discovery SD" tvg-id="discovery-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="TheTVApp",Discovery SD
-https://v15.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=uAW8-ZfE02z5j9jec9BOrg&expires=1762291448&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v4.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=r2UAliGRUzuNV_VlCoXZLA&expires=1762374161&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-id="CTV.Speed.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-speed-channel-ca.png?raw=true" group-title="DaddyLive CA",Discovery Velocity CA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium285%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium285%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="Documentary+" tvg-id="5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3bb2a1fe-7a16-4fa1-9db7-63b7fef3a376/documentaryplus_logo_dark_1_WHT.png" group-title="PlexTV - United States",Documentary+
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723.m3u8
@@ -149,6 +149,9 @@ http://38.143.48.212:9981/stream/channelid/399303638?profile=pass
 #EXTINF:-1  tvg-name="History" tvg-id="History.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="MoveOnJoy" radio="false",History
 https://fl7.moveonjoy.com/history_channel/index.m3u8
 
+#EXTINF:-1  tvg-name="History & Warfare" tvg-id="5e20b730f2f8d5003d739db7-635c5c6ac3585aefbd236576" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d7d8dd5f-8897-4822-a96f-358a616f40f5/Plex_HistoryWarfare_Logo_DarkBackground_.png" group-title="PlexTV - United States",History & Warfare
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-635c5c6ac3585aefbd236576.m3u8
+
 #EXTINF:-1  tvg-id="CA600001C3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA600001C3_20250805T010059SQUARE.png" tvg-chno="3547" group-title="SamsungTVPlus - CA",History & Warfare (CA)
 https://jmp2.uk/stvp-CA600001C3
 
@@ -161,11 +164,11 @@ http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/112783.ts
 #EXTINF:-1  tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20250729T010435SQUARE.png" tvg-chno="3541" group-title="SamsungTVPlus - USA",History 365 (USA)
 https://jmp2.uk/stvp-USBD35000428O
 
-#EXTINF:-1  tvg-name="History HD" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="TheTVApp",History HD
-https://e2.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8?token=yQ64MvpV-J896ksqrJAQwQ&expires=1762292085&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
-
 #EXTINF:-1  tvg-name="History Hit" tvg-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-logo="https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png" group-title="PlexTV - Australia",History Hit
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8
+
+#EXTINF:-1  tvg-name="History Hit" tvg-id="647f8d22a2fc3fadb4721685-5f74cf83ffbe690040689f50" tvg-logo="https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png" group-title="PlexTV - Canada",History Hit
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f74cf83ffbe690040689f50.m3u8
 
 #EXTINF:-1  tvg-id="GBBA2200005ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20250107T022602SQUARE.png" tvg-chno="4417" group-title="SamsungTVPlus - UK",History Hit (UK)
 https://jmp2.uk/stvp-GBBA2200005ZA
@@ -174,25 +177,28 @@ https://jmp2.uk/stvp-GBBA2200005ZA
 https://jmp2.uk/stvp-GB1200002ON
 
 #EXTINF:-1  tvg-name="History SD" tvg-id="history-channel-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="TheTVApp",History SD
-https://v13.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8?token=eJE0agNqYICyDBmGbCtExQ&expires=1762292075&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v15.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8?token=tVu6ho1xmG2IlMyhCJyCWg&expires=1762374786&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-id="History.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="DaddyLive USA",History USA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium322%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium322%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="ID (Investigation Discovery)" tvg-id="Investigation.Discovery.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",ID (Investigation Discovery)
 https://fl7.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
+#EXTINF:-1  tvg-name="Investigation" tvg-id="5e20b730f2f8d5003d739db7-6529b08ece8f0608a50194b5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb7f0e42-5129-4675-bedd-4c9875bfd127/investigation_1500x1000_light_-_Jose_Martinez.png" group-title="PlexTV - United States",Investigation
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6529b08ece8f0608a50194b5.m3u8
+
 #EXTINF:-1  tvg-id="Investigation.Discovery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="DaddyLive USA",Investigation Discovery (ID USA)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium324%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium324%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="Investigation Discovery HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="TheTVApp",Investigation Discovery HD
-https://v16.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8?token=IugnR-anwr9ynW0m4MJ10A&expires=1762292142&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
-
-#EXTINF:-1  tvg-name="Investigation Discovery SD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="TheTVApp",Investigation Discovery SD
-https://v18.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8?token=8JWudEfew0BSPazIw3gTKg&expires=1762292132&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v13.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8?token=fpOeZGE9Lav5A-sGGHtLJw&expires=1762374853&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-name="Love Nature" tvg-id="Love.Nature.ca2" tvg-logo="https://media.starlite.best/love.nature.ca.png" group-title="AriaPlus - Canada",Love Nature
 http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/107513.ts
+
+#EXTINF:-1  tvg-name="Love Nature" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-logo="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png" tvg-chno="3585" group-title="PlutoTV - United States",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 
 #EXTINF:-1  tvg-id="700418" tvg-logo="https://canvas-lb.tubitv.com/opts/vJproBq1EsozMw==/1c502e7b-e295-4f49-a248-cbe59b17d0f1/CHgQeDoFMS4xLjhAAQ==" group-title="TubiTV",Love Nature
 https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8
@@ -206,8 +212,17 @@ https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
 #EXTINF:-1  tvg-name="Love Nature Spanish" tvg-id="03a419fc4dff59b39b176d9f76b09e38" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563412501_LoveNature_260x147_HUDenEspanol.png" tvg-chno="966" group-title="RokuTV",Love Nature Spanish
 https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8
 
+#EXTINF:-1  tvg-name="Military Heroes Presented By History" tvg-id="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="PlexTV - United States",Military Heroes Presented By History
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a.m3u8
+
+#EXTINF:-1  tvg-name="Modern Innovations by History" tvg-id="5e20b730f2f8d5003d739db7-67ae8ad1a9b2dfa7f83e17d6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fd8ebf6-610f-472c-b2ce-1dc327122ef7/Modern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="PlexTV - United States",Modern Innovations by History
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67ae8ad1a9b2dfa7f83e17d6.m3u8
+
 #EXTINF:-1  tvg-name="Modern Innovations by History" tvg-id="cd2b8b03da52da0868e63927b54f9e7e" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cd2b8b03da52da0868e63927b54f9e7e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747059823625_Modern_Innovations_by_History_General_Market_Launch_HUD.png" tvg-chno="485" group-title="RokuTV",Modern Innovations by History
 https://jmp2.uk/rok-cd2b8b03da52da0868e63927b54f9e7e.m3u8
+
+#EXTINF:-1  tvg-name="Modern Marvels by History" tvg-id="5e20b730f2f8d5003d739db7-63c97da7187b3c9f3581fdfd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aaf9646c-8418-4756-af50-9bd7eac5ef28/Modern_Marvels_logo_wht_text_color.png" group-title="PlexTV - United States",Modern Marvels by History
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c97da7187b3c9f3581fdfd.m3u8
 
 #EXTINF:-1  tvg-name="Modern Marvels Presented by HISTORY" tvg-id="65775d29dfed030008cb3db2" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png" tvg-chno="3100" group-title="PlutoTV - United States",Modern Marvels Presented by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
@@ -219,25 +234,19 @@ https://jmp2.uk/stvp-USBB5200025DO
 https://jmp2.uk/stvp-US4500004SQ
 
 #EXTINF:-1  tvg-name="Nat Geo WILD HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD HD
-https://v8.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=QWzv9V9H8e-rIZMQWkwt4Q&expires=1762292369&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
-
-#EXTINF:-1  tvg-name="Nat Geo WILD SD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",Nat Geo WILD SD
-https://v8.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=FEA1BaCtGX4oVMMYpd0dyw&expires=1762292360&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://e4.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8?token=zKme3YGYrLPrioHNvRfIgQ&expires=1762375080&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-name="National Geographic" tvg-id="National.Geographic.(Canada).ca2" tvg-logo="https://media.starlite.best/national.geographic.canada.ca.png" group-title="AriaPlus - Canada",National Geographic
 http://38.143.48.212:9981/stream/channelid/1422297878?profile=pass
 
-#EXTINF:-1  tvg-name="National Geographic" tvg-id="National.Geographic.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="AriaPlus - United States",National Geographic
-https://tvpass.org/live/NationalGeographicEast/hd
-
 #EXTINF:-1  tvg-id="National.Geographic.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="DaddyLive USA",National Geographic (NGC)
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium328%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium328%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="National Geographic HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="TheTVApp",National Geographic HD
-https://v17.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=JW_HeL7kwmwVJlJ4RlamaA&expires=1762292388&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v8.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=TT_scCFssoRZxVlobUh6AA&expires=1762375099&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-name="National Geographic SD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="TheTVApp",National Geographic SD
-https://e5.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=6nLX6txx4_4dQKDrzHqsow&expires=1762292379&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v12.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8?token=2PY6B9kMHUjSFJi1dCr10A&expires=1762375090&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-name="Nature Moments" tvg-id="b182852fa5860ed0017de42c7b9ce05a" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b182852fa5860ed0017de42c7b9ce05a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735672320363_NatureMoments_Roku_HUD_260x147_centeraligned.png" tvg-chno="489" group-title="RokuTV",Nature Moments
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
@@ -251,8 +260,8 @@ https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1  tvg-name="NatureVision" tvg-id="99991197" tvg-logo="https://image.xumo.com/v1/channels/channel/99991197/168x168.png?type=color_onBlack" group-title="Xumo Streams",NatureVision
 https://live-content.xumo.com/133/content/XM0DUXI4OWEHSH/18425985/master.m3u8
 
-#EXTINF:-1  tvg-name="PBS Nature" tvg-id="640a64bd73e013000893d4e0" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" tvg-chno="3580" group-title="PlutoTV - United States",PBS Nature
-https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
+#EXTINF:-1  tvg-name="PBS Nature" tvg-id="5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/489e066a-d4e6-4d2e-9265-a8c7be935651/PBS-Nature_logo-1_for-dark-bkgrd.png" group-title="PlexTV - United States",PBS Nature
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f.m3u8
 
 #EXTINF:-1  tvg-name="PBS Nature" tvg-id="99951195" tvg-logo="https://image.xumo.com/v1/channels/channel/99951195/168x168.png?type=color_onBlack" group-title="Xumo Streams",PBS Nature
 https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_web_PBSNature_ssai&ads._fw_app_bundle=web.xumo.com&ads.ifa_type=&ads.did=b694fda3-f0f6-418c-bbff-f6fb2cd432f6&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=&ads.xumo_contentName=PBSNature&ads.xumo_providerName=&ads._fw_content_language=en&ads.assetId=&ads._fw_content_genre=&ads.xumo_providerId=&ads._fw_content_rating=&ads.channelId=99951195&ads.xumo_platform=web&ads.site_id=22453
@@ -270,19 +279,13 @@ https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 
 #EXTINF:-1  tvg-id="Science.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-icon-shade-us.png?raw=true" group-title="DaddyLive USA",Science Channel
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium294%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="TheTVApp",Science HD
-https://e4.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8?token=EsrAyzek_oDZvmlRGMigQw&expires=1762292655&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium294%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="Science SD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="TheTVApp",Science SD
-https://v18.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8?token=SbV4sx0lEPG1hcL9dG6COQ&expires=1762292645&user_id=SDJ5dkxMblFIWjE0aTNicFJpaTYzYjIyOXJKeUR2MjBLQWNQYXVlbQ==
+https://v18.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8?token=6IO29coyl3DnUThA6mpklg&expires=1762375355&user_id=b0dxNEVjZHk2aVU1T0NGcXkzaVg1d29KcG1WaHNtMFhuYTQ0VXE0OQ==
 
 #EXTINF:-1  tvg-id="Sky.HistoryHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-light-uk.png?raw=true" group-title="DaddyLive UK",Sky History
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium686%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
-
-#EXTINF:-1  tvg-name="Stingray Naturescape" tvg-id="647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png" group-title="PlexTV - Canada",Stingray Naturescape
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5.m3u8
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium686%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
 #EXTINF:-1  tvg-name="Stingray Naturescape" tvg-id="d12329eda6e3dcc1f42ce2a350a4623d" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d12329eda6e3dcc1f42ce2a350a4623d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260369972_Stingray_naturescape_HUDlogo_centered_260x147.png" tvg-chno="1070" group-title="RokuTV",Stingray Naturescape
 https://jmp2.uk/rok-d12329eda6e3dcc1f42ce2a350a4623d.m3u8
@@ -296,14 +299,8 @@ https://jmp2.uk/stvp-USAK3508705A
 #EXTINF:-1  tvg-name="True History" tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="PlexTV - Australia",True History
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97.m3u8
 
-#EXTINF:-1  tvg-name="True History" tvg-id="608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="PlexTV - Mexico",True History
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97.m3u8
-
 #EXTINF:-1  tvg-name="TuDiscovery" tvg-id="5e20b730f2f8d5003d739db7-671c2065128bc4121f80aef8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/293d1d81-5b4a-4437-bce3-0122ec04e028/Tu_discovery_logo_WHT_RDX.png" group-title="PlexTV - United States",TuDiscovery
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-671c2065128bc4121f80aef8.m3u8
-
-#EXTINF:-1  tvg-name="Xtreme Outdoor by HISTORY" tvg-id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f3e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bbd316dd-5cbc-41e1-8485-ff3a74d3c4af/Xtreme_Outdoor_Channel-Logo-Light-1500x1000.png" group-title="PlexTV - United States",Xtreme Outdoor by HISTORY
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f3e.m3u8
 
 #EXTINF:-1  tvg-name="Xtreme Outdoor Presented by HISTORY" tvg-id="6000a6f4c3f8550008fc9b91" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png" tvg-chno="1470" group-title="PlutoTV - United States",Xtreme Outdoor Presented by HISTORY
 https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
