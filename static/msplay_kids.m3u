@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-11-06 17:36:47 UTC
-# Total Channels: 109
+# Generated: 2025-11-07 17:36:06 UTC
+# Total Channels: 104
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== KIDS (109 channels) ======
+# ====== KIDS (104 channels) ======
 
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -80,9 +80,6 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1  tvg-name="Arizona's Family" tvg-id="ec2faed50af3503e934f0c342a7952fe" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ec2faed50af3503e934f0c342a7952fe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557956357_KPHO_EPG_Hud_LogoKPHO_HUD_logo_260x147_Centered.png" tvg-chno="4151" group-title="RokuTV",Arizona's Family
 https://jmp2.uk/rok-ec2faed50af3503e934f0c342a7952fe.m3u8
 
-#EXTINF:-1  tvg-name="At Home with Family Handyman" tvg-id="5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32fbd65b-0339-4652-989a-de219133f7ec/at-home-w-fhm_logo_dark_1500x1000.png" group-title="PlexTV - United States",At Home with Family Handyman
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1.m3u8
-
 #EXTINF:-1  tvg-name="At Home With Family Handyman" tvg-id="58673c6e05455569978456bdc210f9d7" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/58673c6e05455569978456bdc210f9d7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665788721370_HUD_Logo_At-Home-w-FHM_260x147.png" tvg-chno="467" group-title="RokuTV",At Home With Family Handyman
 https://jmp2.uk/rok-58673c6e05455569978456bdc210f9d7.m3u8
 
@@ -105,10 +102,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1  tvg-name="Boomerang HD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang HD
-https://v3.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=whs0Goam1MJi486wnlK2bA&expires=1762463963&user_id=NEJJV1JvUXh0bzVBbThGTktLRUNNTlJRYkczbWpFUEliMlVYMk9SQQ==
+https://v1.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=ifY-ZjZ9yaoxQKjjDXofMw&expires=1762550285&user_id=dFNUR2RuQWU2cTlMYnhUOTJPV2VpbVhyVzR1Y0ZZalJ6cDJmSHVjZw==
 
 #EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TheTVApp",Boomerang SD
-https://v18.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=QuADYQmssMPszUvLhcizhw&expires=1762463954&user_id=NEJJV1JvUXh0bzVBbThGTktLRUNNTlJRYkczbWpFUEliMlVYMk9SQQ==
+https://v5.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=7_AaNTWS_6DyEL8SOTC4sw&expires=1762550275&user_id=dFNUR2RuQWU2cTlMYnhUOTJPV2VpbVhyVzR1Y0ZZalJ6cDJmSHVjZw==
 
 #EXTINF:-1  tvg-name="Boomerang SD" tvg-id="boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" group-title="TVPass",Boomerang SD
 https://tvpass.org/live/Boomerang/sd
@@ -122,8 +119,11 @@ https://tvpass.org/live/DiscoveryFamily/hd
 #EXTINF:-1  tvg-name="DISCOVERY FAMILY CHANNEL" tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",DISCOVERY FAMILY CHANNEL
 https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
+#EXTINF:-1  tvg-name="Discovery Family Channel HD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TheTVApp",Discovery Family Channel HD
+https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=iJNKP0UMT-YPzYY39niTmw&expires=1762550567&user_id=dFNUR2RuQWU2cTlMYnhUOTJPV2VpbVhyVzR1Y0ZZalJ6cDJmSHVjZw==
+
 #EXTINF:-1  tvg-name="Discovery Family Channel SD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TheTVApp",Discovery Family Channel SD
-https://v4.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=y1Yckiry9mN1NO3cXB4lDQ&expires=1762464238&user_id=NEJJV1JvUXh0bzVBbThGTktLRUNNTlJRYkczbWpFUEliMlVYMk9SQQ==
+https://v3.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=lJIfc8hsH9IJ7KDYuDGbgg&expires=1762550558&user_id=dFNUR2RuQWU2cTlMYnhUOTJPV2VpbVhyVzR1Y0ZZalJ6cDJmSHVjZw==
 
 #EXTINF:-1  tvg-name="Discovery Family Channel SD" tvg-id="discovery-family-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" group-title="TVPass",Discovery Family Channel SD
 https://tvpass.org/live/DiscoveryFamily/sd
@@ -167,23 +167,20 @@ https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab
 #EXTINF:-1  tvg-name="Family Feud" tvg-id="5e20b730f2f8d5003d739db7-66a2d1390b91165254efdb3e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b3983fb-0a5d-4c5a-a7b7-bc9943847393/channel_logo_1500x1000_light.png__1_.png" group-title="PlexTV - United States",Family Feud
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2d1390b91165254efdb3e.m3u8
 
+#EXTINF:-1  tvg-name="Family Feud" tvg-id="672e4d915534bb0008c50168" tvg-logo="https://images.pluto.tv/channels/672e4d915534bb0008c50168/colorLogoPNG_1732662454856.png" tvg-chno="2290" group-title="PlutoTV - United States",Family Feud
+https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
+
 #EXTINF:-1  tvg-name="Family Feud" tvg-id="99991232" tvg-logo="https://image.xumo.com/v1/channels/channel/99991232/168x168.png?type=color_onBlack" group-title="Xumo Streams",Family Feud
 https://live-content.xumo.com/170/content/XM0MM8Y8ZYP1UA/28340097/master.m3u8
 
 #EXTINF:-1  tvg-id="GB500007VM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500007VM_20250513T005729SQUARE.png" tvg-chno="4122" group-title="SamsungTVPlus - UK",Family Feud (UK)
 https://jmp2.uk/stvp-GB500007VM
 
-#EXTINF:-1  tvg-name="Family Feud Classic" tvg-id="647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02e41ea5-71c0-4922-b313-5b37b19cb11d/FF_CLASSIC_Logo_lgt_BKG_1500x1000_-_Elaine_De_Santiago.png" group-title="PlexTV - Canada",Family Feud Classic
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a.m3u8
-
 #EXTINF:-1  tvg-name="Family Feud Classic" tvg-id="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02e41ea5-71c0-4922-b313-5b37b19cb11d/FF_CLASSIC_Logo_lgt_BKG_1500x1000_-_Elaine_De_Santiago.png" group-title="PlexTV - United States",Family Feud Classic
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a.m3u8
 
 #EXTINF:-1  tvg-name="Family Feud Classic" tvg-id="64c2222fb0cf5c0008288c4f" tvg-logo="https://images.pluto.tv/channels/64c2222fb0cf5c0008288c4f/colorLogoPNG.png" tvg-chno="502" group-title="PlutoTV - Canada",Family Feud Classic
 https://jmp2.uk/plu-64c2222fb0cf5c0008288c4f.m3u8
-
-#EXTINF:-1  tvg-name="Family Feud Classic" tvg-id="643f03b9d8436e0008edf021" tvg-logo="https://images.pluto.tv/channels/643f03b9d8436e0008edf021/colorLogoPNG.png" tvg-chno="2300" group-title="PlutoTV - United States",Family Feud Classic
-https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
 
 #EXTINF:-1  tvg-name="Family Ties" tvg-id="620bb260821a860007b2d3df" tvg-logo="https://images.pluto.tv/channels/620bb260821a860007b2d3df/colorLogoPNG.png" tvg-chno="10" group-title="PlutoTV - United Kingdom",Family Ties
 https://jmp2.uk/plu-620bb260821a860007b2d3df.m3u8
@@ -239,9 +236,6 @@ https://jmp2.uk/stvp-GB900003KR
 #EXTINF:-1  tvg-id="Nick.Jr.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="DaddyLive USA",NICK JR
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium329%2Fmono.m3u8%0D&data=T3JpZ2luPWh0dHBzOi8vZXBpY3BsYXlwbGF5LmNmZHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4w
 
-#EXTINF:-1  tvg-name="Nick Jr." tvg-id="Nick.Jr.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="AriaPlus - United States",Nick Jr.
-https://tvpass.org/live/NickJrEast/hd
-
 #EXTINF:-1  tvg-name="Nick Jr. Club" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" tvg-chno="1402" group-title="PlutoTV - Mexico",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 
@@ -249,7 +243,7 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 https://a1xs.vip/300033
 
 #EXTINF:-1  tvg-name="Nick Jr. HD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TheTVApp",Nick Jr. HD
-https://v18.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=CrAIWOIeokBbsnrjJ4spaw&expires=1762465272&user_id=NEJJV1JvUXh0bzVBbThGTktLRUNNTlJRYkczbWpFUEliMlVYMk9SQQ==
+https://v2.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=3-E1eI9cmsXyJXezLD6kWQ&expires=1762551585&user_id=dFNUR2RuQWU2cTlMYnhUOTJPV2VpbVhyVzR1Y0ZZalJ6cDJmSHVjZw==
 
 #EXTINF:-1  tvg-name="Nick Jr. Pluto TV" tvg-id="62bdb75c3afd1200079146a6" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" tvg-chno="601" group-title="PlutoTV - Canada",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
@@ -258,7 +252,7 @@ https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 
 #EXTINF:-1  tvg-name="Nick Jr. SD" tvg-id="nick-jr-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" group-title="TheTVApp",Nick Jr. SD
-https://v4.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=2pJmAzv-LsIf2SJRBp29yw&expires=1762465263&user_id=NEJJV1JvUXh0bzVBbThGTktLRUNNTlJRYkczbWpFUEliMlVYMk9SQQ==
+https://e1.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=4I0M4UkZ_EBYkytmqQRZfA&expires=1762551576&user_id=dFNUR2RuQWU2cTlMYnhUOTJPV2VpbVhyVzR1Y0ZZalJ6cDJmSHVjZw==
 
 #EXTINF:-1  tvg-name="Nick Jr. UK FHD" tvg-id="Nick.Jr..HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/nick-jr-in.png?raw=true" group-title="A1xmedia UK Channels" radio="false",Nick Jr. UK FHD
 https://a1xs.vip/1000052
@@ -272,11 +266,8 @@ https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-name="Nickelodeon Clásico" tvg-id="6824cda00101510f9eeaa011" tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png" tvg-chno="1440" group-title="PlutoTV - Mexico",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 
-#EXTINF:-1  tvg-name="Nickelodeon East HD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="TheTVApp",Nickelodeon East HD
-https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=SCjOYvDlpyy1fjz3lP6e9w&expires=1762465291&user_id=NEJJV1JvUXh0bzVBbThGTktLRUNNTlJRYkczbWpFUEliMlVYMk9SQQ==
-
 #EXTINF:-1  tvg-name="Nickelodeon East SD" tvg-id="nickelodeon-usa-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="TheTVApp",Nickelodeon East SD
-https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=rxD7Q23NbqOYef2tAfsw-g&expires=1762465282&user_id=NEJJV1JvUXh0bzVBbThGTktLRUNNTlJRYkczbWpFUEliMlVYMk9SQQ==
+https://e2.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=3Vg2iW748RLLayRL2WwVug&expires=1762551595&user_id=dFNUR2RuQWU2cTlMYnhUOTJPV2VpbVhyVzR1Y0ZZalJ6cDJmSHVjZw==
 
 #EXTINF:-1  tvg-name="Nickelodeon en español" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-chno="3780" group-title="PlutoTV - United States",Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
@@ -320,17 +311,11 @@ https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 #EXTINF:-1  tvg-name="Pluto TV Kids" tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" tvg-chno="885" group-title="PlutoTV - United Kingdom",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
 
-#EXTINF:-1  tvg-name="Pluto TV Kids Halloween" tvg-id="6874adbb3ffa5e0c917f721e" tvg-logo="https://images.pluto.tv/channels/6874adbb3ffa5e0c917f721e/colorLogoPNG_1752477271118.png" tvg-chno="600" group-title="PlutoTV - Canada",Pluto TV Kids Halloween
-https://jmp2.uk/plu-6874adbb3ffa5e0c917f721e.m3u8
-
 #EXTINF:-1  tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" tvg-chno="3666" group-title="SamsungTVPlus - USA",TG Junior (USA)
 https://jmp2.uk/stvp-USBB3600001R6
 
 #EXTINF:-1  tvg-name="The Addams Family" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" tvg-chno="560" group-title="PlutoTV - United States",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
-
-#EXTINF:-1  tvg-name="The Kids in the Hall" tvg-id="5e20b730f2f8d5003d739db7-670858335b42d01c9391e325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png" group-title="PlexTV - Australia",The Kids in the Hall
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-670858335b42d01c9391e325.m3u8
 
 #EXTINF:-1  tvg-name="Xumo Free Kids TV" tvg-id="99991107" tvg-logo="https://image.xumo.com/v1/channels/channel/99991107/168x168.png?type=color_onBlack" group-title="Xumo Streams",Xumo Free Kids TV
 https://live-content.xumo.com/4235/content/XM0FGY15PW3IY6/27951845/master.m3u8
