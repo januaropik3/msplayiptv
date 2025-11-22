@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-11-21 17:26:45 UTC
+# Generated: 2025-11-22 17:24:09 UTC
 # Total Channels: 50
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -119,6 +119,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Italy",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
+#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" group-title="Italy",Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 
@@ -148,9 +151,6 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 
 #EXTINF:-1 tvg-name="TeleRadioStereo Ⓣ" tvg-logo="https://i.imgur.com/eRNgqnA.png" group-title="Italy",TeleRadioStereo Ⓣ
 https://www.twitch.tv/teleradiostereo
-
-#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="Italy",TRL Tele Radio Leo
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="Italy",Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8

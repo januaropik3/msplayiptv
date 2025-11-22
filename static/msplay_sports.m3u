@@ -1,18 +1,21 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-11-21 17:26:45 UTC
-# Total Channels: 32
+# Generated: 2025-11-22 17:24:09 UTC
+# Total Channels: 35
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (32 channels) ======
+# ====== SPORTS (35 channels) ======
 
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
 #EXTINF:-1 tvg-name="Antenna 2 Bergamo" tvg-logo="https://i.imgur.com/NfvHIAw.png" group-title="Italy",Antenna 2 Bergamo
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bergamo Tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" group-title="Italy",Bergamo Tv
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="Italy",Cittaceleste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
@@ -61,6 +64,12 @@ https://www.youtube.com/watch?v=I8dnZoF1nOE
 
 #EXTINF:-1 tvg-name="Radio Immagine Tv" tvg-logo="https://i.imgur.com/iQlXRAB.png" group-title="Italy",Radio Immagine Tv
 https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="Italy",Rai Sport Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" group-title="Italy",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 
 #EXTINF:-1 tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Ⓖ
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8

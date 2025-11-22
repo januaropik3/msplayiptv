@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-11-21 17:26:45 UTC
-# Total Channels: 258
+# Generated: 2025-11-22 17:24:09 UTC
+# Total Channels: 263
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (258 channels) ======
+# ====== NEWS (263 channels) ======
 
 #EXTINF:-1 tvg-name="16 anni e incinta – Pluto TV" tvg-logo="https://i.imgur.com/4BHrbP7.png" group-title="VOD Italy",16 anni e incinta – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -386,6 +386,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c9
 #EXTINF:-1 tvg-name="La 2 (Canarias)" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2Canarias.es" group-title="Spain",La 2 (Canarias)
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 
+#EXTINF:-1 tvg-name="LaC News 24" tvg-logo="https://i.imgur.com/02vCECa.png" group-title="Italy",LaC News 24
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Le sorelle mcleod – Pluto TV" tvg-logo="https://i.imgur.com/P310ryf.png" group-title="VOD Italy",Le sorelle mcleod – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -436,6 +439,9 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="VOD Movies (EN)",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-name="Partenope Tv" tvg-logo="https://i.imgur.com/FtuWkj1.png" group-title="Italy",Partenope Tv
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 
 #EXTINF:-1 tvg-name="Peer Tv Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-id="PeerTV.it" group-title="Italy",Peer Tv Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
@@ -503,6 +509,9 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-name="Radio Libertà" tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="Italy",Radio Libertà
 https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" group-title="Italy",Radio m2o Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" group-title="Italy",Rai News 24 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 
@@ -536,6 +545,9 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-name="RTC Telecalabria" tvg-logo="https://i.imgur.com/tTYLcuh.jpg" tvg-id="RTCTelecalabria.it" group-title="Italy",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" group-title="Hong Kong",RTHK TV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
 #EXTINF:-1 tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk" group-title="Hong Kong",RTHK TV 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
@@ -568,6 +580,9 @@ http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/640px-RTP1_-_Logo_2016.svg.png" tvg-id="RTP1.pt" group-title="Portugal",RTP1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTP2 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png" tvg-id="RTP2.pt" group-title="Portugal",RTP2 Ⓖ
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTP3.pt" group-title="Portugal",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
