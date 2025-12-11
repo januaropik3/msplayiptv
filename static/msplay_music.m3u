@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-12-10 17:32:21 UTC
+# Generated: 2025-12-11 17:36:29 UTC
 # Total Channels: 53
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -143,9 +143,6 @@ https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-name="Sundom TV Ⓨ" tvg-logo="https://i.imgur.com/WgwR7nJ.png" tvg-id="SundomTV.fi" group-title="Finland",Sundom TV Ⓨ
 https://www.youtube.com/@SundomTV/live
 
-#EXTINF:-1 tvg-name="Tele Cupole" tvg-logo="https://i.imgur.com/ZmUI9zb.png" group-title="Italy",Tele Cupole
-https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Tele Radio Pace 1" tvg-logo="https://i.imgur.com/ORkkXM8.png" group-title="Italy",Tele Radio Pace 1
 https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
 
@@ -160,6 +157,9 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 
 #EXTINF:-1 tvg-name="TeleRadioStereo Ⓣ" tvg-logo="https://i.imgur.com/eRNgqnA.png" group-title="Italy",TeleRadioStereo Ⓣ
 https://www.twitch.tv/teleradiostereo
+
+#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="Italy",TRL Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="Italy",Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8
