@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2025-12-16 17:33:51 UTC
-# Total Channels: 53
+# Generated: 2025-12-17 17:32:53 UTC
+# Total Channels: 51
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (53 channels) ======
+# ====== MUSIC (51 channels) ======
 
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
@@ -40,9 +40,6 @@ https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
 #EXTINF:-1 tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" tvg-id="AVA.fi" group-title="Finland",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
-
-#EXTINF:-1 tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" tvg-id="Sub.fi" group-title="Finland",MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" tvg-id="MTVUutiset.fi" group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
@@ -127,9 +124,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Italy",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-
-#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" group-title="Italy",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
