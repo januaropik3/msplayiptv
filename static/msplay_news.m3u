@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-01-07 17:39:13 UTC
-# Total Channels: 239
+# Generated: 2026-01-08 17:36:50 UTC
+# Total Channels: 243
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (239 channels) ======
+# ====== NEWS (243 channels) ======
 
 #EXTINF:-1 tvg-name="16 anni e incinta – Pluto TV" tvg-logo="https://i.imgur.com/4BHrbP7.png" group-title="VOD Italy",16 anni e incinta – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -83,9 +83,6 @@ https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 #EXTINF:-1 tvg-name="Aragón TV Ⓢ" tvg-logo="https://i.imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" group-title="Spain",Aragón TV Ⓢ
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" group-title="Italy",Aristanis SuperTv
-https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Arte Network Orler" tvg-logo="https://i.imgur.com/DP5y0Er.png" group-title="Italy",Arte Network Orler
 https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 
@@ -143,6 +140,24 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b6
 #EXTINF:-1 tvg-name="Center TV" tvg-logo="https://i.imgur.com/52JW71Q.png" tvg-id="CenterTV.gr" group-title="Greece",Center TV
 https://eu1.streams.gr:8081/centertv/index.m3u8
 
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="News",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Documentary English Ⓢ" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-id="CGTNDocumentary.cn" group-title="Documentaries (EN)",CGTN Documentary English Ⓢ
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNSpanish.cn" group-title="News (ES)",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Français" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNFrench.cn" group-title="France",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Pусский" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNRussian.cn" group-title="Russia",CGTN Pусский
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+
+#EXTINF:-1 tvg-name="CGTN العربية" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNArabic.cn" group-title="News (AR)",CGTN العربية
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="VOD Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
@@ -157,9 +172,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d83
 
 #EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="VOD Movies (EN)",Classic Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="Club RTL" tvg-logo="https://i.imgur.com/e9GkFwY.png" tvg-id="ClubRTL.be" group-title="Belgium",Club RTL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts
 
 #EXTINF:-1 tvg-name="CNBC Europe" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" group-title="Business",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
@@ -338,6 +350,9 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" group-title="Brazil",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
+#EXTINF:-1 tvg-name="Iunior Tv" tvg-logo="https://i.imgur.com/9jeNlLE.png" tvg-id="IuniorTV.it" group-title="Italy",Iunior Tv
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Joy News" tvg-logo="https://i.imgur.com/kGuMNmR.png" tvg-id="JoyNews.gh" group-title="News",Joy News
 https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
 
@@ -412,9 +427,6 @@ https://iptv.peer.biz/live/peertv.m3u8
 
 #EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
 http://rtmp.one.by:1200
-
-#EXTINF:-1 tvg-name="Plug RTL" tvg-logo="https://i.imgur.com/iAZZWkZ.png" tvg-id="PlugRTL.be" group-title="Belgium",Plug RTL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
 
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="VOD Movies (EN)",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false

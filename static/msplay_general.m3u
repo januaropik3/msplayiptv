@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-01-07 17:39:13 UTC
-# Total Channels: 550
+# Generated: 2026-01-08 17:36:50 UTC
+# Total Channels: 540
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== GENERAL (550 channels) ======
+# ====== GENERAL (540 channels) ======
 
 #EXTINF:-1 tvg-name="111 Tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Italy",111 Tv
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -221,9 +221,6 @@ https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" tvg-id="CanaleItalia.it" group-title="Italy",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canvas" tvg-logo="https://i.imgur.com/GQkhACx.png" tvg-id="Canvas.be" group-title="Belgium",Canvas
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.ts
-
 #EXTINF:-1 tvg-name="Carina Tv" tvg-logo="https://i.imgur.com/FMGcm6I.jpg" group-title="Italy",Carina Tv
 https://samson.streamerr.co:8081/carinatv/index.m3u8
 
@@ -419,9 +416,6 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-name="First Channel /Education/ (2TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/ka/c/c9/2_Tv_Logo.jpg" tvg-id="2TV.ge" group-title="Georgia",First Channel /Education/ (2TV)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
-#EXTINF:-1 tvg-name="FM Tv Marche" tvg-logo="https://i.imgur.com/yY01NhL.jpg" group-title="Italy",FM Tv Marche
-https://bbtv.intvstream.net:3988/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-name="FM104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" tvg-id="fm104.ie" group-title="Ireland",FM104
 https://wg.cdn.tibus.net/fm104MP3128
 
@@ -611,9 +605,6 @@ https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
 #EXTINF:-1 tvg-name="La tr3 Marsala" tvg-logo="https://i.imgur.com/XlxpfEx.png" group-title="Italy",La tr3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" tvg-id="LaTrois.be" group-title="Belgium",La Trois
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts
-
 #EXTINF:-1 tvg-name="La Une" tvg-logo="https://i.imgur.com/hJodwJt.png" tvg-id="LaUne.be" group-title="Belgium",La Une
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8
 
@@ -625,6 +616,9 @@ https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec
 
 #EXTINF:-1 tvg-name="LaC Tv Calabria" tvg-logo="https://i.imgur.com/2Ef6crS.png" group-title="Italy",LaC Tv Calabria
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lazio Tv" tvg-logo="https://i.imgur.com/DAj5Uwb.png" group-title="Italy",Lazio Tv
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" tvg-id="LCP.fr" group-title="France",LCP
 https://lcp.fr/le-live-lcp-tnt-5433
@@ -785,11 +779,11 @@ http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-name="Nuova Tv 1" tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="Italy",Nuova Tv 1
 https://nuovatv.net:8443/tv/stream.m3u8
 
+#EXTINF:-1 tvg-name="Nuova Tv 2" tvg-logo="https://i.imgur.com/0vauyV3.png" group-title="Italy",Nuova Tv 2
+https://nuovatv.net:8443/tv2/stream.m3u8
+
 #EXTINF:-1 tvg-name="Nuvola Tv" tvg-logo="https://i.imgur.com/EDGez2x.png" group-title="Italy",Nuvola Tv
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
-
-#EXTINF:-1 tvg-name="Odeon 24" tvg-logo="https://i.imgur.com/M1tVBuH.png" group-title="Italy",Odeon 24
-https://streaming.softwarecreation.it/Odeon/Odeon/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" tvg-id="OmroepBrabantTV.nl" group-title="Netherlands",Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
@@ -854,14 +848,8 @@ https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Pervyy gorodskoy Odessa" tvg-logo="https://i.imgur.com/8qdc6aO.png" tvg-id="PervyygorodskoyOdessa.ua" group-title="Ukraine",Pervyy gorodskoy Odessa
 https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="Italy",Prima Tv Napoli
-https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Prima Tv Sicilia" tvg-logo="https://i.imgur.com/br45JER.png" group-title="Italy",Prima Tv Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png" group-title="Italy",Primocanale
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PTS Taigi (公視台語台) Ⓨ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png" tvg-id="PTSTaigi.tw" group-title="Taiwan",PTS Taigi (公視台語台) Ⓨ Ⓖ
 https://www.youtube.com/watch?v=6KlRR_DGhmI
@@ -1061,9 +1049,6 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" group-title="Chile",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="T9" tvg-logo="https://i.imgur.com/XzL05Py.png" group-title="Italy",T9
-https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Taevas TV7" tvg-logo="https://i.imgur.com/usXedIj.png" tvg-id="TaevasTV7.fi" group-title="Estonia",Taevas TV7
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
 
@@ -1226,9 +1211,6 @@ https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 tvg-name="Teleuniverso" tvg-logo="https://i.imgur.com/u8E9wBb.png" group-title="Italy",Teleuniverso
 https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
 
-#EXTINF:-1 tvg-name="Televallo Trapani" tvg-logo="https://i.imgur.com/P6zuiRH.png" group-title="Italy",Televallo Trapani
-https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Televisa Telenovelas" tvg-logo="https://i.imgur.com/GaJIRN3.jpg" group-title="VOD Italy",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
@@ -1246,9 +1228,6 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 
 #EXTINF:-1 tvg-name="TG Norba 24" tvg-logo="https://i.imgur.com/9MhrrJK.png" tvg-id="TGNorba24.it" group-title="Italy",TG Norba 24
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/cPTLian.png" group-title="VOD Italy",The Boat Show
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
 
 #EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/daTU44g.jpeg" group-title="VOD Italy",The Pet Collective
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
@@ -1403,14 +1382,8 @@ https://www.dailymotion.com/embed/video/x828i6j
 #EXTINF:-1 tvg-name="Viaplay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/640px-Viaplay_TV_logo.svg.png" tvg-id="ViaplayTV.fi" group-title="Finland",Viaplay TV
 https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-name="Video Calabria" tvg-logo="https://i.imgur.com/Bc2AvIm.png" tvg-id="VideoCalabria.it" group-title="Italy",Video Calabria
-https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Video Mediterraneo" tvg-logo="https://i.imgur.com/hJHC3uQ.png" group-title="Italy",Video Mediterraneo
 https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Video Nola" tvg-logo="https://i.imgur.com/M5z5UoD.jpg" group-title="Italy",Video Nola
-https://videonola.aswifi.it/videonolaabr/live.m3u8
 
 #EXTINF:-1 tvg-name="Video Regione Sicilia" tvg-logo="https://i.imgur.com/0szwnR3.png" group-title="Italy",Video Regione Sicilia
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
@@ -1429,12 +1402,6 @@ https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
 
 #EXTINF:-1 tvg-name="Vidusdaugavas Televīzija" tvg-logo="https://i.imgur.com/L5U3PQR.png" tvg-id="VidusdaugavasTelevizija.lv" group-title="Latvia",Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
-
-#EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" group-title="Belgium",VIJF
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
-
-#EXTINF:-1 tvg-name="VTM" tvg-logo="https://i.imgur.com/fUxRP9x.png" tvg-id="VTM.be" group-title="Belgium",VTM
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.ts
 
 #EXTINF:-1 tvg-name="Vásárhelyi Televízió" tvg-logo="https://i.imgur.com/WOEqdmx.png" tvg-id="VasarhelyiTelevizio.hu" group-title="Hungary",Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
@@ -1627,6 +1594,9 @@ http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
 
 #EXTINF:-1 tvg-name="ТВ НОВА 12" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" tvg-id="tvnova12.mk" group-title="North Macedonia",ТВ НОВА 12
 http://151.236.247.171:8080/nova/index.m3u8
+
+#EXTINF:-1 tvg-name="ТВ СВЕТ" tvg-logo="https://i.imgur.com/R79xT60.png" tvg-id="tvsvet.com.mk" group-title="North Macedonia",ТВ СВЕТ
+http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
 
 #EXTINF:-1 tvg-name="Телевизија Здравкин" tvg-logo="https://i.imgur.com/kSmcAER.png" tvg-id="Zdravkin" group-title="North Macedonia",Телевизија Здравкин
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8

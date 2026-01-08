@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-01-07 17:39:13 UTC
-# Total Channels: 34
+# Generated: 2026-01-08 17:36:50 UTC
+# Total Channels: 33
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (34 channels) ======
+# ====== SPORTS (33 channels) ======
 
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
@@ -103,9 +103,6 @@ http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 
 #EXTINF:-1 tvg-name="Telecolor" tvg-logo="https://i.imgur.com/urUG78J.png" tvg-id="TelecolorLombardia.it" group-title="Italy",Telecolor
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
-
-#EXTINF:-1 tvg-name="VIER" tvg-logo="https://i.imgur.com/bFTXP2e.png" group-title="Belgium",VIER
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 
 #EXTINF:-1 tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-id="XSport.ua" group-title="Ukraine",XSport Ⓢ
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
