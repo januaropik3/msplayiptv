@@ -1,12 +1,15 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-01-27 17:38:53 UTC
-# Total Channels: 1
+# Generated: 2026-01-28 17:42:01 UTC
+# Total Channels: 2
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== ENTERTAINMENT (1 channels) ======
+# ====== ENTERTAINMENT (2 channels) ======
 
 #EXTINF:-1 tvg-name="il61" tvg-logo="https://i.imgur.com/1rUZsBv.png" group-title="Italy",il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" tvg-id="TravelTV.it" group-title="Italy",Travel TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
