@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-01-29 17:46:27 UTC
-# Total Channels: 246
+# Generated: 2026-01-30 17:43:47 UTC
+# Total Channels: 248
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (246 channels) ======
+# ====== NEWS (248 channels) ======
 
 #EXTINF:-1 tvg-name="16 anni e incinta – Pluto TV" tvg-logo="https://i.imgur.com/4BHrbP7.png" group-title="VOD Italy",16 anni e incinta – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -166,6 +166,9 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="VOD Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" group-title="News",Channel News Asia
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 
 #EXTINF:-1 tvg-name="Christmas – Pluto TV" tvg-logo="https://i.imgur.com/tQ8lN30.png" group-title="VOD Italy",Christmas – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -712,6 +715,9 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="Turkey",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" group-title="News",TRT World
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 
 #EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/QLFmD6d.png" tvg-id="TRTCocuk.tr" group-title="Turkey",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
