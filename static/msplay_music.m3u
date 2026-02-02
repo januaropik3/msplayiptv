@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-02-01 17:34:49 UTC
-# Total Channels: 50
+# Generated: 2026-02-02 17:49:00 UTC
+# Total Channels: 48
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (50 channels) ======
+# ====== MUSIC (48 channels) ======
 
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
@@ -92,9 +92,6 @@ https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-id="KissKissTV.it" group-title="Italy",Radio KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Radio Monte Kronio Tv (R.M.K.)" tvg-logo="https://i.imgur.com/t0I2Shi.jpg" group-title="Italy",Radio Monte Kronio Tv (R.M.K.)
-https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-id="RadioMonteCarloTV.it" group-title="Italy",Radio Montecarlo TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
@@ -124,9 +121,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Italy",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-
-#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" group-title="Italy",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
