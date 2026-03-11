@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-03-10 17:55:10 UTC
+# Generated: 2026-03-11 17:55:36 UTC
 # Total Channels: 280
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -82,9 +82,6 @@ https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aragón TV Ⓢ" tvg-logo="https://i.imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" tvg-country="ES" group-title="Spain",Aragón TV Ⓢ
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" tvg-country="IT" group-title="Italy",Aristanis SuperTv
-https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ART TV" tvg-logo="https://i.imgur.com/LyCqQvx.png" tvg-id="arttv.gr" tvg-country="GR" group-title="Greece",ART TV
 https://rtmp.win:3696/live/arttvgrlive.m3u8
@@ -178,9 +175,6 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="VOD Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" group-title="News",Channel News Asia
-https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 
 #EXTINF:-1 tvg-name="Christmas – Pluto TV" tvg-logo="https://i.imgur.com/tQ8lN30.png" group-title="VOD Italy",Christmas – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -389,8 +383,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.imgur.com/PeuBkaH.png" tvg-id="INews.iq" tvg-country="IQ" group-title="Iraq",iNEWS
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" tvg-country="BR" group-title="Brazil",ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+#EXTINF:-1 tvg-name="Iunior Tv" tvg-logo="https://i.imgur.com/9jeNlLE.png" tvg-id="IuniorTV.it" tvg-country="IT" group-title="Italy",Iunior Tv
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Jersey Shore – Pluto TV" tvg-logo="https://i.imgur.com/HIlmQEy.png" group-title="VOD Italy",Jersey Shore – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5767da71180008ace8fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -671,6 +665,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff272
 #EXTINF:-1 tvg-name="Settimo Cielo – Pluto TV" tvg-logo="https://i.imgur.com/TC5lo6r.png" group-title="VOD Italy",Settimo Cielo – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News (UK)
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="United Arab Emirates",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
@@ -764,8 +761,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f988
 #EXTINF:-1 tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-id="trttv.gr" tvg-country="GR" group-title="Greece",TRT
 https://av.hellasnet.tv/rst/trt/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" tvg-id="TRT2.tr" tvg-country="TR" group-title="Turkey",TRT 2 Ⓖ
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" tvg-country="TR" group-title="Turkey",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" tvg-country="TR" group-title="Turkey",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -796,6 +793,9 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" tvg-country="TR" group-title="Turkey",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" group-title="News",TRT World
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 
 #EXTINF:-1 tvg-name="TTV News (台視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-id="TTVNews.tw" tvg-country="TW" group-title="Taiwan",TTV News (台視新聞台) Ⓨ
 https://www.youtube.com/watch?v=xL0ch83RAK8
