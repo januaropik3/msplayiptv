@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-04-04 17:41:40 UTC
-# Total Channels: 34
+# Generated: 2026-04-05 17:41:43 UTC
+# Total Channels: 35
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (34 channels) ======
+# ====== SPORTS (35 channels) ======
 
 #EXTINF:-1 tvg-name=":Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" tvg-country="SK" group-title="Slovakia",:Šport
 https://sktv.plainrock127.xyz/get.php?x=SPORT
@@ -43,6 +43,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d
 
 #EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" tvg-id="MotorTrend.it" tvg-country="IT" group-title="Italy",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:-1 tvg-name="M»Net Sport" tvg-logo="https://i.imgur.com/q3DV2gP.png" tvg-id="sport.mnet.mk" tvg-country="MK" group-title="North Macedonia",M»Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
 
 #EXTINF:-1 tvg-name="OBS TV" tvg-logo="https://i.imgur.com/oWB3ApR.png" tvg-id="OBSGyeonginTV.kr" tvg-country="KR" group-title="Korea",OBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
