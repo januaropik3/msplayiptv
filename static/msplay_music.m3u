@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-04-05 17:41:43 UTC
-# Total Channels: 62
+# Generated: 2026-04-06 17:55:44 UTC
+# Total Channels: 61
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (62 channels) ======
+# ====== MUSIC (61 channels) ======
 
 #EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" tvg-country="SK" group-title="Slovakia",:24
 https://sktv.plainrock127.xyz/get.php?x=STV24
@@ -172,9 +172,6 @@ https://www.twitch.tv/teleradiostereo
 
 #EXTINF:-1 tvg-name="TN Live" tvg-logo="https://i.imgur.com/9P7ZyFu.png" tvg-id="" tvg-country="CZ" group-title="Czech Republic",TN Live
 https://sktv.plainrock127.xyz/get.php?x=NovaTNLive
-
-#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" tvg-country="IT" group-title="Italy",TRL Tele Radio Leo
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" tvg-country="CZ" group-title="Czech Republic",TV Nova Ⓢ
 https://sktv.plainrock127.xyz/get.php?x=Nova
