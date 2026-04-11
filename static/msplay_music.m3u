@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-04-10 17:55:24 UTC
-# Total Channels: 62
+# Generated: 2026-04-11 17:41:53 UTC
+# Total Channels: 63
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (62 channels) ======
+# ====== MUSIC (63 channels) ======
 
 #EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" tvg-chno="3" tvg-country="SK" group-title="Slovakia",:24
 https://sktv.plainrock127.xyz/get.php?x=STV24
@@ -47,11 +47,17 @@ https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/4U6Ju5G.png" tvg-id="JazzTV.mk" tvg-chno="4" tvg-country="MK" group-title="North Macedonia",Jazz TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 
-#EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-id="LatinaTV.ve" tvg-chno="10" tvg-country="VE" group-title="Venezuela",Latina TV
-https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" tvg-id="AVA.fi" tvg-chno="13" tvg-country="FI" group-title="Finland",MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
+
+#EXTINF:-1 tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" tvg-id="Sub.fi" tvg-chno="6" tvg-country="FI" group-title="Finland",MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" tvg-id="MTVUutiset.fi" tvg-chno="99" tvg-country="FI" group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+
+#EXTINF:-1 tvg-name="MTV3" tvg-logo="https://i.imgur.com/kNbmc8n.png" tvg-id="MTV3.fi" tvg-chno="3" tvg-country="FI" group-title="Finland",MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="Music Channel" tvg-logo="http://media.boni-records.com/logo.png" tvg-id="Boni-Records.com.us" tvg-chno="3" tvg-country="US" group-title="USA",Music Channel
 http://media.boni-records.com/index.m3u8
@@ -133,9 +139,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-country="IT" group-title="Italy",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-
-#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" tvg-chno="202" tvg-country="IT" group-title="Italy",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" tvg-chno="265" tvg-country="IT" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
