@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-09-06 19:02:10 UTC
-# Total Channels: 17
+# Generated: 2026-09-07 20:28:18 UTC
+# Total Channels: 15
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MOVIES (17 channels) ======
+# ====== MOVIES (15 channels) ======
 
 #EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" tvg-chno="13" tvg-country="CL" group-title="Chile",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
@@ -46,12 +46,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 
 #EXTINF:-1 tvg-name="MovieBox" tvg-logo="" tvg-id="MovieBox.mn" tvg-chno="16" tvg-country="MN" group-title="Mongolia",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
-
-#EXTINF:-1 tvg-name="Nova Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" tvg-id="NovaAction.cz" tvg-chno="10" tvg-country="CZ" group-title="Czech Republic",Nova Action
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
-
-#EXTINF:-1 tvg-name="Nova Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" tvg-id="NovaCinema.cz" tvg-chno="9" tvg-country="CZ" group-title="Czech Republic",Nova Cinema
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8

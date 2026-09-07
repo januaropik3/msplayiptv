@@ -1,15 +1,18 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-09-06 19:02:10 UTC
-# Total Channels: 67
+# Generated: 2026-09-07 20:28:18 UTC
+# Total Channels: 68
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (67 channels) ======
+# ====== SPORTS (68 channels) ======
 
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
+#EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" tvg-chno="65" tvg-country="IT" group-title="Italy",Alma TV
+https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Antenna 2 Bergamo" tvg-logo="https://i.imgur.com/NfvHIAw.png" tvg-country="IT" group-title="Italy",Antenna 2 Bergamo
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
@@ -31,6 +34,9 @@ https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442F
 
 #EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" tvg-chno="4004" group-title="VOD Italy",Commedia – Rakuten TV
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-id="DonnaTV.it" tvg-chno="62" tvg-country="IT" group-title="Italy",Donna TV Ⓢ
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" tvg-chno="4998" group-title="VOD Italy",Drammatico – Rakuten TV
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
@@ -202,9 +208,6 @@ http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 
 #EXTINF:-1 tvg-name="ČT sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="CTSport.cz" tvg-chno="4" tvg-country="CZ" group-title="Czech Republic",ČT sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="" tvg-chno="7" tvg-country="CZ" group-title="Czech Republic",ČT sport Plus
-https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
 
 #EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-id="SolovyovLive.ru" tvg-country="RU" group-title="Russia",Соловьёв Live
 https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
